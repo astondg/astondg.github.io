@@ -203,6 +203,21 @@
   .foot{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
   .foot .name{font-weight:700}
   .foot .note{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--faint)}
+  /* LIVING SIGNALS */
+  .activity{margin-top:34px;border-top:1px solid var(--border);padding-top:26px}
+  .activity-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+  .sig-stamp{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--faint);display:inline-flex;align-items:center;gap:7px}
+  .sig-stamp .live-dot{width:7px;height:7px;border-radius:50%;background:var(--accent-2);animation:pulse 2.4s infinite}
+  .activity-list{list-style:none;display:flex;flex-direction:column;gap:8px}
+  .activity-list li{display:flex;gap:14px;align-items:baseline;border:1px solid var(--border);background:var(--panel);border-radius:10px;padding:11px 15px}
+  .activity-list .arepo{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--accent-2);white-space:nowrap}
+  .activity-list .amsg{color:var(--text);font-size:.92rem;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .activity-list .awhen{color:var(--faint);font-family:'JetBrains Mono',monospace;font-size:12px;white-space:nowrap}
+  .activity-list .awhen:hover{color:var(--accent-2)}
+  .health{display:inline-flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:12px;margin-left:10px;vertical-align:middle}
+  .health .d{width:7px;height:7px;border-radius:50%}
+  .health.up{color:var(--accent-2)} .health.up .d{background:var(--accent-2);box-shadow:0 0 8px var(--accent-2)}
+  .health.down{color:#ff8080} .health.down .d{background:#ff8080}
   .reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
   .reveal.in{opacity:1;transform:none}
 </style>
@@ -269,7 +284,7 @@
           <div class="top"><h3>aitrips.io</h3><span class="pill live">Live</span></div>
           <p>AI-powered trip planning with MCP integration. Chat with any AI assistant to build itineraries that save to a real web app — interactive maps, route visualisation, day-by-day planning. Works standalone too.</p>
           <div class="tags"><span class="tag">MCP</span><span class="tag">AI / LLM</span><span class="tag">Full-stack</span><span class="tag">Maps</span></div>
-          <a class="link" href="https://aitrips.io" target="_blank" rel="noopener">aitrips.io →</a>
+          <a class="link" href="https://aitrips.io" target="_blank" rel="noopener">aitrips.io →</a><span class="health" id="aitripsHealth" hidden><span class="d"></span><span class="t"></span></span>
         </div>
 
         <div class="card reveal">
@@ -293,6 +308,14 @@
           <a class="link" href="https://github.com/astondg/next-departure" target="_blank" rel="noopener">GitHub →</a>
         </div>
 
+      </div>
+
+      <div class="activity" id="activity" hidden>
+        <div class="activity-head">
+          <span class="eyebrow">// recent activity</span>
+          <span class="sig-stamp" id="sigStamp"></span>
+        </div>
+        <ul class="activity-list" id="activityList"></ul>
       </div>
     </div>
   </section>
@@ -472,6 +495,37 @@
     try{if(localStorage.getItem('theme'))return}catch(_){}
     document.documentElement.setAttribute('data-theme',e.matches?'dark':'light');
   });
+
+  // living signals: render signals.json (recent activity, app health, last-updated)
+  (async()=>{
+    try{
+      const res=await fetch('signals.json?t='+Date.now(),{cache:'no-store'});
+      if(!res.ok)return;
+      const s=await res.json();
+      const ago=(iso)=>{if(!iso)return'';const d=(Date.now()-new Date(iso).getTime())/1000;const u=[[31536000,'y'],[2592000,'mo'],[604800,'w'],[86400,'d'],[3600,'h'],[60,'m']];for(const[sec,l]of u){if(d>=sec)return Math.floor(d/sec)+l+' ago';}return 'just now';};
+      const stamp=document.getElementById('sigStamp');
+      if(stamp&&s.generatedAt){stamp.innerHTML='<span class="live-dot"></span>';stamp.append('live · updated '+ago(s.generatedAt));}
+      const recent=(s.github&&s.github.recent)||[];
+      const list=document.getElementById('activityList');
+      if(list&&recent.length){
+        recent.slice(0,5).forEach(c=>{
+          const li=document.createElement('li');
+          const repo=document.createElement('span');repo.className='arepo';repo.textContent=c.repo.split('/').pop();
+          const msg=document.createElement('span');msg.className='amsg';msg.textContent=c.message;msg.title=c.message;
+          const when=document.createElement('a');when.className='awhen';when.href=c.url;when.target='_blank';when.rel='noopener';when.textContent=ago(c.at);
+          li.append(repo,msg,when);list.appendChild(li);
+        });
+        document.getElementById('activity').hidden=false;
+      }
+      const ai=((s.apps)||[]).find(a=>a.name==='aitrips.io');
+      const h=document.getElementById('aitripsHealth');
+      if(ai&&h&&typeof ai.reachable==='boolean'){
+        h.className='health '+(ai.reachable?'up':'down');
+        h.querySelector('.t').textContent=(ai.reachable?'live':'unreachable')+(ai.checkedAt?' · '+ago(ai.checkedAt):'');
+        h.hidden=false;
+      }
+    }catch(e){}
+  })();
 </script>
 </body>
 </html>
