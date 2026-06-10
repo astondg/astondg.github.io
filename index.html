@@ -1,531 +1,1452 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Aston Gilliland — Builder, Engineer, Technical Leader</title>
-<meta name="description" content="Aston Gilliland — Melbourne-based builder and technical leader. 20 years shipping web platforms across healthcare, fintech and proptech, now building AI-native products: aitrips.io, JotCal, TribeRide.">
-<meta name="author" content="Aston Gilliland">
-<link rel="canonical" href="https://astondean.com/">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Aston Gilliland — Builder, Engineer, Technical Leader">
-<meta property="og:description" content="Melbourne-based builder and technical leader shipping AI-native products and the platforms behind them.">
-<meta property="og:url" content="https://astondean.com/">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<script>
-  /* set theme before paint to avoid flash: stored override, else system */
-  (function(){try{var s=localStorage.getItem('theme');var t=s||(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
-</script>
-<style>
-  :root{
-    /* dark (default) */
-    --bg:#0a0b10;
-    --panel:#141722;
-    --panel-2:#191d2b;
-    --border:#252a3a;
-    --border-hi:#39405a;
-    --text:#e7e9f0;
-    --muted:#9aa1b4;
-    --faint:#6c7488;
-    --accent:#7c8cff;
-    --accent-2:#34e0d4;
-    --accent-grad:linear-gradient(120deg,#7c8cff 0%,#9b7bff 45%,#34e0d4 100%);
-    --on-accent:#0a0b10;
-    --header-bg:rgba(10,11,16,.72);
-    --glow1:rgba(124,140,255,.16);
-    --glow2:rgba(52,224,212,.10);
-    --glow3:rgba(155,123,255,.10);
-    --radius:16px;
-    --maxw:1080px;
-  }
-  /* light theme variables */
-  :root[data-theme="light"]{
-    --bg:#f6f8fc;
-    --panel:#ffffff;
-    --panel-2:#eef1f8;
-    --border:#e4e8f1;
-    --border-hi:#cdd4e4;
-    --text:#141823;
-    --muted:#525a70;
-    --faint:#828aa0;
-    --accent:#5b66e6;
-    --accent-2:#0bab9f;
-    --accent-grad:linear-gradient(120deg,#5b66e6 0%,#8366e6 45%,#0bab9f 100%);
-    --on-accent:#ffffff;
-    --header-bg:rgba(246,248,252,.82);
-    --glow1:rgba(124,140,255,.14);
-    --glow2:rgba(52,224,212,.10);
-    --glow3:rgba(155,123,255,.08);
-  }
-  /* follow system when no manual override (and JS disabled) */
-  @media (prefers-color-scheme:light){
-    :root:not([data-theme]){
-      --bg:#f6f8fc;--panel:#ffffff;--panel-2:#eef1f8;--border:#e4e8f1;--border-hi:#cdd4e4;
-      --text:#141823;--muted:#525a70;--faint:#828aa0;--accent:#5b66e6;--accent-2:#0bab9f;
-      --accent-grad:linear-gradient(120deg,#5b66e6 0%,#8366e6 45%,#0bab9f 100%);
-      --on-accent:#ffffff;--header-bg:rgba(246,248,252,.82);
-    }
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  html{scroll-behavior:smooth}
-  body{
-    font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
-    background:var(--bg);
-    color:var(--text);
-    line-height:1.6;
-    -webkit-font-smoothing:antialiased;
-    overflow-x:hidden;
-  }
-  body::before{
-    content:"";position:fixed;inset:0;z-index:-1;
-    background:
-      radial-gradient(60vw 50vh at 12% -5%,var(--glow1),transparent 60%),
-      radial-gradient(50vw 50vh at 95% 0%,var(--glow2),transparent 55%),
-      radial-gradient(40vw 40vh at 50% 110%,var(--glow3),transparent 60%);
-  }
-  a{color:inherit;text-decoration:none}
-  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
-  .mono{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace}
-  .grad{background:var(--accent-grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
-  .eyebrow{font-family:'JetBrains Mono',monospace;font-size:13px;letter-spacing:.04em;color:var(--accent-2);text-transform:uppercase}
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aston Gilliland — Builder, Engineer, Technical Leader</title>
+    <meta
+      name="description"
+      content="Aston Gilliland — Melbourne-based builder and technical leader. 20 years shipping web platforms across healthcare, fintech and proptech, now building AI-native products: aitrips.io, JotCal, TribeRide."
+    />
+    <meta name="author" content="Aston Gilliland" />
+    <link rel="canonical" href="https://astondean.com/" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Aston Gilliland — Builder, Engineer, Technical Leader"
+    />
+    <meta
+      property="og:description"
+      content="Melbourne-based builder and technical leader shipping AI-native products and the platforms behind them."
+    />
+    <meta property="og:url" content="https://astondean.com/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      /* set theme before paint to avoid flash: stored override, else system */
+      (function () {
+        try {
+          var s = localStorage.getItem("theme");
+          var t =
+            s ||
+            (window.matchMedia("(prefers-color-scheme: dark)").matches
+              ? "dark"
+              : "light");
+          document.documentElement.setAttribute("data-theme", t);
+        } catch (e) {}
+      })();
+    </script>
+    <style>
+      :root {
+        /* dark (default) */
+        --bg: #0a0b10;
+        --panel: #141722;
+        --panel-2: #191d2b;
+        --border: #252a3a;
+        --border-hi: #39405a;
+        --text: #e7e9f0;
+        --muted: #9aa1b4;
+        --faint: #6c7488;
+        --accent: #7c8cff;
+        --accent-2: #34e0d4;
+        --accent-grad: linear-gradient(
+          120deg,
+          #7c8cff 0%,
+          #9b7bff 45%,
+          #34e0d4 100%
+        );
+        --on-accent: #0a0b10;
+        --header-bg: rgba(10, 11, 16, 0.72);
+        --glow1: rgba(124, 140, 255, 0.16);
+        --glow2: rgba(52, 224, 212, 0.1);
+        --glow3: rgba(155, 123, 255, 0.1);
+        --radius: 16px;
+        --maxw: 1080px;
+      }
+      /* light theme variables */
+      :root[data-theme="light"] {
+        --bg: #f6f8fc;
+        --panel: #ffffff;
+        --panel-2: #eef1f8;
+        --border: #e4e8f1;
+        --border-hi: #cdd4e4;
+        --text: #141823;
+        --muted: #525a70;
+        --faint: #828aa0;
+        --accent: #5b66e6;
+        --accent-2: #0bab9f;
+        --accent-grad: linear-gradient(
+          120deg,
+          #5b66e6 0%,
+          #8366e6 45%,
+          #0bab9f 100%
+        );
+        --on-accent: #ffffff;
+        --header-bg: rgba(246, 248, 252, 0.82);
+        --glow1: rgba(124, 140, 255, 0.14);
+        --glow2: rgba(52, 224, 212, 0.1);
+        --glow3: rgba(155, 123, 255, 0.08);
+      }
+      /* follow system when no manual override (and JS disabled) */
+      @media (prefers-color-scheme: light) {
+        :root:not([data-theme]) {
+          --bg: #f6f8fc;
+          --panel: #ffffff;
+          --panel-2: #eef1f8;
+          --border: #e4e8f1;
+          --border-hi: #cdd4e4;
+          --text: #141823;
+          --muted: #525a70;
+          --faint: #828aa0;
+          --accent: #5b66e6;
+          --accent-2: #0bab9f;
+          --accent-grad: linear-gradient(
+            120deg,
+            #5b66e6 0%,
+            #8366e6 45%,
+            #0bab9f 100%
+          );
+          --on-accent: #ffffff;
+          --header-bg: rgba(246, 248, 252, 0.82);
+        }
+      }
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        font-family:
+          "Inter",
+          system-ui,
+          -apple-system,
+          Segoe UI,
+          Roboto,
+          sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        overflow-x: hidden;
+      }
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: -1;
+        background:
+          radial-gradient(60vw 50vh at 12% -5%, var(--glow1), transparent 60%),
+          radial-gradient(50vw 50vh at 95% 0%, var(--glow2), transparent 55%),
+          radial-gradient(40vw 40vh at 50% 110%, var(--glow3), transparent 60%);
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .wrap {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: 0 24px;
+      }
+      .mono {
+        font-family:
+          "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+      }
+      .grad {
+        background: var(--accent-grad);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .eyebrow {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 13px;
+        letter-spacing: 0.04em;
+        color: var(--accent-2);
+        text-transform: uppercase;
+      }
 
-  /* NAV */
-  header{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);background:var(--header-bg);border-bottom:1px solid var(--border)}
-  nav{display:flex;align-items:center;justify-content:space-between;height:64px}
-  .brand{display:flex;align-items:center;gap:10px;font-weight:700;letter-spacing:-.01em}
-  .brand .dot{width:10px;height:10px;border-radius:3px;background:var(--accent-grad);box-shadow:0 0 16px rgba(124,140,255,.7)}
-  .navlinks{display:flex;gap:28px}
-  .navlinks a{font-size:14px;color:var(--muted);font-weight:500;transition:color .2s}
-  .navlinks a:hover,.navlinks a.active{color:var(--text)}
-  .nav-cta{font-size:13px;border:1px solid var(--border);padding:8px 14px;border-radius:10px;color:var(--text);transition:.2s}
-  .nav-cta:hover{border-color:var(--accent);background:rgba(124,140,255,.08)}
-  .nav-right{display:flex;align-items:center;gap:10px}
-  .theme-toggle{display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border:1px solid var(--border);border-radius:10px;background:var(--panel);color:var(--text);cursor:pointer;transition:.2s}
-  .theme-toggle:hover{border-color:var(--accent);color:var(--accent)}
-  .theme-toggle svg{width:18px;height:18px}
-  .theme-toggle .i-sun{display:none}
-  :root[data-theme="light"] .theme-toggle .i-sun{display:block}
-  :root[data-theme="light"] .theme-toggle .i-moon{display:none}
-  @media (prefers-color-scheme:light){:root:not([data-theme]) .theme-toggle .i-sun{display:block}:root:not([data-theme]) .theme-toggle .i-moon{display:none}}
-  @media(max-width:720px){.navlinks{display:none}}
+      /* NAV */
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        backdrop-filter: blur(12px);
+        background: var(--header-bg);
+        border-bottom: 1px solid var(--border);
+      }
+      nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 64px;
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+      }
+      .brand .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 3px;
+        background: var(--accent-grad);
+        box-shadow: 0 0 16px rgba(124, 140, 255, 0.7);
+      }
+      .navlinks {
+        display: flex;
+        gap: 28px;
+      }
+      .navlinks a {
+        font-size: 14px;
+        color: var(--muted);
+        font-weight: 500;
+        transition: color 0.2s;
+      }
+      .navlinks a:hover,
+      .navlinks a.active {
+        color: var(--text);
+      }
+      .nav-cta {
+        font-size: 13px;
+        border: 1px solid var(--border);
+        padding: 8px 14px;
+        border-radius: 10px;
+        color: var(--text);
+        transition: 0.2s;
+      }
+      .nav-cta:hover {
+        border-color: var(--accent);
+        background: rgba(124, 140, 255, 0.08);
+      }
+      .nav-right {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .theme-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 38px;
+        height: 38px;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        background: var(--panel);
+        color: var(--text);
+        cursor: pointer;
+        transition: 0.2s;
+      }
+      .theme-toggle:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+      .theme-toggle svg {
+        width: 18px;
+        height: 18px;
+      }
+      .theme-toggle .i-sun {
+        display: none;
+      }
+      :root[data-theme="light"] .theme-toggle .i-sun {
+        display: block;
+      }
+      :root[data-theme="light"] .theme-toggle .i-moon {
+        display: none;
+      }
+      @media (prefers-color-scheme: light) {
+        :root:not([data-theme]) .theme-toggle .i-sun {
+          display: block;
+        }
+        :root:not([data-theme]) .theme-toggle .i-moon {
+          display: none;
+        }
+      }
+      @media (max-width: 720px) {
+        .navlinks {
+          display: none;
+        }
+      }
 
-  /* HERO */
-  .hero{padding:110px 0 70px}
-  .status{display:inline-flex;align-items:center;gap:9px;font-size:13px;color:var(--muted);border:1px solid var(--border);background:var(--panel);padding:7px 14px;border-radius:999px;margin-bottom:28px}
-  .status .pulse{width:8px;height:8px;border-radius:50%;background:#34e0d4;animation:pulse 2.4s infinite}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(52,224,212,.5)}70%{box-shadow:0 0 0 8px rgba(52,224,212,0)}100%{box-shadow:0 0 0 0 rgba(52,224,212,0)}}
-  .hero h1{font-size:clamp(2.4rem,6vw,4.1rem);font-weight:800;line-height:1.04;letter-spacing:-.025em;margin-bottom:24px;max-width:16ch}
-  .hero .lede{font-size:clamp(1.05rem,2.2vw,1.3rem);color:var(--muted);max-width:60ch;margin-bottom:36px}
-  .hero .lede strong{color:var(--text);font-weight:600}
-  .cta-row{display:flex;gap:14px;flex-wrap:wrap}
-  .btn{display:inline-flex;align-items:center;gap:9px;font-weight:600;font-size:15px;padding:14px 24px;border-radius:12px;transition:.2s;border:1px solid transparent;cursor:pointer}
-  .btn-primary{background:var(--accent-grad);color:var(--on-accent)}
-  .btn-primary:hover{transform:translateY(-2px);box-shadow:0 12px 30px -10px rgba(124,140,255,.6)}
-  .btn-ghost{border-color:var(--border);color:var(--text)}
-  .btn-ghost:hover{border-color:var(--accent);background:rgba(124,140,255,.07)}
-  .metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:64px}
-  .metric{border:1px solid var(--border);background:var(--panel);border-radius:14px;padding:20px}
-  .metric .n{font-size:1.7rem;font-weight:800;letter-spacing:-.02em}
-  .metric .l{font-size:13px;color:var(--muted);margin-top:4px}
-  @media(max-width:720px){.metrics{grid-template-columns:repeat(2,1fr)}}
+      /* HERO */
+      .hero {
+        padding: 110px 0 70px;
+      }
+      .status {
+        display: inline-flex;
+        align-items: center;
+        gap: 9px;
+        font-size: 13px;
+        color: var(--muted);
+        border: 1px solid var(--border);
+        background: var(--panel);
+        padding: 7px 14px;
+        border-radius: 999px;
+        margin-bottom: 28px;
+      }
+      .status .pulse {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: #34e0d4;
+        animation: pulse 2.4s infinite;
+      }
+      @keyframes pulse {
+        0% {
+          box-shadow: 0 0 0 0 rgba(52, 224, 212, 0.5);
+        }
+        70% {
+          box-shadow: 0 0 0 8px rgba(52, 224, 212, 0);
+        }
+        100% {
+          box-shadow: 0 0 0 0 rgba(52, 224, 212, 0);
+        }
+      }
+      .hero h1 {
+        font-size: clamp(2.4rem, 6vw, 4.1rem);
+        font-weight: 800;
+        line-height: 1.04;
+        letter-spacing: -0.025em;
+        margin-bottom: 24px;
+        max-width: 16ch;
+      }
+      .hero .lede {
+        font-size: clamp(1.05rem, 2.2vw, 1.3rem);
+        color: var(--muted);
+        max-width: 60ch;
+        margin-bottom: 36px;
+      }
+      .hero .lede strong {
+        color: var(--text);
+        font-weight: 600;
+      }
+      .cta-row {
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 9px;
+        font-weight: 600;
+        font-size: 15px;
+        padding: 14px 24px;
+        border-radius: 12px;
+        transition: 0.2s;
+        border: 1px solid transparent;
+        cursor: pointer;
+      }
+      .btn-primary {
+        background: var(--accent-grad);
+        color: var(--on-accent);
+      }
+      .btn-primary:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 30px -10px rgba(124, 140, 255, 0.6);
+      }
+      .btn-ghost {
+        border-color: var(--border);
+        color: var(--text);
+      }
+      .btn-ghost:hover {
+        border-color: var(--accent);
+        background: rgba(124, 140, 255, 0.07);
+      }
+      .metrics {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 14px;
+        margin-top: 64px;
+      }
+      .metric {
+        border: 1px solid var(--border);
+        background: var(--panel);
+        border-radius: 14px;
+        padding: 20px;
+      }
+      .metric .n {
+        font-size: 1.7rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+      }
+      .metric .l {
+        font-size: 13px;
+        color: var(--muted);
+        margin-top: 4px;
+      }
+      @media (max-width: 720px) {
+        .metrics {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
 
-  /* SECTIONS */
-  section{padding:72px 0;scroll-margin-top:72px}
-  .sec-head{margin-bottom:42px}
-  .sec-head h2{font-size:clamp(1.7rem,4vw,2.4rem);font-weight:700;letter-spacing:-.02em;margin-top:8px}
-  .sec-head p{color:var(--muted);margin-top:10px;max-width:62ch}
+      /* SECTIONS */
+      section {
+        padding: 72px 0;
+        scroll-margin-top: 72px;
+      }
+      .sec-head {
+        margin-bottom: 42px;
+      }
+      .sec-head h2 {
+        font-size: clamp(1.7rem, 4vw, 2.4rem);
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        margin-top: 8px;
+      }
+      .sec-head p {
+        color: var(--muted);
+        margin-top: 10px;
+        max-width: 62ch;
+      }
 
-  /* BUILDING / PRODUCTS */
-  .products{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
-  @media(max-width:720px){.products{grid-template-columns:1fr}}
-  .card{position:relative;border:1px solid var(--border);background:linear-gradient(180deg,var(--panel),var(--panel-2));border-radius:var(--radius);padding:26px;transition:.25s;overflow:hidden}
-  .card:hover{border-color:var(--border-hi);transform:translateY(-3px)}
-  .card .top{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;gap:12px}
-  .card h3{font-size:1.25rem;font-weight:700;letter-spacing:-.01em}
-  .pill{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.03em;padding:5px 10px;border-radius:999px;border:1px solid var(--border);color:var(--muted);text-transform:uppercase;white-space:nowrap}
-  .pill.live{color:#0a0b10;background:#34e0d4;border-color:transparent}
-  .pill.dev{color:#ffd27c;border-color:rgba(255,210,124,.3);background:rgba(255,210,124,.08)}
-  .pill.oss{color:var(--accent);border-color:rgba(124,140,255,.3);background:rgba(124,140,255,.08)}
-  .card p{color:var(--muted);font-size:.97rem;margin-bottom:18px}
-  .tags{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
-  .tag{font-size:12px;color:var(--muted);border:1px solid var(--border);padding:4px 10px;border-radius:8px}
-  .card .link{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--accent-2);font-weight:500}
-  .card .link:hover{text-decoration:underline}
-  .card .muted-link{color:var(--faint)}
+      /* BUILDING / PRODUCTS */
+      .products {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 18px;
+      }
+      @media (max-width: 720px) {
+        .products {
+          grid-template-columns: 1fr;
+        }
+      }
+      .card {
+        position: relative;
+        border: 1px solid var(--border);
+        background: linear-gradient(180deg, var(--panel), var(--panel-2));
+        border-radius: var(--radius);
+        padding: 26px;
+        transition: 0.25s;
+        overflow: hidden;
+      }
+      .card:hover {
+        border-color: var(--border-hi);
+        transform: translateY(-3px);
+      }
+      .card .top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 14px;
+        gap: 12px;
+      }
+      .card h3 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+      }
+      .pill {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 11px;
+        letter-spacing: 0.03em;
+        padding: 5px 10px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        color: var(--muted);
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+      .pill.live {
+        color: #0a0b10;
+        background: #34e0d4;
+        border-color: transparent;
+      }
+      .pill.dev {
+        color: #ffd27c;
+        border-color: rgba(255, 210, 124, 0.3);
+        background: rgba(255, 210, 124, 0.08);
+      }
+      .pill.oss {
+        color: var(--accent);
+        border-color: rgba(124, 140, 255, 0.3);
+        background: rgba(124, 140, 255, 0.08);
+      }
+      .card p {
+        color: var(--muted);
+        font-size: 0.97rem;
+        margin-bottom: 18px;
+      }
+      .tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 18px;
+      }
+      .tag {
+        font-size: 12px;
+        color: var(--muted);
+        border: 1px solid var(--border);
+        padding: 4px 10px;
+        border-radius: 8px;
+      }
+      .card .link {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 13px;
+        color: var(--accent-2);
+        font-weight: 500;
+      }
+      .card .link:hover {
+        text-decoration: underline;
+      }
+      .card .muted-link {
+        color: var(--faint);
+      }
 
-  /* ABOUT */
-  .about{display:grid;grid-template-columns:1.3fr 1fr;gap:48px;align-items:start}
-  @media(max-width:820px){.about{grid-template-columns:1fr;gap:32px}}
-  .about p{color:var(--muted);margin-bottom:18px}
-  .about p strong{color:var(--text);font-weight:600}
-  .caps{display:flex;flex-direction:column;gap:14px}
-  .cap{border:1px solid var(--border);background:var(--panel);border-radius:12px;padding:18px}
-  .cap h4{font-size:1rem;margin-bottom:4px}
-  .cap p{font-size:.9rem;color:var(--muted);margin:0}
+      /* ABOUT */
+      .about {
+        display: grid;
+        grid-template-columns: 1.3fr 1fr;
+        gap: 48px;
+        align-items: start;
+      }
+      @media (max-width: 820px) {
+        .about {
+          grid-template-columns: 1fr;
+          gap: 32px;
+        }
+      }
+      .about p {
+        color: var(--muted);
+        margin-bottom: 18px;
+      }
+      .about p strong {
+        color: var(--text);
+        font-weight: 600;
+      }
+      .caps {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+      }
+      .cap {
+        border: 1px solid var(--border);
+        background: var(--panel);
+        border-radius: 12px;
+        padding: 18px;
+      }
+      .cap h4 {
+        font-size: 1rem;
+        margin-bottom: 4px;
+      }
+      .cap p {
+        font-size: 0.9rem;
+        color: var(--muted);
+        margin: 0;
+      }
 
-  /* EXPERIENCE TIMELINE */
-  .timeline{display:flex;flex-direction:column;gap:18px}
-  .job{border:1px solid var(--border);background:var(--panel);border-radius:14px;padding:24px;transition:.2s}
-  .job:hover{border-color:var(--border-hi)}
-  .job .jtop{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:6px}
-  .job h3{font-size:1.15rem;font-weight:700}
-  .job .co{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--accent-2)}
-  .job .when{font-size:13px;color:var(--faint);white-space:nowrap}
-  .job p{color:var(--muted);font-size:.95rem;margin-top:8px}
-  .job .tags{margin-top:14px;margin-bottom:0}
+      /* EXPERIENCE TIMELINE */
+      .timeline {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+      }
+      .job {
+        border: 1px solid var(--border);
+        background: var(--panel);
+        border-radius: 14px;
+        padding: 24px;
+        transition: 0.2s;
+      }
+      .job:hover {
+        border-color: var(--border-hi);
+      }
+      .job .jtop {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 6px;
+      }
+      .job h3 {
+        font-size: 1.15rem;
+        font-weight: 700;
+      }
+      .job .co {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 13px;
+        color: var(--accent-2);
+      }
+      .job .when {
+        font-size: 13px;
+        color: var(--faint);
+        white-space: nowrap;
+      }
+      .job p {
+        color: var(--muted);
+        font-size: 0.95rem;
+        margin-top: 8px;
+      }
+      .job .tags {
+        margin-top: 14px;
+        margin-bottom: 0;
+      }
 
-  /* SELECTED WORK */
-  .work-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-  @media(max-width:820px){.work-grid{grid-template-columns:1fr}}
-  .work{border:1px solid var(--border);background:var(--panel);border-radius:14px;padding:22px}
-  .work .co{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--faint)}
-  .work h3{font-size:1.05rem;font-weight:700;margin:4px 0 10px}
-  .work p{color:var(--muted);font-size:.9rem;margin-bottom:12px}
-  .work .res{font-size:12px;color:var(--accent-2);font-family:'JetBrains Mono',monospace}
+      /* SELECTED WORK */
+      .work-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+      }
+      @media (max-width: 820px) {
+        .work-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+      .work {
+        border: 1px solid var(--border);
+        background: var(--panel);
+        border-radius: 14px;
+        padding: 22px;
+      }
+      .work .co {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 12px;
+        color: var(--faint);
+      }
+      .work h3 {
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin: 4px 0 10px;
+      }
+      .work p {
+        color: var(--muted);
+        font-size: 0.9rem;
+        margin-bottom: 12px;
+      }
+      .work .res {
+        font-size: 12px;
+        color: var(--accent-2);
+        font-family: "JetBrains Mono", monospace;
+      }
 
-  /* STACK */
-  .stack{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;max-width:760px;margin:0 auto}
-  .chip{font-size:14px;padding:9px 16px;border-radius:999px;border:1px solid var(--border);background:var(--panel);color:var(--text);transition:.2s}
-  .chip:hover{border-color:var(--accent);transform:translateY(-2px)}
+      /* STACK */
+      .stack {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        max-width: 760px;
+        margin: 0 auto;
+      }
+      .chip {
+        font-size: 14px;
+        padding: 9px 16px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: var(--panel);
+        color: var(--text);
+        transition: 0.2s;
+      }
+      .chip:hover {
+        border-color: var(--accent);
+        transform: translateY(-2px);
+      }
 
-  /* CONTACT */
-  .contact{text-align:center}
-  .contact .lede{color:var(--muted);max-width:62ch;margin:0 auto 32px;font-size:1.08rem}
-  .contact .lede strong{color:var(--text)}
-  .contact-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-bottom:30px}
-  .meta-row{display:flex;gap:28px;justify-content:center;flex-wrap:wrap;color:var(--muted);font-size:14px}
-  .meta-row span{display:inline-flex;align-items:center;gap:8px}
+      /* CONTACT */
+      .contact {
+        text-align: center;
+      }
+      .contact .lede {
+        color: var(--muted);
+        max-width: 62ch;
+        margin: 0 auto 32px;
+        font-size: 1.08rem;
+      }
+      .contact .lede strong {
+        color: var(--text);
+      }
+      .contact-btns {
+        display: flex;
+        gap: 14px;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+      }
+      .meta-row {
+        display: flex;
+        gap: 28px;
+        justify-content: center;
+        flex-wrap: wrap;
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .meta-row span {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+      }
 
-  /* FOOTER */
-  footer{border-top:1px solid var(--border);padding:40px 0;margin-top:40px}
-  .foot{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
-  .foot .name{font-weight:700}
-  .foot .note{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--faint)}
-  /* LIVING SIGNALS */
-  .activity{margin-top:34px;border-top:1px solid var(--border);padding-top:26px}
-  .activity-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px;flex-wrap:wrap}
-  .sig-stamp{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--faint);display:inline-flex;align-items:center;gap:7px}
-  .sig-stamp .live-dot{width:7px;height:7px;border-radius:50%;background:var(--accent-2);animation:pulse 2.4s infinite}
-  .activity-list{list-style:none;display:flex;flex-direction:column;gap:8px}
-  .activity-list li{display:flex;gap:14px;align-items:baseline;border:1px solid var(--border);background:var(--panel);border-radius:10px;padding:11px 15px}
-  .activity-list .arepo{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--accent-2);white-space:nowrap}
-  .activity-list .amsg{color:var(--text);font-size:.92rem;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .activity-list .awhen{color:var(--faint);font-family:'JetBrains Mono',monospace;font-size:12px;white-space:nowrap}
-  .activity-list .awhen:hover{color:var(--accent-2)}
-  .health{display:inline-flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:12px;margin-left:10px;vertical-align:middle}
-  .health .d{width:7px;height:7px;border-radius:50%}
-  .health.up{color:var(--accent-2)} .health.up .d{background:var(--accent-2);box-shadow:0 0 8px var(--accent-2)}
-  .health.down{color:#ff8080} .health.down .d{background:#ff8080}
-  .reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
-  .reveal.in{opacity:1;transform:none}
-</style>
-</head>
-<body>
-
-<header>
-  <div class="wrap">
-    <nav>
-      <a href="#top" class="brand"><span class="dot"></span> Aston Gilliland</a>
-      <div class="navlinks">
-        <a href="#building">Building</a>
-        <a href="#work">Work</a>
-        <a href="#stack">Stack</a>
-        <a href="#contact">Contact</a>
+      /* FOOTER */
+      footer {
+        border-top: 1px solid var(--border);
+        padding: 40px 0;
+        margin-top: 40px;
+      }
+      .foot {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 16px;
+      }
+      .foot .name {
+        font-weight: 700;
+      }
+      .foot .note {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 12px;
+        color: var(--faint);
+      }
+      /* LIVING SIGNALS */
+      .activity {
+        margin-top: 34px;
+        border-top: 1px solid var(--border);
+        padding-top: 26px;
+      }
+      .activity-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 16px;
+        flex-wrap: wrap;
+      }
+      .sig-stamp {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 12px;
+        color: var(--faint);
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+      }
+      .sig-stamp .live-dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: var(--accent-2);
+        animation: pulse 2.4s infinite;
+      }
+      .activity-list {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+      .activity-list li {
+        display: flex;
+        gap: 14px;
+        align-items: baseline;
+        border: 1px solid var(--border);
+        background: var(--panel);
+        border-radius: 10px;
+        padding: 11px 15px;
+      }
+      .activity-list .arepo {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 12px;
+        color: var(--accent-2);
+        white-space: nowrap;
+      }
+      .activity-list .amsg {
+        color: var(--text);
+        font-size: 0.92rem;
+        flex: 1;
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .activity-list .awhen {
+        color: var(--faint);
+        font-family: "JetBrains Mono", monospace;
+        font-size: 12px;
+        white-space: nowrap;
+      }
+      .activity-list .awhen:hover {
+        color: var(--accent-2);
+      }
+      .health {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        font-family: "JetBrains Mono", monospace;
+        font-size: 12px;
+        margin-left: 10px;
+        vertical-align: middle;
+      }
+      .health .d {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+      }
+      .health.up {
+        color: var(--accent-2);
+      }
+      .health.up .d {
+        background: var(--accent-2);
+        box-shadow: 0 0 8px var(--accent-2);
+      }
+      .health.down {
+        color: #ff8080;
+      }
+      .health.down .d {
+        background: #ff8080;
+      }
+      .reveal {
+        opacity: 0;
+        transform: translateY(18px);
+        transition:
+          opacity 0.6s ease,
+          transform 0.6s ease;
+      }
+      .reveal.in {
+        opacity: 1;
+        transform: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <nav>
+          <a href="#top" class="brand"
+            ><span class="dot"></span> Aston Gilliland</a
+          >
+          <div class="navlinks">
+            <a href="#building">Building</a>
+            <a href="#work">Work</a>
+            <a href="#stack">Stack</a>
+            <a href="#contact">Contact</a>
+          </div>
+          <div class="nav-right">
+            <button
+              id="themeToggle"
+              class="theme-toggle"
+              type="button"
+              aria-label="Toggle light or dark theme"
+              title="Toggle theme"
+            >
+              <svg
+                class="i-moon"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path
+                  d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"
+                ></path>
+              </svg>
+              <svg
+                class="i-sun"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <circle cx="12" cy="12" r="4"></circle>
+                <path
+                  d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"
+                ></path>
+              </svg>
+            </button>
+            <a href="#contact" class="nav-cta">Get in touch</a>
+          </div>
+        </nav>
       </div>
-      <div class="nav-right">
-        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle light or dark theme" title="Toggle theme">
-          <svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
-          <svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path></svg>
-        </button>
-        <a href="#contact" class="nav-cta">Get in touch</a>
-      </div>
-    </nav>
-  </div>
-</header>
+    </header>
 
-<main id="top">
-
-  <!-- HERO -->
-  <section class="hero">
-    <div class="wrap">
-      <div class="status"><span class="pulse"></span> Currently building aitrips.io, JotCal &amp; TribeRide</div>
-      <h1>I build <span class="grad">AI-native products</span> and the platforms behind them.</h1>
-      <p class="lede">
-        Melbourne-based engineer and technical leader. <strong>20 years</strong> shipping web platforms across healthcare,
-        fintech and proptech — and lately, shipping my own products with AI in the loop end to end.
-        At my best in small, high-autonomy teams where I own the architecture and still write code daily.
-      </p>
-      <div class="cta-row">
-        <a href="#building" class="btn btn-primary">See what I'm building →</a>
-        <a href="#contact" class="btn btn-ghost">Work with me</a>
-      </div>
-      <div class="metrics">
-        <div class="metric"><div class="n grad">20</div><div class="l">Years shipping</div></div>
-        <div class="metric"><div class="n">4+</div><div class="l">Products in flight</div></div>
-        <div class="metric"><div class="n">Full-stack</div><div class="l">Platform architecture</div></div>
-        <div class="metric"><div class="n">AI-native</div><div class="l">Dev workflows</div></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- BUILDING -->
-  <section id="building">
-    <div class="wrap">
-      <div class="sec-head">
-        <span class="eyebrow">// currently building</span>
-        <h2>Products in flight</h2>
-        <p>Personal projects I design, build and ship — most are AI-native by default, with MCP and LLM integration baked in rather than bolted on.</p>
-      </div>
-      <div class="products">
-
-        <div class="card reveal">
-          <div class="top"><h3>aitrips.io</h3><span class="pill live">Live</span></div>
-          <p>AI-powered trip planning with MCP integration. Chat with any AI assistant to build itineraries that save to a real web app — interactive maps, route visualisation, day-by-day planning. Works standalone too.</p>
-          <div class="tags"><span class="tag">MCP</span><span class="tag">AI / LLM</span><span class="tag">Full-stack</span><span class="tag">Maps</span></div>
-          <a class="link" href="https://aitrips.io" target="_blank" rel="noopener">aitrips.io →</a><span class="health" id="aitripsHealth" hidden><span class="d"></span><span class="t"></span></span>
+    <main id="top">
+      <!-- HERO -->
+      <section class="hero">
+        <div class="wrap">
+          <div class="status">
+            <span class="pulse"></span> Currently building aitrips.io, JotCal
+            &amp; TribeRide
+          </div>
+          <h1>
+            I build <span class="grad">AI-native products</span> and the
+            platforms behind them.
+          </h1>
+          <p class="lede">
+            Melbourne-based engineer and technical leader.
+            <strong>20 years</strong> shipping web platforms across healthcare,
+            fintech and proptech — and lately, shipping my own products with AI
+            in the loop end to end. At my best in small, high-autonomy teams
+            where I own the architecture and still write code daily.
+          </p>
+          <div class="cta-row">
+            <a href="#building" class="btn btn-primary"
+              >See what I'm building →</a
+            >
+            <a href="#contact" class="btn btn-ghost">Work with me</a>
+          </div>
+          <div class="metrics">
+            <div class="metric">
+              <div class="n grad">20</div>
+              <div class="l">Years shipping</div>
+            </div>
+            <div class="metric">
+              <div class="n">4+</div>
+              <div class="l">Products in flight</div>
+            </div>
+            <div class="metric">
+              <div class="n">Full-stack</div>
+              <div class="l">Platform architecture</div>
+            </div>
+            <div class="metric">
+              <div class="n">AI-native</div>
+              <div class="l">Dev workflows</div>
+            </div>
+          </div>
         </div>
+      </section>
 
-        <div class="card reveal">
-          <div class="top"><h3>JotCal</h3><span class="pill dev">In development</span></div>
-          <p>Android calendar app built for speed. Strips event creation and daily scheduling down to minimal friction — jot it, it's on the calendar.</p>
-          <div class="tags"><span class="tag">Android</span><span class="tag">Kotlin</span><span class="tag">Mobile</span></div>
-          <a class="link muted-link" href="https://jotcal.app" target="_blank" rel="noopener">jotcal.app · coming soon</a>
+      <!-- BUILDING -->
+      <section id="building">
+        <div class="wrap">
+          <div class="sec-head">
+            <span class="eyebrow">// currently building</span>
+            <h2>Products in flight</h2>
+            <p>
+              Personal projects I design, build and ship — most are AI-native by
+              default, with MCP and LLM integration baked in rather than bolted
+              on.
+            </p>
+          </div>
+          <div class="products">
+            <div class="card reveal">
+              <div class="top">
+                <h3>aitrips.io</h3>
+                <span class="pill live">Live</span>
+              </div>
+              <p>
+                AI-powered trip planning with MCP integration. Chat with any AI
+                assistant to build itineraries that save to a real web app —
+                interactive maps, route visualisation, day-by-day planning.
+                Works standalone too.
+              </p>
+              <div class="tags">
+                <span class="tag">MCP</span><span class="tag">AI / LLM</span
+                ><span class="tag">Full-stack</span
+                ><span class="tag">Maps</span>
+              </div>
+              <a
+                class="link"
+                href="https://aitrips.io"
+                target="_blank"
+                rel="noopener"
+                >aitrips.io →</a
+              ><span class="health" id="aitripsHealth" hidden
+                ><span class="d"></span><span class="t"></span
+              ></span>
+            </div>
+
+            <div class="card reveal">
+              <div class="top">
+                <h3>JotCal</h3>
+                <span class="pill dev">In development</span>
+              </div>
+              <p>
+                Android calendar app built for speed. Strips event creation and
+                daily scheduling down to minimal friction — jot it, it's on the
+                calendar.
+              </p>
+              <div class="tags">
+                <span class="tag">Android</span><span class="tag">Kotlin</span
+                ><span class="tag">Mobile</span>
+              </div>
+              <a
+                class="link"
+                href="https://jotcal.app"
+                target="_blank"
+                rel="noopener"
+                >jotcal.app · coming soon</a
+              >
+            </div>
+
+            <div class="card reveal">
+              <div class="top">
+                <h3>TribeRide</h3>
+                <span class="pill dev">In development</span>
+              </div>
+              <p>
+                Native iOS group ridesharing for the people you actually know —
+                families, friends, schools, work pods and small communities
+                coordinating rides among themselves instead of hailing
+                strangers. The wedge: flight-aware airport pickup that
+                auto-fills pickup time and terminal from the real flight
+                arrival. CarPlay surface for active rides.
+              </p>
+              <div class="tags">
+                <span class="tag">iOS</span><span class="tag">Swift</span
+                ><span class="tag">CarPlay</span
+                ><span class="tag">Flight-aware</span>
+              </div>
+              <span class="link muted-link">coming soon</span>
+            </div>
+
+            <div class="card reveal">
+              <div class="top">
+                <h3>Next Departure</h3>
+                <span class="pill oss">Open source</span>
+              </div>
+              <p>
+                Real-time public transport departure board for e-ink displays.
+                High-contrast UI tuned for Kindle, with geolocation, multi-stop
+                views and a provider pattern for extensible transit support.
+              </p>
+              <div class="tags">
+                <span class="tag">Next.js</span
+                ><span class="tag">TypeScript</span
+                ><span class="tag">PTV API</span><span class="tag">Vercel</span>
+              </div>
+              <a
+                class="link"
+                href="https://github.com/astondg/next-departure"
+                target="_blank"
+                rel="noopener"
+                >GitHub →</a
+              >
+            </div>
+          </div>
+
+          <div class="activity" id="activity" hidden>
+            <div class="activity-head">
+              <span class="eyebrow">// recent activity</span>
+              <span class="sig-stamp" id="sigStamp"></span>
+            </div>
+            <ul class="activity-list" id="activityList"></ul>
+          </div>
         </div>
+      </section>
 
-        <div class="card reveal">
-          <div class="top"><h3>TribeRide</h3><span class="pill dev">In development</span></div>
-          <p>Native iOS group ridesharing for the people you actually know — families, friends, schools, work pods and small communities coordinating rides among themselves instead of hailing strangers. The wedge: flight-aware airport pickup that auto-fills pickup time and terminal from the real flight arrival. CarPlay surface for active rides.</p>
-          <div class="tags"><span class="tag">iOS</span><span class="tag">Swift</span><span class="tag">CarPlay</span><span class="tag">Flight-aware</span></div>
-          <span class="link muted-link">coming soon</span>
+      <!-- ABOUT -->
+      <section id="about">
+        <div class="wrap">
+          <div class="about">
+            <div>
+              <span class="eyebrow">// about</span>
+              <h2
+                style="
+                  font-size: clamp(1.7rem, 4vw, 2.4rem);
+                  font-weight: 700;
+                  letter-spacing: -0.02em;
+                  margin: 8px 0 24px;
+                "
+              >
+                Hands-on leadership that grows with the company
+              </h2>
+              <p>
+                I've progressively taken on more architectural and leadership
+                scope throughout my career — from owning frontend architecture
+                at <strong>Oneview Healthcare</strong> and
+                <strong>Linkly</strong>, to leading a technical team at
+                <strong>Cohort Go</strong>, to now owning full platform
+                architecture and running a cross-functional engineering group at
+                <strong>Urban Rest</strong>.
+              </p>
+              <p>
+                Recent work centres on full-stack platform builds on AWS
+                (Lambda, ECS Fargate, RDS/PostgreSQL), React/Next.js frontends,
+                React Native apps, and standing up CI/CD and DevOps practice. I
+                run SCRUM end to end, lead local and offshore engineers, and
+                make the architecture and trade-off calls that come with being
+                the most senior technical person in the room.
+              </p>
+              <p>
+                I build with AI tools in both production and personal projects —
+                Claude, Claude Code, MCP and direct API integrations — to ship
+                features and automate the development workflow itself. I care
+                about
+                <strong
+                  >clear code, things that actually work, and not
+                  overcomplicating what doesn't need it.</strong
+                >
+              </p>
+            </div>
+            <div class="caps">
+              <div class="cap">
+                <h4>Full-stack platform architecture</h4>
+                <p>
+                  AWS CDK v2, ECS Fargate, Lambda, RDS/PostgreSQL, SQS/SNS — end
+                  to end.
+                </p>
+              </div>
+              <div class="cap">
+                <h4>Cross-functional leadership</h4>
+                <p>
+                  Local & offshore engineers, contractors and agencies, with
+                  end-to-end SCRUM ownership.
+                </p>
+              </div>
+              <div class="cap">
+                <h4>AI-native development</h4>
+                <p>
+                  Claude Code, MCP servers, custom agents & skills, LLM
+                  integration in production.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
+      </section>
 
-        <div class="card reveal">
-          <div class="top"><h3>Next Departure</h3><span class="pill oss">Open source</span></div>
-          <p>Real-time public transport departure board for e-ink displays. High-contrast UI tuned for Kindle, with geolocation, multi-stop views and a provider pattern for extensible transit support.</p>
-          <div class="tags"><span class="tag">Next.js</span><span class="tag">TypeScript</span><span class="tag">PTV API</span><span class="tag">Vercel</span></div>
-          <a class="link" href="https://github.com/astondg/next-departure" target="_blank" rel="noopener">GitHub →</a>
+      <!-- EXPERIENCE -->
+      <section id="work">
+        <div class="wrap">
+          <div class="sec-head">
+            <span class="eyebrow">// experience</span>
+            <h2>Where I've led & shipped</h2>
+          </div>
+          <div class="timeline">
+            <div class="job reveal">
+              <div class="jtop">
+                <h3>Lead Developer</h3>
+                <span class="when">Aug 2025 — Present</span>
+              </div>
+              <div class="co">Urban Rest</div>
+              <p>
+                Corporate accommodation platform serving enterprise clients,
+                operating furnished apartments in Australia and internationally.
+                Architected and grew a Lambda-based Guesty/Salesforce
+                integration into a full platform with its own data store and API
+                layer. I own architecture across three repos — backend monorepo,
+                Next.js web app, and React Native mobile — on AWS CDK v2 (ECS
+                Fargate, RDS/PostgreSQL, SQS/SNS, GitHub Actions CI/CD).
+                Building a real-time data platform, Tableau BI, a smart-lock
+                system, native iOS & Android apps and a guest kiosk, while
+                running SCRUM end to end and embedding AI-assisted workflows
+                (Claude Code, custom agents, skills and MCP) across the team.
+              </p>
+              <div class="tags">
+                <span class="tag">AWS CDK v2</span
+                ><span class="tag">ECS Fargate</span
+                ><span class="tag">React Native</span
+                ><span class="tag">Next.js</span
+                ><span class="tag">Platform Architecture</span>
+              </div>
+            </div>
+
+            <div class="job reveal">
+              <div class="jtop">
+                <h3>ReactJS Subject Matter Expert</h3>
+                <span class="when">Jul 2021 — Jul 2025</span>
+              </div>
+              <div class="co">Oneview Healthcare · Healthcare Tech</div>
+              <p>
+                Led React.js frontend modernisation for a global healthcare
+                platform serving hospitals worldwide. Architected microfrontend
+                systems that let teams scale and deploy independently, and drove
+                performance work keeping critical clinical workflows sub-second.
+              </p>
+              <div class="tags">
+                <span class="tag">React Architecture</span
+                ><span class="tag">Microfrontends</span
+                ><span class="tag">99.9% Uptime</span
+                ><span class="tag">Global Teams</span>
+              </div>
+            </div>
+
+            <div class="job reveal">
+              <div class="jtop">
+                <h3>ReactJS Subject Matter Expert</h3>
+                <span class="when">Apr 2020 — Jun 2021</span>
+              </div>
+              <div class="co">Linkly · Payment Systems</div>
+              <p>
+                Led UX transformation of a mission-critical payment platform
+                serving Commonwealth Bank, Mastercard and JB Hi-Fi. Established
+                React architecture patterns and standards for enterprise payment
+                processing that demanded exceptional reliability.
+              </p>
+              <div class="tags">
+                <span class="tag">Tier-1 Clients</span
+                ><span class="tag">Payment Processing</span
+                ><span class="tag">Enterprise Scale</span>
+              </div>
+            </div>
+
+            <div class="job reveal">
+              <div class="jtop">
+                <h3>Technical Lead</h3>
+                <span class="when">Jul 2018 — Mar 2020</span>
+              </div>
+              <div class="co">Cohort Go · EdTech</div>
+              <p>
+                Led the technical team delivering multi-currency payment
+                services for international education. Partnered with the CTO on
+                payment-system architecture and managed distributed teams across
+                time zones with Agile practice.
+              </p>
+              <div class="tags">
+                <span class="tag">Team Leadership</span
+                ><span class="tag">Multi-Currency</span
+                ><span class="tag">Agile/Scrum</span>
+              </div>
+            </div>
+          </div>
         </div>
+      </section>
 
-      </div>
-
-      <div class="activity" id="activity" hidden>
-        <div class="activity-head">
-          <span class="eyebrow">// recent activity</span>
-          <span class="sig-stamp" id="sigStamp"></span>
+      <!-- SELECTED WORK -->
+      <section id="selected">
+        <div class="wrap">
+          <div class="sec-head">
+            <span class="eyebrow">// selected architecture</span>
+            <h2>A few builds I'm proud of</h2>
+          </div>
+          <div class="work-grid">
+            <div class="work reveal">
+              <div class="co">Queensland Police Service</div>
+              <h3>QLiTE Mobile Platform</h3>
+              <p>
+                Mission-critical iOS app giving officers mobile access to core
+                policing systems in the field.
+              </p>
+              <div class="res">→ State-wide deployment</div>
+            </div>
+            <div class="work reveal">
+              <div class="co">Property Management</div>
+              <h3>Console Cloud SaaS</h3>
+              <p>
+                Multi-tenant SaaS with a complete trust-accounting system, TDD
+                throughout and a GraphQL API.
+              </p>
+              <div class="res">→ Thousands of concurrent users</div>
+            </div>
+            <div class="work reveal">
+              <div class="co">Enterprise Payments</div>
+              <h3>Serverless Payment Architecture</h3>
+              <p>
+                Event-driven payment processing on AWS Lambda, API Gateway and
+                DynamoDB with optimistic locking.
+              </p>
+              <div class="res">→ Sub-second global transactions</div>
+            </div>
+          </div>
         </div>
-        <ul class="activity-list" id="activityList"></ul>
-      </div>
-    </div>
-  </section>
+      </section>
 
-  <!-- ABOUT -->
-  <section id="about">
-    <div class="wrap">
-      <div class="about">
+      <!-- STACK -->
+      <section id="stack">
+        <div class="wrap">
+          <div class="sec-head" style="text-align: center">
+            <span class="eyebrow">// stack</span>
+            <h2>Tools I reach for</h2>
+          </div>
+          <div class="stack">
+            <span class="chip">React / Next.js</span>
+            <span class="chip">React Native</span>
+            <span class="chip">TypeScript</span>
+            <span class="chip">Node.js</span>
+            <span class="chip">.NET</span>
+            <span class="chip">GraphQL</span>
+            <span class="chip">AWS CDK v2</span>
+            <span class="chip">ECS Fargate</span>
+            <span class="chip">Lambda</span>
+            <span class="chip">RDS / PostgreSQL</span>
+            <span class="chip">SQS / SNS</span>
+            <span class="chip">GitHub Actions</span>
+            <span class="chip">Claude Code</span>
+            <span class="chip">MCP</span>
+            <span class="chip">AI / LLM Integration</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- CONTACT -->
+      <section id="contact">
+        <div class="wrap contact">
+          <span class="eyebrow">// contact</span>
+          <h2
+            style="
+              font-size: clamp(1.8rem, 4.5vw, 2.6rem);
+              font-weight: 800;
+              letter-spacing: -0.02em;
+              margin: 10px 0 18px;
+            "
+          >
+            Let's build something good
+          </h2>
+          <p class="lede">
+            I lead engineering teams and ship full-stack platforms end to end,
+            and I build <strong>AI-native products</strong> on the side. Always
+            happy to talk shop — architecture, AI-native development, or
+            something you're building.
+          </p>
+          <div class="contact-btns">
+            <a href="mailto:aston.gilliland@outlook.com" class="btn btn-primary"
+              >Email me</a
+            >
+            <a
+              href="https://www.linkedin.com/in/astongilliland"
+              target="_blank"
+              rel="noopener"
+              class="btn btn-ghost"
+              >LinkedIn</a
+            >
+            <a
+              href="https://github.com/astondg"
+              target="_blank"
+              rel="noopener"
+              class="btn btn-ghost"
+              >GitHub</a
+            >
+          </div>
+          <div class="meta-row">
+            <span>📍 Melbourne, Australia</span>
+            <span>✉ aston.gilliland@outlook.com</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="wrap foot">
         <div>
-          <span class="eyebrow">// about</span>
-          <h2 style="font-size:clamp(1.7rem,4vw,2.4rem);font-weight:700;letter-spacing:-.02em;margin:8px 0 24px">Hands-on leadership that grows with the company</h2>
-          <p>I've progressively taken on more architectural and leadership scope throughout my career — from owning frontend architecture at <strong>Oneview Healthcare</strong> and <strong>Linkly</strong>, to leading a technical team at <strong>Cohort Go</strong>, to now owning full platform architecture and running a cross-functional engineering group.</p>
-          <p>Recent work centres on full-stack platform builds on AWS (Lambda, ECS Fargate, RDS/PostgreSQL), React/Next.js frontends, React Native apps, and standing up CI/CD and DevOps practice. I run SCRUM end to end, lead local and offshore engineers, and make the architecture and trade-off calls that come with being the most senior technical person in the room.</p>
-          <p>I build with AI tools in both production and personal projects — Claude, Claude Code, MCP and direct API integrations — to ship features and automate the development workflow itself. I care about <strong>clear code, things that actually work, and not overcomplicating what doesn't need it.</strong></p>
+          <div class="name grad">Aston Gilliland</div>
+          <div class="note">Builder · Engineer · Technical Leader</div>
         </div>
-        <div class="caps">
-          <div class="cap"><h4>Full-stack platform architecture</h4><p>AWS CDK v2, ECS Fargate, Lambda, RDS/PostgreSQL, SQS/SNS — end to end.</p></div>
-          <div class="cap"><h4>Cross-functional leadership</h4><p>Local & offshore engineers, contractors and agencies, with end-to-end SCRUM ownership.</p></div>
-          <div class="cap"><h4>AI-native development</h4><p>Claude Code, MCP servers, custom agents & skills, LLM integration in production.</p></div>
-        </div>
+        <div class="note">// built with AI, shipped by hand · © 2026</div>
       </div>
-    </div>
-  </section>
+    </footer>
 
-  <!-- EXPERIENCE -->
-  <section id="work">
-    <div class="wrap">
-      <div class="sec-head">
-        <span class="eyebrow">// experience</span>
-        <h2>Where I've led & shipped</h2>
-      </div>
-      <div class="timeline">
-
-        <div class="job reveal">
-          <div class="jtop"><h3>Lead Developer</h3><span class="when">Aug 2025 — Present</span></div>
-          <div class="co">Corporate Accommodation Platform</div>
-          <p>Corporate accommodation platform serving enterprise clients, operating furnished apartments in Australia and internationally. Architected and grew a Lambda-based Guesty/Salesforce integration into a full platform with its own data store and API layer. I own architecture across three repos — backend monorepo, Next.js web app, and React Native mobile — on AWS CDK v2 (ECS Fargate, RDS/PostgreSQL, SQS/SNS, GitHub Actions CI/CD). Building a real-time data platform, Tableau BI, a smart-lock system, native iOS & Android apps and a guest kiosk, while running SCRUM end to end and embedding AI-assisted workflows (Claude Code, custom agents, skills and MCP) across the team.</p>
-          <div class="tags"><span class="tag">AWS CDK v2</span><span class="tag">ECS Fargate</span><span class="tag">React Native</span><span class="tag">Next.js</span><span class="tag">Platform Architecture</span></div>
-        </div>
-
-        <div class="job reveal">
-          <div class="jtop"><h3>ReactJS Subject Matter Expert</h3><span class="when">Jul 2021 — Jul 2025</span></div>
-          <div class="co">Oneview Healthcare · Healthcare Tech</div>
-          <p>Led React.js frontend modernisation for a global healthcare platform serving hospitals worldwide. Architected microfrontend systems that let teams scale and deploy independently, and drove performance work keeping critical clinical workflows sub-second.</p>
-          <div class="tags"><span class="tag">React Architecture</span><span class="tag">Microfrontends</span><span class="tag">99.9% Uptime</span><span class="tag">Global Teams</span></div>
-        </div>
-
-        <div class="job reveal">
-          <div class="jtop"><h3>ReactJS Subject Matter Expert</h3><span class="when">Apr 2020 — Jun 2021</span></div>
-          <div class="co">Linkly · Payment Systems</div>
-          <p>Led UX transformation of a mission-critical payment platform serving Commonwealth Bank, Mastercard and JB Hi-Fi. Established React architecture patterns and standards for enterprise payment processing that demanded exceptional reliability.</p>
-          <div class="tags"><span class="tag">Tier-1 Clients</span><span class="tag">Payment Processing</span><span class="tag">Enterprise Scale</span></div>
-        </div>
-
-        <div class="job reveal">
-          <div class="jtop"><h3>Technical Lead</h3><span class="when">Jul 2018 — Mar 2020</span></div>
-          <div class="co">Cohort Go · EdTech</div>
-          <p>Led the technical team delivering multi-currency payment services for international education. Partnered with the CTO on payment-system architecture and managed distributed teams across time zones with Agile practice.</p>
-          <div class="tags"><span class="tag">Team Leadership</span><span class="tag">Multi-Currency</span><span class="tag">Agile/Scrum</span></div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- SELECTED WORK -->
-  <section id="selected">
-    <div class="wrap">
-      <div class="sec-head">
-        <span class="eyebrow">// selected architecture</span>
-        <h2>A few builds I'm proud of</h2>
-      </div>
-      <div class="work-grid">
-        <div class="work reveal">
-          <div class="co">Queensland Police Service</div>
-          <h3>QLiTE Mobile Platform</h3>
-          <p>Mission-critical iOS app giving officers mobile access to core policing systems in the field.</p>
-          <div class="res">→ State-wide deployment</div>
-        </div>
-        <div class="work reveal">
-          <div class="co">Property Management</div>
-          <h3>Console Cloud SaaS</h3>
-          <p>Multi-tenant SaaS with a complete trust-accounting system, TDD throughout and a GraphQL API.</p>
-          <div class="res">→ Thousands of concurrent users</div>
-        </div>
-        <div class="work reveal">
-          <div class="co">Enterprise Payments</div>
-          <h3>Serverless Payment Architecture</h3>
-          <p>Event-driven payment processing on AWS Lambda, API Gateway and DynamoDB with optimistic locking.</p>
-          <div class="res">→ Sub-second global transactions</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- STACK -->
-  <section id="stack">
-    <div class="wrap">
-      <div class="sec-head" style="text-align:center">
-        <span class="eyebrow">// stack</span>
-        <h2>Tools I reach for</h2>
-      </div>
-      <div class="stack">
-        <span class="chip">React / Next.js</span>
-        <span class="chip">React Native</span>
-        <span class="chip">TypeScript</span>
-        <span class="chip">Node.js</span>
-        <span class="chip">.NET</span>
-        <span class="chip">GraphQL</span>
-        <span class="chip">AWS CDK v2</span>
-        <span class="chip">ECS Fargate</span>
-        <span class="chip">Lambda</span>
-        <span class="chip">RDS / PostgreSQL</span>
-        <span class="chip">SQS / SNS</span>
-        <span class="chip">GitHub Actions</span>
-        <span class="chip">Claude Code</span>
-        <span class="chip">MCP</span>
-        <span class="chip">AI / LLM Integration</span>
-      </div>
-    </div>
-  </section>
-
-  <!-- CONTACT -->
-  <section id="contact">
-    <div class="wrap contact">
-      <span class="eyebrow">// contact</span>
-      <h2 style="font-size:clamp(1.8rem,4.5vw,2.6rem);font-weight:800;letter-spacing:-.02em;margin:10px 0 18px">Let's build something good</h2>
-      <p class="lede">I lead engineering teams and ship full-stack platforms end to end, and I build <strong>AI-native products</strong> on the side. Always happy to talk shop — architecture, AI-native development, or something you're building.</p>
-      <div class="contact-btns">
-        <a href="mailto:aston.gilliland@outlook.com" class="btn btn-primary">Email me</a>
-        <a href="https://www.linkedin.com/in/astongilliland" target="_blank" rel="noopener" class="btn btn-ghost">LinkedIn</a>
-        <a href="https://github.com/astondg" target="_blank" rel="noopener" class="btn btn-ghost">GitHub</a>
-      </div>
-      <div class="meta-row">
-        <span>📍 Melbourne, Australia</span>
-        <span>✉ aston.gilliland@outlook.com</span>
-      </div>
-    </div>
-  </section>
-
-</main>
-
-<footer>
-  <div class="wrap foot">
-    <div>
-      <div class="name grad">Aston Gilliland</div>
-      <div class="note">Builder · Engineer · Technical Leader</div>
-    </div>
-    <div class="note">// built with AI, shipped by hand · © 2026</div>
-  </div>
-</footer>
-
-<script>
-  const links=[...document.querySelectorAll('.navlinks a')];
-  const map=links.map(a=>({a,sec:document.querySelector(a.getAttribute('href'))})).filter(x=>x.sec);
-  const onScroll=()=>{
-    let cur='';
-    map.forEach(({sec})=>{if(window.scrollY>=sec.offsetTop-120)cur=sec.id});
-    links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+cur));
-  };
-  window.addEventListener('scroll',onScroll);onScroll();
-
-  const io=new IntersectionObserver((entries)=>{
-    entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}});
-  },{threshold:.12,rootMargin:'0px 0px -40px 0px'});
-  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
-
-  // theme toggle: manual override persists; otherwise follow system
-  const tgl=document.getElementById('themeToggle');
-  const mq=window.matchMedia('(prefers-color-scheme: dark)');
-  tgl.addEventListener('click',()=>{
-    const next=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
-    document.documentElement.setAttribute('data-theme',next);
-    try{localStorage.setItem('theme',next)}catch(e){}
-  });
-  mq.addEventListener('change',e=>{
-    try{if(localStorage.getItem('theme'))return}catch(_){}
-    document.documentElement.setAttribute('data-theme',e.matches?'dark':'light');
-  });
-
-  // living signals: render signals.json (recent activity, app health, last-updated)
-  (async()=>{
-    try{
-      const res=await fetch('signals.json?t='+Date.now(),{cache:'no-store'});
-      if(!res.ok)return;
-      const s=await res.json();
-      const ago=(iso)=>{if(!iso)return'';const d=(Date.now()-new Date(iso).getTime())/1000;const u=[[31536000,'y'],[2592000,'mo'],[604800,'w'],[86400,'d'],[3600,'h'],[60,'m']];for(const[sec,l]of u){if(d>=sec)return Math.floor(d/sec)+l+' ago';}return 'just now';};
-      const stamp=document.getElementById('sigStamp');
-      if(stamp&&s.generatedAt){stamp.innerHTML='<span class="live-dot"></span>';stamp.append('live · updated '+ago(s.generatedAt));}
-      const recent=(s.github&&s.github.recent)||[];
-      const list=document.getElementById('activityList');
-      if(list&&recent.length){
-        recent.slice(0,5).forEach(c=>{
-          const li=document.createElement('li');
-          const repo=document.createElement('span');repo.className='arepo';repo.textContent=c.label||c.repo.split('/').pop();
-          const msg=document.createElement('span');msg.className='amsg';msg.textContent=c.message;msg.title=c.message;
-          const when=document.createElement('a');when.className='awhen';when.href=c.url;when.target='_blank';when.rel='noopener';when.textContent=ago(c.at);
-          li.append(repo,msg,when);list.appendChild(li);
+    <script>
+      const links = [...document.querySelectorAll(".navlinks a")];
+      const map = links
+        .map((a) => ({
+          a,
+          sec: document.querySelector(a.getAttribute("href")),
+        }))
+        .filter((x) => x.sec);
+      const onScroll = () => {
+        let cur = "";
+        map.forEach(({ sec }) => {
+          if (window.scrollY >= sec.offsetTop - 120) cur = sec.id;
         });
-        document.getElementById('activity').hidden=false;
-      }
-      const ai=((s.apps)||[]).find(a=>a.name==='aitrips.io');
-      const h=document.getElementById('aitripsHealth');
-      if(ai&&h&&typeof ai.reachable==='boolean'){
-        h.className='health '+(ai.reachable?'up':'down');
-        h.querySelector('.t').textContent=(ai.reachable?'live':'unreachable')+(ai.checkedAt?' · '+ago(ai.checkedAt):'');
-        h.hidden=false;
-      }
-    }catch(e){}
-  })();
-</script>
-</body>
+        links.forEach((a) =>
+          a.classList.toggle("active", a.getAttribute("href") === "#" + cur),
+        );
+      };
+      window.addEventListener("scroll", onScroll);
+      onScroll();
+
+      const io = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((e) => {
+            if (e.isIntersecting) {
+              e.target.classList.add("in");
+              io.unobserve(e.target);
+            }
+          });
+        },
+        { threshold: 0.12, rootMargin: "0px 0px -40px 0px" },
+      );
+      document.querySelectorAll(".reveal").forEach((el) => io.observe(el));
+
+      // theme toggle: manual override persists; otherwise follow system
+      const tgl = document.getElementById("themeToggle");
+      const mq = window.matchMedia("(prefers-color-scheme: dark)");
+      tgl.addEventListener("click", () => {
+        const next =
+          document.documentElement.getAttribute("data-theme") === "dark"
+            ? "light"
+            : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        try {
+          localStorage.setItem("theme", next);
+        } catch (e) {}
+      });
+      mq.addEventListener("change", (e) => {
+        try {
+          if (localStorage.getItem("theme")) return;
+        } catch (_) {}
+        document.documentElement.setAttribute(
+          "data-theme",
+          e.matches ? "dark" : "light",
+        );
+      });
+
+      // living signals: render signals.json (recent activity, app health, last-updated)
+      (async () => {
+        try {
+          const res = await fetch("signals.json?t=" + Date.now(), {
+            cache: "no-store",
+          });
+          if (!res.ok) return;
+          const s = await res.json();
+          const ago = (iso) => {
+            if (!iso) return "";
+            const d = (Date.now() - new Date(iso).getTime()) / 1000;
+            const u = [
+              [31536000, "y"],
+              [2592000, "mo"],
+              [604800, "w"],
+              [86400, "d"],
+              [3600, "h"],
+              [60, "m"],
+            ];
+            for (const [sec, l] of u) {
+              if (d >= sec) return Math.floor(d / sec) + l + " ago";
+            }
+            return "just now";
+          };
+          const stamp = document.getElementById("sigStamp");
+          if (stamp && s.generatedAt) {
+            stamp.innerHTML = '<span class="live-dot"></span>';
+            stamp.append("live · updated " + ago(s.generatedAt));
+          }
+          const recent = (s.github && s.github.recent) || [];
+          const list = document.getElementById("activityList");
+          if (list && recent.length) {
+            recent.slice(0, 5).forEach((c) => {
+              const li = document.createElement("li");
+              const repo = document.createElement("span");
+              repo.className = "arepo";
+              repo.textContent = c.label || c.repo.split("/").pop();
+              const msg = document.createElement("span");
+              msg.className = "amsg";
+              msg.textContent = c.message;
+              msg.title = c.message;
+              const when = document.createElement("a");
+              when.className = "awhen";
+              when.href = c.url;
+              when.target = "_blank";
+              when.rel = "noopener";
+              when.textContent = ago(c.at);
+              li.append(repo, msg, when);
+              list.appendChild(li);
+            });
+            document.getElementById("activity").hidden = false;
+          }
+          const ai = (s.apps || []).find((a) => a.name === "aitrips.io");
+          const h = document.getElementById("aitripsHealth");
+          if (ai && h && typeof ai.reachable === "boolean") {
+            h.className = "health " + (ai.reachable ? "up" : "down");
+            h.querySelector(".t").textContent =
+              (ai.reachable ? "live" : "unreachable") +
+              (ai.checkedAt ? " · " + ago(ai.checkedAt) : "");
+            h.hidden = false;
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </body>
 </html>
