@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T12:21:31.987Z",
+  "generatedAt": "2026-06-10T12:40:00.176Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-10T11:59:29Z"
+        "pushedAt": "2026-06-10T12:39:39Z"
       },
       {
         "name": "mcp-tools",
@@ -80,6 +80,12 @@
     "recent": [
       {
         "repo": "astondg/astondg.github.io",
+        "message": "add live product data to site",
+        "url": "https://github.com/astondg/astondg.github.io/commit/97b818dd98eca201e6f880efc429a21e953adf91",
+        "at": "2026-06-10T12:39:34Z"
+      },
+      {
+        "repo": "astondg/astondg.github.io",
         "message": "text cleanup",
         "url": "https://github.com/astondg/astondg.github.io/commit/4a4c0299ea725af4285808c085fbbf5f760f7a61",
         "at": "2026-06-10T11:59:24Z"
@@ -107,12 +113,6 @@
         "message": "fix(redis): use Redis.fromEnv() so Vercel KV vars work",
         "url": "https://github.com/astondg/mcp-tools/commit/da0d0ef9405f57536f4b725bf93e8b81b008a9dd",
         "at": "2026-05-21T12:37:57Z"
-      },
-      {
-        "repo": "astondg/next-departure",
-        "message": "Bias OG image times 15s forward to match e-ink display reality",
-        "url": "https://github.com/astondg/next-departure/commit/91e3e0ee1e3206d7a12c6f9c63a2e3a51701659c",
-        "at": "2026-03-11T07:06:58Z"
       }
     ]
   },
@@ -122,7 +122,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-10T12:21:30.400Z"
+      "checkedAt": "2026-06-10T12:39:59.278Z"
     },
     {
       "name": "JotCal",
