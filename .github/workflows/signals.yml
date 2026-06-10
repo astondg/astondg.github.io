@@ -28,6 +28,9 @@ jobs:
 
       - name: Build signals.json
         env:
+          # PAT with read access to the private product repos (trip-planner, home-dashboard,
+          # apple-grove). Falls back to the default token for public repos only.
+          SIGNALS_TOKEN: ${{ secrets.SIGNALS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/build-signals.mjs
 

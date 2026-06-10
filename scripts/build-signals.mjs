@@ -16,7 +16,20 @@
 
 const GH_USER = "astondg";
 const UA = "astondean-signals (+https://astondean.com)";
-const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
+// SIGNALS_TOKEN is a PAT with read access to the private product repos below.
+// The default Actions GITHUB_TOKEN is scoped to this repo only and can't read them,
+// so private-repo activity requires SIGNALS_TOKEN. Falls back to GITHUB_TOKEN/GH_TOKEN
+// (which still works for the public repos in the allowlist).
+const TOKEN = process.env.SIGNALS_TOKEN || process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
+
+// Allowlist for the recent-activity feed: only these repos appear, labelled by product.
+// Add/remove here to curate the feed. `private` is informational (these need SIGNALS_TOKEN).
+const ACTIVITY_REPOS = [
+  { repo: "trip-planner",   label: "aitrips.io",     private: true  },
+  { repo: "home-dashboard", label: "JotCal",         private: true  },
+  { repo: "apple-grove",    label: "TribeRide",      private: true  },
+  { repo: "next-departure", label: "Next Departure", private: false },
+];
 
 // Source of truth for products shown on the site.
 const APPS = [
@@ -73,23 +86,25 @@ async function buildGitHub() {
     console.error("repos:", e.message);
   }
 
-  // Recent commits across the most-recently-pushed repos.
+  // Recent commits — only from the curated ACTIVITY_REPOS allowlist, labelled by product.
   const recent = [];
-  for (const repo of repos.slice(0, 5)) {
+  for (const { repo, label } of ACTIVITY_REPOS) {
+    const full = `${GH_USER}/${repo}`;
     try {
-      const commits = await gh(`/repos/${repo.full}/commits?per_page=3`);
+      const commits = await gh(`/repos/${full}/commits?per_page=3`);
       for (const c of commits) {
         const msg = (c.commit?.message || "").split("\n")[0].slice(0, 120);
         if (!msg || msg.startsWith("chore: update signals")) continue; // skip our own bot commits
         recent.push({
-          repo: repo.full,
+          repo: full,
+          label,
           message: msg,
           url: c.html_url,
           at: c.commit?.author?.date || c.commit?.committer?.date,
         });
       }
     } catch (e) {
-      console.error(`commits ${repo.full}:`, e.message);
+      console.error(`commits ${full}:`, e.message);
     }
   }
   recent.sort((a, b) => new Date(b.at) - new Date(a.at));

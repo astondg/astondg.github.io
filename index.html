@@ -510,7 +510,7 @@
       if(list&&recent.length){
         recent.slice(0,5).forEach(c=>{
           const li=document.createElement('li');
-          const repo=document.createElement('span');repo.className='arepo';repo.textContent=c.repo.split('/').pop();
+          const repo=document.createElement('span');repo.className='arepo';repo.textContent=c.label||c.repo.split('/').pop();
           const msg=document.createElement('span');msg.className='amsg';msg.textContent=c.message;msg.title=c.message;
           const when=document.createElement('a');when.className='awhen';when.href=c.url;when.target='_blank';when.rel='noopener';when.textContent=ago(c.at);
           li.append(repo,msg,when);list.appendChild(li);

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T12:40:00.176Z",
+  "generatedAt": "2026-06-10T13:29:12.394Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-10T12:39:39Z"
+        "pushedAt": "2026-06-10T12:40:01Z"
       },
       {
         "name": "mcp-tools",
@@ -79,40 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/astondg.github.io",
-        "message": "add live product data to site",
-        "url": "https://github.com/astondg/astondg.github.io/commit/97b818dd98eca201e6f880efc429a21e953adf91",
-        "at": "2026-06-10T12:39:34Z"
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "[WIP] feat(mobile): help button with 3-second hold, confirmation dialog, and collaborator/emergency alert fanout (#519)",
+        "url": "https://github.com/astondg/trip-planner/commit/344361648391685d403de43c41c0f3d9c3311bda",
+        "at": "2026-06-10T10:01:01Z"
       },
       {
-        "repo": "astondg/astondg.github.io",
-        "message": "text cleanup",
-        "url": "https://github.com/astondg/astondg.github.io/commit/4a4c0299ea725af4285808c085fbbf5f760f7a61",
-        "at": "2026-06-10T11:59:24Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Empty-day daylight ribbon + local SunCalc sun-time fallback",
+        "url": "https://github.com/astondg/home-dashboard/commit/99a0406b1537883ac59923cf63bed12d221620a4",
+        "at": "2026-06-10T08:01:38Z"
       },
       {
-        "repo": "astondg/astondg.github.io",
-        "message": "Redesign website to add personal projects",
-        "url": "https://github.com/astondg/astondg.github.io/commit/8d9ebd2f64e7023e74c3ed8546458418326c2193",
-        "at": "2026-06-10T11:54:30Z"
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(automation): session-limit deferral + resumable build pipeline",
+        "url": "https://github.com/astondg/trip-planner/commit/1521b70a18b50c6cdc25c1118d65a9ab29ae08c5",
+        "at": "2026-06-09T07:57:47Z"
       },
       {
-        "repo": "astondg/mcp-tools",
-        "message": "fix(vault-ops): drop pino import so Turbopack build doesn't pull pino transports",
-        "url": "https://github.com/astondg/mcp-tools/commit/b15dba1c4d06f84788777388838a12591362bba4",
-        "at": "2026-05-22T10:10:13Z"
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(collab): add filterByTripPreference helper for per-trip notification preferences (#518)",
+        "url": "https://github.com/astondg/trip-planner/commit/dcacfaccadcc9a42127dca1d23c7fb80556ec8da",
+        "at": "2026-06-08T13:20:49Z"
       },
       {
-        "repo": "astondg/mcp-tools",
-        "message": "feat(vault-ops): add Strava activities proxy endpoint",
-        "url": "https://github.com/astondg/mcp-tools/commit/de07b26d3cfaf7a7f0f986e23435f48ca0de85aa",
-        "at": "2026-05-22T09:57:48Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Make Week widget bars size reachable (issue #3)",
+        "url": "https://github.com/astondg/home-dashboard/commit/990a106591c8cf46ff0c849aa083f435e674a6a9",
+        "at": "2026-06-04T07:23:34Z"
       },
       {
-        "repo": "astondg/mcp-tools",
-        "message": "fix(redis): use Redis.fromEnv() so Vercel KV vars work",
-        "url": "https://github.com/astondg/mcp-tools/commit/da0d0ef9405f57536f4b725bf93e8b81b008a9dd",
-        "at": "2026-05-21T12:37:57Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Add v2 Week home-screen widget (issue #3): bars + stack, load/capacity toggle",
+        "url": "https://github.com/astondg/home-dashboard/commit/37f1f78f82428a6e0374085d790ba55a5fc41d07",
+        "at": "2026-06-04T02:48:32Z"
       }
     ]
   },
@@ -122,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-10T12:39:59.278Z"
+      "checkedAt": "2026-06-10T13:29:10.215Z"
     },
     {
       "name": "JotCal",
