@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T07:48:57.587Z",
+  "generatedAt": "2026-06-12T13:20:50.172Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-12T01:12:12Z"
+        "pushedAt": "2026-06-12T07:48:58Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "chore(marketing): screenshot capture tooling + trip-page dev-error fixes (#535)",
+        "url": "https://github.com/astondg/trip-planner/commit/17331c887f4e76712d06035a717e792a73b63fd1",
+        "at": "2026-06-12T12:15:02Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trips): nearest hospital/pharmacy/embassy help card (#520)",
+        "url": "https://github.com/astondg/trip-planner/commit/5e3e643bc79bb5bf78e13d24f7700c72a8fb464a",
+        "at": "2026-06-12T10:42:32Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "docs: AI-first planning (Plan/Refine/Commit) design (#531)",
         "url": "https://github.com/astondg/trip-planner/commit/0e446b05c96c8e01377cf5c0e41c8da7348408c9",
         "at": "2026-06-12T05:44:45Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "chore(automation): atomic gh api review submission, 25-turn budget, skip generated files (#522)",
-        "url": "https://github.com/astondg/trip-planner/commit/fe5a67d9d7325f6f124c9c708a5f484ae9d368eb",
-        "at": "2026-06-10T21:18:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "[WIP] feat(mobile): help button with 3-second hold, confirmation dialog, and collaborator/emergency alert fanout (#519)",
-        "url": "https://github.com/astondg/trip-planner/commit/344361648391685d403de43c41c0f3d9c3311bda",
-        "at": "2026-06-10T10:01:01Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-12T07:48:56.813Z"
+      "checkedAt": "2026-06-12T13:20:49.315Z"
     },
     {
       "name": "JotCal",
