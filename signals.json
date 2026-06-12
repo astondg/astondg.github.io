@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T01:12:11.278Z",
+  "generatedAt": "2026-06-12T07:48:57.587Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-11T19:08:24Z"
+        "pushedAt": "2026-06-12T01:12:12Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "docs: AI-first planning (Plan/Refine/Commit) design (#531)",
+        "url": "https://github.com/astondg/trip-planner/commit/0e446b05c96c8e01377cf5c0e41c8da7348408c9",
+        "at": "2026-06-12T05:44:45Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "chore(automation): atomic gh api review submission, 25-turn budget, skip generated files (#522)",
         "url": "https://github.com/astondg/trip-planner/commit/fe5a67d9d7325f6f124c9c708a5f484ae9d368eb",
         "at": "2026-06-10T21:18:14Z"
@@ -98,13 +105,6 @@
         "message": "Empty-day daylight ribbon + local SunCalc sun-time fallback",
         "url": "https://github.com/astondg/home-dashboard/commit/99a0406b1537883ac59923cf63bed12d221620a4",
         "at": "2026-06-10T08:01:38Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(automation): session-limit deferral + resumable build pipeline",
-        "url": "https://github.com/astondg/trip-planner/commit/1521b70a18b50c6cdc25c1118d65a9ab29ae08c5",
-        "at": "2026-06-09T07:57:47Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-12T01:12:10.298Z"
+      "checkedAt": "2026-06-12T07:48:56.813Z"
     },
     {
       "name": "JotCal",
