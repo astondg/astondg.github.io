@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:28:29.259Z",
+  "generatedAt": "2026-06-13T12:46:09.012Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-13T01:10:18Z"
+        "pushedAt": "2026-06-13T07:28:29Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,30 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(mcp): add Anthropic prompt caching to in-app AI features (#542)",
+        "url": "https://github.com/astondg/trip-planner/commit/3f70709e88dc8b7564f19f0e87920f24a5462155",
+        "at": "2026-06-13T12:14:38Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Wire JotCal API key from local.properties; add screenshot tooling + store description",
+        "url": "https://github.com/astondg/home-dashboard/commit/2ffffe5881b94e432fae9f2a0582eaf6b2fcb811",
+        "at": "2026-06-13T10:54:25Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trips): add commitDraftPlan server action to lock in draft itinerary (#541)",
+        "url": "https://github.com/astondg/trip-planner/commit/dd80158dc63d220ed69841afde5825e6846a6aba",
+        "at": "2026-06-13T10:14:02Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(trips): draft plan generation server action (#538)",
         "url": "https://github.com/astondg/trip-planner/commit/0f35964a1722352151adf03a297b3e481a56a869",
         "at": "2026-06-13T05:03:58Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "chore(automation): let the build pipeline accept tech-debt/refactor/perf tasks (#539)",
-        "url": "https://github.com/astondg/trip-planner/commit/1e339a11950ed7869407dc2defd8f542fce3002a",
-        "at": "2026-06-13T02:03:32Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(automation): salvage pr-review-* orphans and route them correctly (#523)",
-        "url": "https://github.com/astondg/trip-planner/commit/2186d2105c3985c0060de1571521b2f72ae5a2e3",
-        "at": "2026-06-13T00:52:34Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -112,13 +119,6 @@
         "message": "Make Week widget bars size reachable (issue #3)",
         "url": "https://github.com/astondg/home-dashboard/commit/990a106591c8cf46ff0c849aa083f435e674a6a9",
         "at": "2026-06-04T07:23:34Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add v2 Week home-screen widget (issue #3): bars + stack, load/capacity toggle",
-        "url": "https://github.com/astondg/home-dashboard/commit/37f1f78f82428a6e0374085d790ba55a5fc41d07",
-        "at": "2026-06-04T02:48:32Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-13T07:28:28.452Z"
+      "checkedAt": "2026-06-13T12:46:08.580Z"
     },
     {
       "name": "JotCal",
