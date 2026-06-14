@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T01:12:02.480Z",
+  "generatedAt": "2026-06-14T07:46:00.801Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-13T18:37:08Z"
+        "pushedAt": "2026-06-14T01:12:03Z"
       },
       {
         "name": "mcp-tools",
@@ -81,16 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(display): remove Pro badge from Quick Assist button (#544)",
-        "url": "https://github.com/astondg/trip-planner/commit/2c666a3a0b0c48b798ff0d888d33690dbd31e2e4",
-        "at": "2026-06-13T23:10:16Z"
+        "message": "feat(trips): bias draft-plan item geocoding toward trip destination (#547)",
+        "url": "https://github.com/astondg/trip-planner/commit/68493dd2dc800e5a21c906773abbe81c4e69ea01",
+        "at": "2026-06-14T06:36:31Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(mcp): add Anthropic prompt caching to in-app AI features (#542)",
-        "url": "https://github.com/astondg/trip-planner/commit/3f70709e88dc8b7564f19f0e87920f24a5462155",
-        "at": "2026-06-13T12:14:38Z"
+        "message": "fix(automation): stop pipeline pushes from blocking on a permission push (#551)",
+        "url": "https://github.com/astondg/trip-planner/commit/fe582ea0d6449db5e7c2af86083c349539e2e680",
+        "at": "2026-06-14T06:30:00Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trips): wire starter AI option into draft plan flow (#543)",
+        "url": "https://github.com/astondg/trip-planner/commit/af6e4514981a0e1bfda4d30dcb2413658bce98e3",
+        "at": "2026-06-14T06:14:55Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -98,13 +105,6 @@
         "message": "Wire JotCal API key from local.properties; add screenshot tooling + store description",
         "url": "https://github.com/astondg/home-dashboard/commit/2ffffe5881b94e432fae9f2a0582eaf6b2fcb811",
         "at": "2026-06-13T10:54:25Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): add commitDraftPlan server action to lock in draft itinerary (#541)",
-        "url": "https://github.com/astondg/trip-planner/commit/dd80158dc63d220ed69841afde5825e6846a6aba",
-        "at": "2026-06-13T10:14:02Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-14T01:12:01.227Z"
+      "checkedAt": "2026-06-14T07:46:00.243Z"
     },
     {
       "name": "JotCal",
