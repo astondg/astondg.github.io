@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T07:46:00.801Z",
+  "generatedAt": "2026-06-14T12:48:58.373Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-14T01:12:03Z"
+        "pushedAt": "2026-06-14T07:46:01Z"
       },
       {
         "name": "mcp-tools",
@@ -79,25 +79,32 @@
     ],
     "recent": [
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): bias draft-plan item geocoding toward trip destination (#547)",
-        "url": "https://github.com/astondg/trip-planner/commit/68493dd2dc800e5a21c906773abbe81c4e69ea01",
-        "at": "2026-06-14T06:36:31Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Make Week widget a rolling next-7-days window (today = day[0])",
+        "url": "https://github.com/astondg/home-dashboard/commit/79b16199fcdd1aa71cf7ca7540628eea06f7d395",
+        "at": "2026-06-14T10:08:39Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(automation): stop pipeline pushes from blocking on a permission push (#551)",
-        "url": "https://github.com/astondg/trip-planner/commit/fe582ea0d6449db5e7c2af86083c349539e2e680",
-        "at": "2026-06-14T06:30:00Z"
+        "message": "test(smoke): realign @smoke suite to a high-signal core (#553)",
+        "url": "https://github.com/astondg/trip-planner/commit/5f1e04f2974f67c1b609b020841fc2f8cdbc3ddd",
+        "at": "2026-06-14T09:44:47Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trips): wire starter AI option into draft plan flow (#543)",
-        "url": "https://github.com/astondg/trip-planner/commit/af6e4514981a0e1bfda4d30dcb2413658bce98e3",
-        "at": "2026-06-14T06:14:55Z"
+        "message": "fix(trips): derive dates from startDate + day index in commitDraftPlan (#550)",
+        "url": "https://github.com/astondg/trip-planner/commit/dbcda774180cee46739b86db0fc0bd61ebdf09ed",
+        "at": "2026-06-14T09:26:47Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trips): wire DestinationSearch autocomplete into OnboardingTripForm (#549)",
+        "url": "https://github.com/astondg/trip-planner/commit/c6746f4b7f91ba3de353c3d835126b2d368b7db0",
+        "at": "2026-06-14T08:00:14Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -112,13 +119,6 @@
         "message": "Empty-day daylight ribbon + local SunCalc sun-time fallback",
         "url": "https://github.com/astondg/home-dashboard/commit/99a0406b1537883ac59923cf63bed12d221620a4",
         "at": "2026-06-10T08:01:38Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Make Week widget bars size reachable (issue #3)",
-        "url": "https://github.com/astondg/home-dashboard/commit/990a106591c8cf46ff0c849aa083f435e674a6a9",
-        "at": "2026-06-04T07:23:34Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-14T07:46:00.243Z"
+      "checkedAt": "2026-06-14T12:48:57.435Z"
     },
     {
       "name": "JotCal",
