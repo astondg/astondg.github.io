@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T18:38:18.579Z",
+  "generatedAt": "2026-06-15T01:14:18.848Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-14T12:48:59Z"
+        "pushedAt": "2026-06-14T18:38:19Z"
       },
       {
         "name": "mcp-tools",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Make Week widget a rolling next-7-days window (today = day[0])",
-        "url": "https://github.com/astondg/home-dashboard/commit/79b16199fcdd1aa71cf7ca7540628eea06f7d395",
-        "at": "2026-06-14T10:08:39Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "test(smoke): realign @smoke suite to a high-signal core (#553)",
-        "url": "https://github.com/astondg/trip-planner/commit/5f1e04f2974f67c1b609b020841fc2f8cdbc3ddd",
-        "at": "2026-06-14T09:44:47Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(trips): derive dates from startDate + day index in commitDraftPlan (#550)",
-        "url": "https://github.com/astondg/trip-planner/commit/dbcda774180cee46739b86db0fc0bd61ebdf09ed",
-        "at": "2026-06-14T09:26:47Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): wire DestinationSearch autocomplete into OnboardingTripForm (#549)",
-        "url": "https://github.com/astondg/trip-planner/commit/c6746f4b7f91ba3de353c3d835126b2d368b7db0",
-        "at": "2026-06-14T08:00:14Z"
+        "message": "Add screenshot framing tool and harden the capture pipeline",
+        "url": "https://github.com/astondg/home-dashboard/commit/84ae009b62d4fc3c39f8272f6f2d017cf4aa0381",
+        "at": "2026-06-15T00:54:21Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Wire JotCal API key from local.properties; add screenshot tooling + store description",
-        "url": "https://github.com/astondg/home-dashboard/commit/2ffffe5881b94e432fae9f2a0582eaf6b2fcb811",
-        "at": "2026-06-13T10:54:25Z"
+        "message": "Make the pinned debug clock reach the UI; add screenshot test hooks",
+        "url": "https://github.com/astondg/home-dashboard/commit/cca5981d95989e3c1f3c0641f9f497fa0097e27f",
+        "at": "2026-06-15T00:53:52Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Empty-day daylight ribbon + local SunCalc sun-time fallback",
-        "url": "https://github.com/astondg/home-dashboard/commit/99a0406b1537883ac59923cf63bed12d221620a4",
-        "at": "2026-06-10T08:01:38Z"
+        "message": "Add Inter typeface and a warm three-role colour palette",
+        "url": "https://github.com/astondg/home-dashboard/commit/e1552967bb76fd8a132ce647577d7246fcaf3477",
+        "at": "2026-06-15T00:52:36Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(marketing): seed trip_activity history for the flagship trip",
+        "url": "https://github.com/astondg/trip-planner/commit/8c10ccd220af1e2e6560909a56ff2928350e6487",
+        "at": "2026-06-15T00:34:03Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(map): scale route line width with zoom and lift all-days opacity",
+        "url": "https://github.com/astondg/trip-planner/commit/3bddc832f058262e41a57c75c3bfbcf4e94e29d7",
+        "at": "2026-06-15T00:34:03Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "[WIP] feat(ai): multi-turn agent loop in assist route (tool results flow back) (#560)",
+        "url": "https://github.com/astondg/trip-planner/commit/6417115aa81eb2837bfed28c29ec038a54b85773",
+        "at": "2026-06-14T21:45:25Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-14T18:38:18.285Z"
+      "checkedAt": "2026-06-15T01:14:18.406Z"
     },
     {
       "name": "JotCal",
