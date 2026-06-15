@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T01:14:18.848Z",
+  "generatedAt": "2026-06-15T08:16:08.571Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-14T18:38:19Z"
+        "pushedAt": "2026-06-15T01:14:19Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Chore/marketing ux eval 2026 06 15 (#577)",
+        "url": "https://github.com/astondg/trip-planner/commit/444fe429d82112b9f7b2cc8c9bdd082d9513659b",
+        "at": "2026-06-15T04:27:09Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(map): colour map markers by day to match itinerary day dots (#576)",
+        "url": "https://github.com/astondg/trip-planner/commit/32254df2f1cc7d9066d9f963e6c2063629b89f11",
+        "at": "2026-06-15T03:58:51Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #13 from astondg/calendar-overflow-scroll",
+        "url": "https://github.com/astondg/home-dashboard/commit/ce90e90fc435ef6c2c5781efde1d95eb2ac974e7",
+        "at": "2026-06-15T03:54:07Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Calendar overflow/scroll: cell fades, timeline lanes, scroll + tests",
+        "url": "https://github.com/astondg/home-dashboard/commit/b5326eb130ca38d9e793b4af545cc9b13d6f3f2e",
+        "at": "2026-06-15T03:47:13Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Add screenshot framing tool and harden the capture pipeline",
@@ -86,39 +114,11 @@
         "at": "2026-06-15T00:54:21Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Make the pinned debug clock reach the UI; add screenshot test hooks",
-        "url": "https://github.com/astondg/home-dashboard/commit/cca5981d95989e3c1f3c0641f9f497fa0097e27f",
-        "at": "2026-06-15T00:53:52Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add Inter typeface and a warm three-role colour palette",
-        "url": "https://github.com/astondg/home-dashboard/commit/e1552967bb76fd8a132ce647577d7246fcaf3477",
-        "at": "2026-06-15T00:52:36Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(marketing): seed trip_activity history for the flagship trip",
         "url": "https://github.com/astondg/trip-planner/commit/8c10ccd220af1e2e6560909a56ff2928350e6487",
         "at": "2026-06-15T00:34:03Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(map): scale route line width with zoom and lift all-days opacity",
-        "url": "https://github.com/astondg/trip-planner/commit/3bddc832f058262e41a57c75c3bfbcf4e94e29d7",
-        "at": "2026-06-15T00:34:03Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "[WIP] feat(ai): multi-turn agent loop in assist route (tool results flow back) (#560)",
-        "url": "https://github.com/astondg/trip-planner/commit/6417115aa81eb2837bfed28c29ec038a54b85773",
-        "at": "2026-06-14T21:45:25Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-15T01:14:18.406Z"
+      "checkedAt": "2026-06-15T08:16:07.864Z"
     },
     {
       "name": "JotCal",
