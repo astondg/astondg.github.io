@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T08:09:42.088Z",
+  "generatedAt": "2026-06-16T13:59:16.155Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-16T01:17:06Z"
+        "pushedAt": "2026-06-16T08:09:43Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(map): collision-aware markers and badge suppression at low zoom (#578)",
+        "url": "https://github.com/astondg/trip-planner/commit/ec63b7578004b74d708236ede758074c2c755f29",
+        "at": "2026-06-16T11:54:48Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(ai): unify the chat surface with the draft (mode-aware single panel) (#557) (#583)",
+        "url": "https://github.com/astondg/trip-planner/commit/be6fa0daa66c5feb3b2688ce5829c20053e77ac4",
+        "at": "2026-06-16T09:38:28Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge pull request #14 from astondg/promo-video",
@@ -105,20 +119,6 @@
         "message": "fix(map): add casing layer to route lines for light basemap contrast (#579)",
         "url": "https://github.com/astondg/trip-planner/commit/0a4e2b4d8a11d25ef9d69cfbd896986093c78787",
         "at": "2026-06-15T09:13:36Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(mcp): add patch_draft assist-loop tool for structured draft mutations (#562)",
-        "url": "https://github.com/astondg/trip-planner/commit/aff112d9c51e86781e70f3a3455caea217355f20",
-        "at": "2026-06-15T09:09:42Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(marketing): replace Smartphone icon with Phone in landing page eyebrow (#581)",
-        "url": "https://github.com/astondg/trip-planner/commit/9d8fe1c6fbb3d9589bed144c56f391b410c8d4cf",
-        "at": "2026-06-15T08:28:27Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-16T08:09:42.087Z"
+      "checkedAt": "2026-06-16T13:59:16.146Z"
     },
     {
       "name": "JotCal",
