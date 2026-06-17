@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T08:04:02.845Z",
+  "generatedAt": "2026-06-17T13:26:11.407Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-17T01:11:55Z"
+        "pushedAt": "2026-06-17T08:04:03Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #15 from astondg/promo-video",
+        "url": "https://github.com/astondg/home-dashboard/commit/1964e1d192acde114539b540b0db312e45f8a0d7",
+        "at": "2026-06-17T13:02:47Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Sync promo narration per scene; fix render.sh CWD",
+        "url": "https://github.com/astondg/home-dashboard/commit/730694515b6612dbaa72f0cc8f22d4b9e8b6f8d3",
+        "at": "2026-06-17T13:01:40Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Add handwriting→event overlay to Play Store feature graphic",
+        "url": "https://github.com/astondg/home-dashboard/commit/9d1a98367737a6043e091a3935ffcda9b17b64a2",
+        "at": "2026-06-17T12:20:02Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(map): collision-aware markers and badge suppression at low zoom (#578)",
@@ -91,27 +112,6 @@
         "message": "feat(ai): unify the chat surface with the draft (mode-aware single panel) (#557) (#583)",
         "url": "https://github.com/astondg/trip-planner/commit/be6fa0daa66c5feb3b2688ce5829c20053e77ac4",
         "at": "2026-06-16T09:38:28Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #14 from astondg/promo-video",
-        "url": "https://github.com/astondg/home-dashboard/commit/95a04d9050881b02e970d89a317be4a8f7a81d78",
-        "at": "2026-06-15T11:43:34Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add Play Store feature graphic + reproducible generator",
-        "url": "https://github.com/astondg/home-dashboard/commit/116f7a1da17f94c53d6f4dd2d77074772c00e6a0",
-        "at": "2026-06-15T11:36:13Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add Remotion promo video pipeline (landscape + vertical)",
-        "url": "https://github.com/astondg/home-dashboard/commit/e960cb827997c0335f87acb37160b1ce8604ff08",
-        "at": "2026-06-15T11:31:58Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-17T08:04:01.919Z"
+      "checkedAt": "2026-06-17T13:26:10.207Z"
     },
     {
       "name": "JotCal",
