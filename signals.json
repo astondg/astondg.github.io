@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T01:11:03.004Z",
+  "generatedAt": "2026-06-18T07:53:39.203Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-17T18:58:31Z"
+        "pushedAt": "2026-06-18T01:11:03Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(ai): omit accommodation and arrival/departure logistics from starter plans (#597)",
+        "url": "https://github.com/astondg/trip-planner/commit/35e2d90330204ab1c19eccfa5787a097160233a1",
+        "at": "2026-06-18T02:54:54Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Tidy promo narration copy (JotCal one word, settings line punctuation)",
+        "url": "https://github.com/astondg/home-dashboard/commit/f89d8f11bd4f543019abf98329a97821cc1c9f71",
+        "at": "2026-06-18T02:21:17Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Prep Android release build: clean manifest, shrink AAB, fix fragile deps",
+        "url": "https://github.com/astondg/home-dashboard/commit/3a2b88825adb5cb8eb238afc00c666a1a985c4e0",
+        "at": "2026-06-18T02:21:17Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trips): persistent AI entry card and empty-state discoverability (#592)",
+        "url": "https://github.com/astondg/trip-planner/commit/88e729b785e1edb27cbf2694b7c78a51716ff7eb",
+        "at": "2026-06-18T01:50:18Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge pull request #15 from astondg/promo-video",
@@ -86,39 +114,11 @@
         "at": "2026-06-17T13:02:47Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Sync promo narration per scene; fix render.sh CWD",
-        "url": "https://github.com/astondg/home-dashboard/commit/730694515b6612dbaa72f0cc8f22d4b9e8b6f8d3",
-        "at": "2026-06-17T13:01:40Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add handwriting→event overlay to Play Store feature graphic",
-        "url": "https://github.com/astondg/home-dashboard/commit/9d1a98367737a6043e091a3935ffcda9b17b64a2",
-        "at": "2026-06-17T12:20:02Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(map): collision-aware markers and badge suppression at low zoom (#578)",
         "url": "https://github.com/astondg/trip-planner/commit/ec63b7578004b74d708236ede758074c2c755f29",
         "at": "2026-06-16T11:54:48Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): unify the chat surface with the draft (mode-aware single panel) (#557) (#583)",
-        "url": "https://github.com/astondg/trip-planner/commit/be6fa0daa66c5feb3b2688ce5829c20053e77ac4",
-        "at": "2026-06-16T09:38:28Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(map): add casing layer to route lines for light basemap contrast (#579)",
-        "url": "https://github.com/astondg/trip-planner/commit/0a4e2b4d8a11d25ef9d69cfbd896986093c78787",
-        "at": "2026-06-15T09:13:36Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-18T01:11:02.491Z"
+      "checkedAt": "2026-06-18T07:53:38.820Z"
     },
     {
       "name": "JotCal",
