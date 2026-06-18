@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T07:53:39.203Z",
+  "generatedAt": "2026-06-18T13:21:06.099Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-18T01:11:03Z"
+        "pushedAt": "2026-06-18T07:53:40Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Bump to 1.0.1; add debug MSAL config, device ID & data-deletion settings",
+        "url": "https://github.com/astondg/home-dashboard/commit/6bd5b4e18feb0daa9433bf2c832f9cc09747644f",
+        "at": "2026-06-18T13:07:19Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(infra): add missing onRouterTransitionStart export for Sentry nav instrumentation (#599)",
+        "url": "https://github.com/astondg/trip-planner/commit/4f1865e8cf6c83fda1585b98a65f07a6347b841d",
+        "at": "2026-06-18T12:17:59Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(ai): omit accommodation and arrival/departure logistics from starter plans (#597)",
@@ -105,20 +119,6 @@
         "message": "feat(trips): persistent AI entry card and empty-state discoverability (#592)",
         "url": "https://github.com/astondg/trip-planner/commit/88e729b785e1edb27cbf2694b7c78a51716ff7eb",
         "at": "2026-06-18T01:50:18Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #15 from astondg/promo-video",
-        "url": "https://github.com/astondg/home-dashboard/commit/1964e1d192acde114539b540b0db312e45f8a0d7",
-        "at": "2026-06-17T13:02:47Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(map): collision-aware markers and badge suppression at low zoom (#578)",
-        "url": "https://github.com/astondg/trip-planner/commit/ec63b7578004b74d708236ede758074c2c755f29",
-        "at": "2026-06-16T11:54:48Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-18T07:53:38.820Z"
+      "checkedAt": "2026-06-18T13:21:05.480Z"
     },
     {
       "name": "JotCal",
