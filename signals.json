@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T18:56:12.702Z",
+  "generatedAt": "2026-06-19T01:16:50.406Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-18T13:21:06Z"
+        "pushedAt": "2026-06-18T18:56:13Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal: Phases 0–1 — EventKit-native calendar, tasks, notes + NL parser",
+        "url": "https://github.com/astondg/apple-grove/commit/42c6833961e2c5ba92394531ce899c36e9b4e3f0",
+        "at": "2026-06-18T21:16:28Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Bump to 1.0.1; add debug MSAL config, device ID & data-deletion settings",
@@ -112,13 +119,6 @@
         "message": "Prep Android release build: clean manifest, shrink AAB, fix fragile deps",
         "url": "https://github.com/astondg/home-dashboard/commit/3a2b88825adb5cb8eb238afc00c666a1a985c4e0",
         "at": "2026-06-18T02:21:17Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): persistent AI entry card and empty-state discoverability (#592)",
-        "url": "https://github.com/astondg/trip-planner/commit/88e729b785e1edb27cbf2694b7c78a51716ff7eb",
-        "at": "2026-06-18T01:50:18Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-18T18:56:11.505Z"
+      "checkedAt": "2026-06-19T01:16:49.841Z"
     },
     {
       "name": "JotCal",
