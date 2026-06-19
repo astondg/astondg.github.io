@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T08:04:07.061Z",
+  "generatedAt": "2026-06-19T13:20:20.449Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-19T01:16:51Z"
+        "pushedAt": "2026-06-19T08:04:07Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trips): fix transport suggestion card race and show inline no-route cards (#601)",
+        "url": "https://github.com/astondg/trip-planner/commit/1f4264ed53fa423baa50d94fa54155868a0d7f82",
+        "at": "2026-06-19T13:12:42Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(mobile): add scroll affordance fade to dashboard filter tabs (#584)",
+        "url": "https://github.com/astondg/trip-planner/commit/342ca40fc1ef6b9529063adcd240eefddf136a27",
+        "at": "2026-06-19T12:20:15Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal: Phase 2 — Clock Day / Week Pulse / Timeline / Dashboard layouts + Liquid Glass chrome",
+        "url": "https://github.com/astondg/apple-grove/commit/0c28865f7689d5b478960bd9cbc0956bb6adbabe",
+        "at": "2026-06-19T10:11:43Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal: Phase 2 — InsightsEngine + amber \"Next Up\" / day-summary header",
+        "url": "https://github.com/astondg/apple-grove/commit/339208986399821eea07f3c204d7f1c5eb1327c4",
+        "at": "2026-06-19T09:02:02Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "jotcal: Phases 0–1 — EventKit-native calendar, tasks, notes + NL parser",
@@ -91,34 +119,6 @@
         "message": "Bump to 1.0.1; add debug MSAL config, device ID & data-deletion settings",
         "url": "https://github.com/astondg/home-dashboard/commit/6bd5b4e18feb0daa9433bf2c832f9cc09747644f",
         "at": "2026-06-18T13:07:19Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(infra): add missing onRouterTransitionStart export for Sentry nav instrumentation (#599)",
-        "url": "https://github.com/astondg/trip-planner/commit/4f1865e8cf6c83fda1585b98a65f07a6347b841d",
-        "at": "2026-06-18T12:17:59Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): omit accommodation and arrival/departure logistics from starter plans (#597)",
-        "url": "https://github.com/astondg/trip-planner/commit/35e2d90330204ab1c19eccfa5787a097160233a1",
-        "at": "2026-06-18T02:54:54Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Tidy promo narration copy (JotCal one word, settings line punctuation)",
-        "url": "https://github.com/astondg/home-dashboard/commit/f89d8f11bd4f543019abf98329a97821cc1c9f71",
-        "at": "2026-06-18T02:21:17Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Prep Android release build: clean manifest, shrink AAB, fix fragile deps",
-        "url": "https://github.com/astondg/home-dashboard/commit/3a2b88825adb5cb8eb238afc00c666a1a985c4e0",
-        "at": "2026-06-18T02:21:17Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-19T08:04:06.455Z"
+      "checkedAt": "2026-06-19T13:20:20.449Z"
     },
     {
       "name": "JotCal",
