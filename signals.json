@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T01:06:16.403Z",
+  "generatedAt": "2026-06-20T07:30:06.528Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-19T18:44:54Z"
+        "pushedAt": "2026-06-20T01:06:17Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #19 from astondg/crashlytics-feedback-v1.0.2",
+        "url": "https://github.com/astondg/home-dashboard/commit/f60f9e76b4f935d82266d2a91b4c4b8ce56698bb",
+        "at": "2026-06-20T07:27:18Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Add Crashlytics + in-app feedback (v1.0.2); closes #16",
+        "url": "https://github.com/astondg/home-dashboard/commit/30fdc396e545642832fc6d93bad924325f62dd3e",
+        "at": "2026-06-20T07:18:50Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(display): make mobile Travel mode timeline cards fully opaque (#585)",
+        "url": "https://github.com/astondg/trip-planner/commit/ee25ac3729e767d6e3e59db251d3e62d5dfa4ade",
+        "at": "2026-06-20T06:56:21Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal: Maestro E2E suite (iPhone + iPad) + Phase 2 polish",
+        "url": "https://github.com/astondg/apple-grove/commit/a6b06ea2d6718b8b3c6b5d228119aac40d52b4e8",
+        "at": "2026-06-20T06:26:04Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(trips): fix transport suggestion card race and show inline no-route cards (#601)",
@@ -91,34 +119,6 @@
         "message": "fix(mobile): add scroll affordance fade to dashboard filter tabs (#584)",
         "url": "https://github.com/astondg/trip-planner/commit/342ca40fc1ef6b9529063adcd240eefddf136a27",
         "at": "2026-06-19T12:20:15Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal: Phase 2 — Clock Day / Week Pulse / Timeline / Dashboard layouts + Liquid Glass chrome",
-        "url": "https://github.com/astondg/apple-grove/commit/0c28865f7689d5b478960bd9cbc0956bb6adbabe",
-        "at": "2026-06-19T10:11:43Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal: Phase 2 — InsightsEngine + amber \"Next Up\" / day-summary header",
-        "url": "https://github.com/astondg/apple-grove/commit/339208986399821eea07f3c204d7f1c5eb1327c4",
-        "at": "2026-06-19T09:02:02Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal: Phases 0–1 — EventKit-native calendar, tasks, notes + NL parser",
-        "url": "https://github.com/astondg/apple-grove/commit/42c6833961e2c5ba92394531ce899c36e9b4e3f0",
-        "at": "2026-06-18T21:16:28Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Bump to 1.0.1; add debug MSAL config, device ID & data-deletion settings",
-        "url": "https://github.com/astondg/home-dashboard/commit/6bd5b4e18feb0daa9433bf2c832f9cc09747644f",
-        "at": "2026-06-18T13:07:19Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-20T01:06:15.869Z"
+      "checkedAt": "2026-06-20T07:30:06.011Z"
     },
     {
       "name": "JotCal",
