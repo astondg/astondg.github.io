@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T07:30:06.528Z",
+  "generatedAt": "2026-06-20T12:46:08.024Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-20T01:06:17Z"
+        "pushedAt": "2026-06-20T07:30:07Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal: Phase 3 handwriting end-to-end + Phase 5 widgets/shared refactor",
+        "url": "https://github.com/astondg/apple-grove/commit/aabcd3ef086a20023c729289b4c5dbe342d1b6fc",
+        "at": "2026-06-20T12:38:37Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "[WIP] fix(map): pad fitBounds for side-panel insets so pins aren't hidden (#580)",
+        "url": "https://github.com/astondg/trip-planner/commit/eee3cec31200c95139702ff381c9518823b386e1",
+        "at": "2026-06-20T10:52:00Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal: rolling 7-day window + Android-aligned 3×3 grid",
+        "url": "https://github.com/astondg/apple-grove/commit/1b885b5ca5fb6854ed2d44491f4ea7e05393211c",
+        "at": "2026-06-20T10:38:00Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge pull request #19 from astondg/crashlytics-feedback-v1.0.2",
@@ -98,27 +119,6 @@
         "message": "fix(display): make mobile Travel mode timeline cards fully opaque (#585)",
         "url": "https://github.com/astondg/trip-planner/commit/ee25ac3729e767d6e3e59db251d3e62d5dfa4ade",
         "at": "2026-06-20T06:56:21Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal: Maestro E2E suite (iPhone + iPad) + Phase 2 polish",
-        "url": "https://github.com/astondg/apple-grove/commit/a6b06ea2d6718b8b3c6b5d228119aac40d52b4e8",
-        "at": "2026-06-20T06:26:04Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(trips): fix transport suggestion card race and show inline no-route cards (#601)",
-        "url": "https://github.com/astondg/trip-planner/commit/1f4264ed53fa423baa50d94fa54155868a0d7f82",
-        "at": "2026-06-19T13:12:42Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(mobile): add scroll affordance fade to dashboard filter tabs (#584)",
-        "url": "https://github.com/astondg/trip-planner/commit/342ca40fc1ef6b9529063adcd240eefddf136a27",
-        "at": "2026-06-19T12:20:15Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-20T07:30:06.011Z"
+      "checkedAt": "2026-06-20T12:46:07.309Z"
     },
     {
       "name": "JotCal",
