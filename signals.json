@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T12:46:08.024Z",
+  "generatedAt": "2026-06-20T18:38:15.187Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-20T07:30:07Z"
+        "pushedAt": "2026-06-20T12:46:08Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trip): contain Edit Item / Discussion modal — clipping + stray red glow (#582)",
+        "url": "https://github.com/astondg/trip-planner/commit/5490100e2a3e9f29394405c1d11de93f62763ed5",
+        "at": "2026-06-20T13:15:51Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "jotcal: Phase 3 handwriting end-to-end + Phase 5 widgets/shared refactor",
@@ -112,13 +119,6 @@
         "message": "Add Crashlytics + in-app feedback (v1.0.2); closes #16",
         "url": "https://github.com/astondg/home-dashboard/commit/30fdc396e545642832fc6d93bad924325f62dd3e",
         "at": "2026-06-20T07:18:50Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(display): make mobile Travel mode timeline cards fully opaque (#585)",
-        "url": "https://github.com/astondg/trip-planner/commit/ee25ac3729e767d6e3e59db251d3e62d5dfa4ade",
-        "at": "2026-06-20T06:56:21Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-20T12:46:07.309Z"
+      "checkedAt": "2026-06-20T18:38:14.833Z"
     },
     {
       "name": "JotCal",
