@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T18:38:15.187Z",
+  "generatedAt": "2026-06-21T01:13:51.731Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-20T12:46:08Z"
+        "pushedAt": "2026-06-20T18:38:16Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Fix Android 13 startup crash + MSAL release sign-in; ship 1.0.3",
+        "url": "https://github.com/astondg/home-dashboard/commit/55ef262b6b23722e6c7636cc429c761ef8765d38",
+        "at": "2026-06-21T00:51:47Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(trip): contain Edit Item / Discussion modal — clipping + stray red glow (#582)",
@@ -112,13 +119,6 @@
         "message": "Merge pull request #19 from astondg/crashlytics-feedback-v1.0.2",
         "url": "https://github.com/astondg/home-dashboard/commit/f60f9e76b4f935d82266d2a91b4c4b8ce56698bb",
         "at": "2026-06-20T07:27:18Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add Crashlytics + in-app feedback (v1.0.2); closes #16",
-        "url": "https://github.com/astondg/home-dashboard/commit/30fdc396e545642832fc6d93bad924325f62dd3e",
-        "at": "2026-06-20T07:18:50Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-20T18:38:14.833Z"
+      "checkedAt": "2026-06-21T01:13:51.381Z"
     },
     {
       "name": "JotCal",
