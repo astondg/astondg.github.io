@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T01:13:51.731Z",
+  "generatedAt": "2026-06-21T07:48:36.735Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-20T18:38:16Z"
+        "pushedAt": "2026-06-21T01:13:52Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,34 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Add empty-today ambient screenshot shot; ribbon polish + window re-anchor fix",
+        "url": "https://github.com/astondg/home-dashboard/commit/78dce2200248c7d82df2ed67f33fbb7bcc4069f0",
+        "at": "2026-06-21T05:18:15Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(seo): make OG/Twitter metadata image routes publicly accessible (#614)",
+        "url": "https://github.com/astondg/trip-planner/commit/22c6a4018fd9c2b10bed6a7fe9d50558159d3b5d",
+        "at": "2026-06-21T03:04:44Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Fix non-conformant-ROM crashes (font resolver + ProfileInstaller); ship 1.0.4",
+        "url": "https://github.com/astondg/home-dashboard/commit/c7a4619cb6c61d320191e90cf4444da486364a54",
+        "at": "2026-06-21T02:17:26Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(map): add 3-way map appearance setting (Auto/Light/Dark) (#609)",
+        "url": "https://github.com/astondg/trip-planner/commit/ffac8ad78731d63bd0289bbfea4cc1e06c1a18da",
+        "at": "2026-06-21T01:38:55Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Fix Android 13 startup crash + MSAL release sign-in; ship 1.0.3",
         "url": "https://github.com/astondg/home-dashboard/commit/55ef262b6b23722e6c7636cc429c761ef8765d38",
         "at": "2026-06-21T00:51:47Z"
@@ -91,34 +119,6 @@
         "message": "fix(trip): contain Edit Item / Discussion modal — clipping + stray red glow (#582)",
         "url": "https://github.com/astondg/trip-planner/commit/5490100e2a3e9f29394405c1d11de93f62763ed5",
         "at": "2026-06-20T13:15:51Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal: Phase 3 handwriting end-to-end + Phase 5 widgets/shared refactor",
-        "url": "https://github.com/astondg/apple-grove/commit/aabcd3ef086a20023c729289b4c5dbe342d1b6fc",
-        "at": "2026-06-20T12:38:37Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "[WIP] fix(map): pad fitBounds for side-panel insets so pins aren't hidden (#580)",
-        "url": "https://github.com/astondg/trip-planner/commit/eee3cec31200c95139702ff381c9518823b386e1",
-        "at": "2026-06-20T10:52:00Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal: rolling 7-day window + Android-aligned 3×3 grid",
-        "url": "https://github.com/astondg/apple-grove/commit/1b885b5ca5fb6854ed2d44491f4ea7e05393211c",
-        "at": "2026-06-20T10:38:00Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #19 from astondg/crashlytics-feedback-v1.0.2",
-        "url": "https://github.com/astondg/home-dashboard/commit/f60f9e76b4f935d82266d2a91b4c4b8ce56698bb",
-        "at": "2026-06-20T07:27:18Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-21T01:13:51.381Z"
+      "checkedAt": "2026-06-21T07:48:36.155Z"
     },
     {
       "name": "JotCal",
