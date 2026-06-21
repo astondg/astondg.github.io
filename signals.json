@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T07:48:36.735Z",
+  "generatedAt": "2026-06-21T12:50:00.623Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-21T01:13:52Z"
+        "pushedAt": "2026-06-21T07:48:37Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Move display switcher to bottom tab bar, settings up top, tools into Settings (#2)",
+        "url": "https://github.com/astondg/apple-grove/commit/24eefe457597fe03f399f4cab781c74eabd0daa1",
+        "at": "2026-06-21T12:00:00Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(auth): return 404 for unknown paths instead of redirecting to sign-in (#620)",
+        "url": "https://github.com/astondg/trip-planner/commit/b14ba6f86ca4288d2f3e5aaaef3c78d135f3792e",
+        "at": "2026-06-21T11:46:35Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "refactor(trips): simplify item status enum from 7 to 5 values (#619)",
+        "url": "https://github.com/astondg/trip-planner/commit/4287ba2a7905d9c8c2e8bbaee5f3b776cd93fb15",
+        "at": "2026-06-21T09:36:42Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Add empty-today ambient screenshot shot; ribbon polish + window re-anchor fix",
@@ -98,27 +119,6 @@
         "message": "Fix non-conformant-ROM crashes (font resolver + ProfileInstaller); ship 1.0.4",
         "url": "https://github.com/astondg/home-dashboard/commit/c7a4619cb6c61d320191e90cf4444da486364a54",
         "at": "2026-06-21T02:17:26Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(map): add 3-way map appearance setting (Auto/Light/Dark) (#609)",
-        "url": "https://github.com/astondg/trip-planner/commit/ffac8ad78731d63bd0289bbfea4cc1e06c1a18da",
-        "at": "2026-06-21T01:38:55Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Fix Android 13 startup crash + MSAL release sign-in; ship 1.0.3",
-        "url": "https://github.com/astondg/home-dashboard/commit/55ef262b6b23722e6c7636cc429c761ef8765d38",
-        "at": "2026-06-21T00:51:47Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(trip): contain Edit Item / Discussion modal — clipping + stray red glow (#582)",
-        "url": "https://github.com/astondg/trip-planner/commit/5490100e2a3e9f29394405c1d11de93f62763ed5",
-        "at": "2026-06-20T13:15:51Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-21T07:48:36.155Z"
+      "checkedAt": "2026-06-21T12:50:00.623Z"
     },
     {
       "name": "JotCal",
