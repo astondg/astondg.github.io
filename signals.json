@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T01:13:44.626Z",
+  "generatedAt": "2026-06-22T08:16:48.298Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-21T18:39:24Z"
+        "pushedAt": "2026-06-22T01:13:45Z"
       },
       {
         "name": "mcp-tools",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(trips): item status progression is hover-only and booking details silently discarded (#622)",
-        "url": "https://github.com/astondg/trip-planner/commit/2d8466cbc2eb917d63c325747c9cbdd5a35f432e",
-        "at": "2026-06-21T23:29:28Z"
+        "message": "fix(observability): gate Sentry to production deploys only (#624)",
+        "url": "https://github.com/astondg/trip-planner/commit/85bef8b29ad24a80535bc22bae24c308a757fd77",
+        "at": "2026-06-22T07:53:36Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Move display switcher to bottom tab bar, settings up top, tools into Settings (#2)",
-        "url": "https://github.com/astondg/apple-grove/commit/24eefe457597fe03f399f4cab781c74eabd0daa1",
-        "at": "2026-06-21T12:00:00Z"
+        "message": "jotcal phase 4: weather layout integration complete",
+        "url": "https://github.com/astondg/apple-grove/commit/b749550510207ff328be2197bd1d12820d505fe5",
+        "at": "2026-06-22T03:46:53Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal phase 4: wire real WeatherKit + Open-Meteo, settings, Grid Today",
+        "url": "https://github.com/astondg/apple-grove/commit/541c583af3d3add32b5c0f8d5e31d5cef98bda06",
+        "at": "2026-06-22T02:45:43Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "docs: add Phase 4 session summary — foundation complete, entry point ready",
+        "url": "https://github.com/astondg/apple-grove/commit/e071bc640281ce7bdfb11e42e546076ef3a03c02",
+        "at": "2026-06-22T02:07:14Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(auth): return 404 for unknown paths instead of redirecting to sign-in (#620)",
-        "url": "https://github.com/astondg/trip-planner/commit/b14ba6f86ca4288d2f3e5aaaef3c78d135f3792e",
-        "at": "2026-06-21T11:46:35Z"
+        "message": "feat(seo): add JSON-LD structured data (Organization, WebSite, SoftwareApplication) (#621)",
+        "url": "https://github.com/astondg/trip-planner/commit/392a4438e2538292207015dfab5c0e6ed809febd",
+        "at": "2026-06-22T01:41:04Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "refactor(trips): simplify item status enum from 7 to 5 values (#619)",
-        "url": "https://github.com/astondg/trip-planner/commit/4287ba2a7905d9c8c2e8bbaee5f3b776cd93fb15",
-        "at": "2026-06-21T09:36:42Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Add empty-today ambient screenshot shot; ribbon polish + window re-anchor fix",
-        "url": "https://github.com/astondg/home-dashboard/commit/78dce2200248c7d82df2ed67f33fbb7bcc4069f0",
-        "at": "2026-06-21T05:18:15Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Fix non-conformant-ROM crashes (font resolver + ProfileInstaller); ship 1.0.4",
-        "url": "https://github.com/astondg/home-dashboard/commit/c7a4619cb6c61d320191e90cf4444da486364a54",
-        "at": "2026-06-21T02:17:26Z"
+        "message": "fix(trips): item status progression is hover-only and booking details silently discarded (#622)",
+        "url": "https://github.com/astondg/trip-planner/commit/2d8466cbc2eb917d63c325747c9cbdd5a35f432e",
+        "at": "2026-06-21T23:29:28Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-22T01:13:43.581Z"
+      "checkedAt": "2026-06-22T08:16:48.297Z"
     },
     {
       "name": "JotCal",
