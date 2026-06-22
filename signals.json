@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T18:39:23.216Z",
+  "generatedAt": "2026-06-22T01:13:44.626Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-21T12:50:01Z"
+        "pushedAt": "2026-06-21T18:39:24Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trips): item status progression is hover-only and booking details silently discarded (#622)",
+        "url": "https://github.com/astondg/trip-planner/commit/2d8466cbc2eb917d63c325747c9cbdd5a35f432e",
+        "at": "2026-06-21T23:29:28Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Move display switcher to bottom tab bar, settings up top, tools into Settings (#2)",
@@ -107,13 +114,6 @@
         "at": "2026-06-21T05:18:15Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(seo): make OG/Twitter metadata image routes publicly accessible (#614)",
-        "url": "https://github.com/astondg/trip-planner/commit/22c6a4018fd9c2b10bed6a7fe9d50558159d3b5d",
-        "at": "2026-06-21T03:04:44Z"
-      },
-      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Fix non-conformant-ROM crashes (font resolver + ProfileInstaller); ship 1.0.4",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-21T18:39:22.601Z"
+      "checkedAt": "2026-06-22T01:13:43.581Z"
     },
     {
       "name": "JotCal",
