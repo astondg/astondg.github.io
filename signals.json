@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T01:00:58.740Z",
+  "generatedAt": "2026-06-23T07:25:47.447Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-22T19:13:26Z"
+        "pushedAt": "2026-06-23T01:00:59Z"
       },
       {
         "name": "mcp-tools",
@@ -81,16 +81,37 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trip): lighter booking flow — skip-by-default + mark all as booked (#612) (#628)",
-        "url": "https://github.com/astondg/trip-planner/commit/52b1cd03f9d03fadbadf0c8014bc12e521b17ed0",
-        "at": "2026-06-22T23:02:45Z"
+        "message": "fix(map): re-frame map to draft pins on empty trip (#630)",
+        "url": "https://github.com/astondg/trip-planner/commit/751073e4313ddbec10006033e03d91993f467a43",
+        "at": "2026-06-23T05:00:16Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal phase 5: Next Up Live Activity (ActivityKit); close Phase 4",
-        "url": "https://github.com/astondg/apple-grove/commit/adb2408d7a0b1166d4cc2d790d8721a0b2e16695",
-        "at": "2026-06-22T22:47:13Z"
+        "message": "jotcal: tidy Next Up Live Activity Dynamic Island styling",
+        "url": "https://github.com/astondg/apple-grove/commit/841059058832df394d48cb4ff2ff1c1234f80d0d",
+        "at": "2026-06-23T04:46:32Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal grid 3×3: local sun calc — decouple daylight from WeatherKit (#3)",
+        "url": "https://github.com/astondg/apple-grove/commit/323906d74b6560f6a2958588821a1382f7af1c1a",
+        "at": "2026-06-23T04:14:17Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal grid 3×3: ambient satellite-cell insights (#3)",
+        "url": "https://github.com/astondg/apple-grove/commit/00f79c2a153e76c4167312bf8ba2ec8d870cff45",
+        "at": "2026-06-23T04:03:29Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trip): lighter booking flow — skip-by-default + mark all as booked (#612) (#628)",
+        "url": "https://github.com/astondg/trip-planner/commit/52b1cd03f9d03fadbadf0c8014bc12e521b17ed0",
+        "at": "2026-06-22T23:02:45Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -98,27 +119,6 @@
         "message": "Pipeline/conditional visual signoff (#627)",
         "url": "https://github.com/astondg/trip-planner/commit/be14df5a8be6cb1675d22d31c4b46c4862179d49",
         "at": "2026-06-22T20:59:07Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(seo): deduplicate metadata, complete OG tags, and scope viewport lock to map surfaces (#629)",
-        "url": "https://github.com/astondg/trip-planner/commit/1f4165c8e0b2b743b32cacadeaa405a19c11ac8c",
-        "at": "2026-06-22T12:41:58Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal phase 4: WeatherKit entitlement + iPad sidebar redesign",
-        "url": "https://github.com/astondg/apple-grove/commit/d7d5e41c2b07de5f7165f9c3f5c6e20a042c5253",
-        "at": "2026-06-22T11:09:03Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal phase 4: weather layout integration complete",
-        "url": "https://github.com/astondg/apple-grove/commit/b749550510207ff328be2197bd1d12820d505fe5",
-        "at": "2026-06-22T03:46:53Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-23T01:00:58.116Z"
+      "checkedAt": "2026-06-23T07:25:46.719Z"
     },
     {
       "name": "JotCal",
