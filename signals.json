@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T19:13:25.573Z",
+  "generatedAt": "2026-06-23T01:00:58.740Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-22T14:03:00Z"
+        "pushedAt": "2026-06-22T19:13:26Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,27 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(trip): lighter booking flow — skip-by-default + mark all as booked (#612) (#628)",
+        "url": "https://github.com/astondg/trip-planner/commit/52b1cd03f9d03fadbadf0c8014bc12e521b17ed0",
+        "at": "2026-06-22T23:02:45Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal phase 5: Next Up Live Activity (ActivityKit); close Phase 4",
+        "url": "https://github.com/astondg/apple-grove/commit/adb2408d7a0b1166d4cc2d790d8721a0b2e16695",
+        "at": "2026-06-22T22:47:13Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Pipeline/conditional visual signoff (#627)",
+        "url": "https://github.com/astondg/trip-planner/commit/be14df5a8be6cb1675d22d31c4b46c4862179d49",
+        "at": "2026-06-22T20:59:07Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(seo): deduplicate metadata, complete OG tags, and scope viewport lock to map surfaces (#629)",
         "url": "https://github.com/astondg/trip-planner/commit/1f4165c8e0b2b743b32cacadeaa405a19c11ac8c",
         "at": "2026-06-22T12:41:58Z"
@@ -93,32 +114,11 @@
         "at": "2026-06-22T11:09:03Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(transport): pick origin/destination from places already in the trip (#626)",
-        "url": "https://github.com/astondg/trip-planner/commit/6e99ef038ad0eadc108458d648ef174e7843680f",
-        "at": "2026-06-22T10:52:24Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(mobile): add regression guard for hooks-ordering crash on trip page (#625)",
-        "url": "https://github.com/astondg/trip-planner/commit/383b3087e3c8a214eda90f8c11a4d45106c3c0aa",
-        "at": "2026-06-22T09:10:18Z"
-      },
-      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "jotcal phase 4: weather layout integration complete",
         "url": "https://github.com/astondg/apple-grove/commit/b749550510207ff328be2197bd1d12820d505fe5",
         "at": "2026-06-22T03:46:53Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal phase 4: wire real WeatherKit + Open-Meteo, settings, Grid Today",
-        "url": "https://github.com/astondg/apple-grove/commit/541c583af3d3add32b5c0f8d5e31d5cef98bda06",
-        "at": "2026-06-22T02:45:43Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-22T19:13:24.007Z"
+      "checkedAt": "2026-06-23T01:00:58.116Z"
     },
     {
       "name": "JotCal",
