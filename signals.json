@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:25:47.447Z",
+  "generatedAt": "2026-06-23T13:08:52.733Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-23T01:00:59Z"
+        "pushedAt": "2026-06-23T07:25:48Z"
       },
       {
         "name": "mcp-tools",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(map): re-frame map to draft pins on empty trip (#630)",
-        "url": "https://github.com/astondg/trip-planner/commit/751073e4313ddbec10006033e03d91993f467a43",
-        "at": "2026-06-23T05:00:16Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Grid 3×3 ambient insight ladder — Rung 1: Tasks due (#27)",
+        "url": "https://github.com/astondg/home-dashboard/commit/3215edddba6b8d0cc9cd1bdf1735c58583febeec",
+        "at": "2026-06-23T13:02:26Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Widgets: point-in-time events carve no busy time",
+        "url": "https://github.com/astondg/home-dashboard/commit/eec64215e4f2249a5591953f9581a27d7f2c4046",
+        "at": "2026-06-23T12:57:49Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal: tidy Next Up Live Activity Dynamic Island styling",
-        "url": "https://github.com/astondg/apple-grove/commit/841059058832df394d48cb4ff2ff1c1234f80d0d",
-        "at": "2026-06-23T04:46:32Z"
+        "message": "jotcal widget: accessories re-fed from the content ladder (#4)",
+        "url": "https://github.com/astondg/apple-grove/commit/c8ebad333310f7fee4a74d08598074a872cd2a85",
+        "at": "2026-06-23T11:23:57Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal grid 3×3: local sun calc — decouple daylight from WeatherKit (#3)",
-        "url": "https://github.com/astondg/apple-grove/commit/323906d74b6560f6a2958588821a1382f7af1c1a",
-        "at": "2026-06-23T04:14:17Z"
+        "message": "jotcal widget: Pro gating via app-group flag — static free vs live Pro (#4)",
+        "url": "https://github.com/astondg/apple-grove/commit/7577d64962e73ea95175dee60d9477e115cfb5ed",
+        "at": "2026-06-23T11:09:24Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal grid 3×3: ambient satellite-cell insights (#3)",
-        "url": "https://github.com/astondg/apple-grove/commit/00f79c2a153e76c4167312bf8ba2ec8d870cff45",
-        "at": "2026-06-23T04:03:29Z"
+        "message": "jotcal widget: tasks lane + tap-to-complete reminders (#4)",
+        "url": "https://github.com/astondg/apple-grove/commit/8096311f562260147537647f1c04c9c6ecd175bf",
+        "at": "2026-06-23T10:58:28Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trip): lighter booking flow — skip-by-default + mark all as booked (#612) (#628)",
-        "url": "https://github.com/astondg/trip-planner/commit/52b1cd03f9d03fadbadf0c8014bc12e521b17ed0",
-        "at": "2026-06-22T23:02:45Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Pipeline/conditional visual signoff (#627)",
-        "url": "https://github.com/astondg/trip-planner/commit/be14df5a8be6cb1675d22d31c4b46c4862179d49",
-        "at": "2026-06-22T20:59:07Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #34 from astondg/warm-paper-theme-and-day-rail",
+        "url": "https://github.com/astondg/home-dashboard/commit/36adca51b9826b772257240aed9f4dfaced91f3e",
+        "at": "2026-06-23T10:44:36Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-23T07:25:46.719Z"
+      "checkedAt": "2026-06-23T13:08:52.733Z"
     },
     {
       "name": "JotCal",
