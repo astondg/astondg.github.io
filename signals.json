@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T18:50:54.308Z",
+  "generatedAt": "2026-06-24T00:59:11.697Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-23T13:08:54Z"
+        "pushedAt": "2026-06-23T18:50:55Z"
       },
       {
         "name": "mcp-tools",
@@ -79,25 +79,32 @@
     ],
     "recent": [
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Grid 3×3 ambient insight ladder — Rung 2: Runway (#28)",
-        "url": "https://github.com/astondg/home-dashboard/commit/0f56db0eb0b820ba96e108d64d63c29a199407ea",
-        "at": "2026-06-23T13:38:34Z"
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(display): add noindex crawl directives to auth/share pages and dynamic sitemap lastmod (#632)",
+        "url": "https://github.com/astondg/trip-planner/commit/722358658b80051e09a6d41edff7adb84c316b58",
+        "at": "2026-06-23T22:18:15Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Grid 3×3 ambient insight ladder — Rung 1: Tasks due (#27)",
-        "url": "https://github.com/astondg/home-dashboard/commit/3215edddba6b8d0cc9cd1bdf1735c58583febeec",
-        "at": "2026-06-23T13:02:26Z"
+        "message": "Grid 3×3 ambient insight ladder — Rung 5: Sunset (#32)",
+        "url": "https://github.com/astondg/home-dashboard/commit/d0ddc5a3c6fa01a260d0ffc8a8ceccd3278dfe59",
+        "at": "2026-06-23T20:33:22Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Widgets: point-in-time events carve no busy time",
-        "url": "https://github.com/astondg/home-dashboard/commit/eec64215e4f2249a5591953f9581a27d7f2c4046",
-        "at": "2026-06-23T12:57:49Z"
+        "message": "Grid 3×3 ambient insight ladder — Rung 4: Freest-day tag (#31)",
+        "url": "https://github.com/astondg/home-dashboard/commit/a3968eeb727ede7481e8f27cfb3f61271e9fd796",
+        "at": "2026-06-23T20:21:28Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Grid 3×3 ambient insight ladder — Rung 3: Balancing nudge (#30)",
+        "url": "https://github.com/astondg/home-dashboard/commit/b9b7d270f2a6e3c8c9c1a0136655ba788b95587c",
+        "at": "2026-06-23T20:17:31Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -112,13 +119,6 @@
         "message": "jotcal widget: Pro gating via app-group flag — static free vs live Pro (#4)",
         "url": "https://github.com/astondg/apple-grove/commit/7577d64962e73ea95175dee60d9477e115cfb5ed",
         "at": "2026-06-23T11:09:24Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal widget: tasks lane + tap-to-complete reminders (#4)",
-        "url": "https://github.com/astondg/apple-grove/commit/8096311f562260147537647f1c04c9c6ecd175bf",
-        "at": "2026-06-23T10:58:28Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-23T18:50:53.440Z"
+      "checkedAt": "2026-06-24T00:59:11.696Z"
     },
     {
       "name": "JotCal",
