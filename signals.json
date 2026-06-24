@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:22:00.278Z",
+  "generatedAt": "2026-06-24T12:55:10.576Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-24T00:59:12Z"
+        "pushedAt": "2026-06-24T07:22:01Z"
       },
       {
         "name": "mcp-tools",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(display): add noindex crawl directives to auth/share pages and dynamic sitemap lastmod (#632)",
-        "url": "https://github.com/astondg/trip-planner/commit/722358658b80051e09a6d41edff7adb84c316b58",
-        "at": "2026-06-23T22:18:15Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #39 from astondg/weather-warm-start-worker-37",
+        "url": "https://github.com/astondg/home-dashboard/commit/ae174841520e18ff5bdc2f1f5bd0e584571e6eb0",
+        "at": "2026-06-24T11:54:53Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Grid 3×3 ambient insight ladder — Rung 5: Sunset (#32)",
-        "url": "https://github.com/astondg/home-dashboard/commit/d0ddc5a3c6fa01a260d0ffc8a8ceccd3278dfe59",
-        "at": "2026-06-23T20:33:22Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Grid 3×3 ambient insight ladder — Rung 4: Freest-day tag (#31)",
-        "url": "https://github.com/astondg/home-dashboard/commit/a3968eeb727ede7481e8f27cfb3f61271e9fd796",
-        "at": "2026-06-23T20:21:28Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Grid 3×3 ambient insight ladder — Rung 3: Balancing nudge (#30)",
-        "url": "https://github.com/astondg/home-dashboard/commit/b9b7d270f2a6e3c8c9c1a0136655ba788b95587c",
-        "at": "2026-06-23T20:17:31Z"
+        "message": "Weather warm-start: WeatherKit via worker, Room snapshot, widget chip (#37)",
+        "url": "https://github.com/astondg/home-dashboard/commit/70f587528f3c263c2cab261c57b4e9d4d987fb20",
+        "at": "2026-06-24T11:52:16Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal widget: accessories re-fed from the content ladder (#4)",
-        "url": "https://github.com/astondg/apple-grove/commit/c8ebad333310f7fee4a74d08598074a872cd2a85",
-        "at": "2026-06-23T11:23:57Z"
+        "message": "jotcal weather: surface across all layouts (glyphs + interleaved timeline + dial pips)",
+        "url": "https://github.com/astondg/apple-grove/commit/06067452214b657640ae8bb9def4909223321b8f",
+        "at": "2026-06-24T11:43:13Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal widget: Pro gating via app-group flag — static free vs live Pro (#4)",
-        "url": "https://github.com/astondg/apple-grove/commit/7577d64962e73ea95175dee60d9477e115cfb5ed",
-        "at": "2026-06-23T11:09:24Z"
+        "message": "jotcal clock dial: inset round arc caps so free/busy gaps stay honest",
+        "url": "https://github.com/astondg/apple-grove/commit/f0d6f3d3307cd6a67aa35f8b53890aad522c5d9e",
+        "at": "2026-06-24T10:53:11Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal live activity: honour preference, 1h lead window, CarPlay/Watch tile",
+        "url": "https://github.com/astondg/apple-grove/commit/63bfc9d694d57e20e870cef5b278ec80ac316659",
+        "at": "2026-06-24T10:52:44Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #36 from astondg/ambient-insight-eink-profile-sunset",
+        "url": "https://github.com/astondg/home-dashboard/commit/af55edcdde28398e3f5090839805947e0599b756",
+        "at": "2026-06-24T09:46:35Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-24T07:22:00.034Z"
+      "checkedAt": "2026-06-24T12:55:09.844Z"
     },
     {
       "name": "JotCal",
