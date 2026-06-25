@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T07:22:44.779Z",
+  "generatedAt": "2026-06-25T12:56:20.982Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-25T01:03:23Z"
+        "pushedAt": "2026-06-25T07:22:45Z"
       },
       {
         "name": "mcp-tools",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Screenshot scripts: fix stale-file drift between capture and frame runs",
-        "url": "https://github.com/astondg/home-dashboard/commit/acdde57f2e02bed42962c53eb3ead71e153dbf60",
-        "at": "2026-06-25T04:09:12Z"
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(display): replace scrollIntoView with container.scrollTo in playback-navigator (#635)",
+        "url": "https://github.com/astondg/trip-planner/commit/09f968b0fff23e25c04416273380f9395bed1388",
+        "at": "2026-06-25T11:47:24Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal agenda weather: drop redundant peak rows and clamp track to the day",
-        "url": "https://github.com/astondg/apple-grove/commit/4cc69cfae2452919eebdc3f78fc7046ce49c4129",
-        "at": "2026-06-25T03:42:02Z"
+        "message": "jotcal phase 6: close out #6 — harden AQI gate, trial banner, background weather",
+        "url": "https://github.com/astondg/apple-grove/commit/ab0780267d88472d19672a6164c37d4603e01fa6",
+        "at": "2026-06-25T11:30:52Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Center label vocabulary to iOS pattern: Next/Tomorrow/All clear",
+        "url": "https://github.com/astondg/home-dashboard/commit/9f0692864a79ce1d010bd2d45a62b6cf364f090e",
+        "at": "2026-06-25T11:20:58Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal spec: refresh portal/store status to match the device + portal setup",
+        "url": "https://github.com/astondg/apple-grove/commit/f550e1ab3cc87945bd3a463bf8c54390652a664a",
+        "at": "2026-06-25T11:00:37Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(display): viewer-centric theming and visual polish for kiosk surface (#631)",
-        "url": "https://github.com/astondg/trip-planner/commit/628cd4aa29c0cbe7570878491dd6067f932d203c",
-        "at": "2026-06-25T03:30:57Z"
+        "message": "feat(trips): bidirectional hover linking between draft plan and map (#634)",
+        "url": "https://github.com/astondg/trip-planner/commit/7409f502e40aeed9d83ee49a30e1343fa4841d70",
+        "at": "2026-06-25T10:55:21Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "jotcal week pulse: lead with Now, let the chart carry the week's shape",
-        "url": "https://github.com/astondg/apple-grove/commit/59317262d61d8e8a99c1209b229f6ee13d46dd5b",
-        "at": "2026-06-25T03:14:24Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal school run: ship the settings UI and surface windows in the widget",
-        "url": "https://github.com/astondg/apple-grove/commit/a395a8bb36a4e5a998c83a1556ac57d6fa7040f5",
-        "at": "2026-06-25T03:01:08Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Subscription billing foundation: JotCal Live (jotcal_subscription)",
-        "url": "https://github.com/astondg/home-dashboard/commit/aaa73daf96b5c8e9e8a28873991eedb6cbde1f71",
-        "at": "2026-06-24T21:03:25Z"
+        "message": "jotcal phase 6: StoreKit 2 + Pro gating, with the \"Jotcal Live\" tier",
+        "url": "https://github.com/astondg/apple-grove/commit/6cd13463a713087302121f0dfb982ac9f6e0ef3f",
+        "at": "2026-06-25T10:01:38Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-25T07:22:44.778Z"
+      "checkedAt": "2026-06-25T12:56:20.982Z"
     },
     {
       "name": "JotCal",
