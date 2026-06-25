@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T01:03:22.662Z",
+  "generatedAt": "2026-06-25T07:22:44.779Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-24T18:42:17Z"
+        "pushedAt": "2026-06-25T01:03:23Z"
       },
       {
         "name": "mcp-tools",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Screenshot scripts: fix stale-file drift between capture and frame runs",
+        "url": "https://github.com/astondg/home-dashboard/commit/acdde57f2e02bed42962c53eb3ead71e153dbf60",
+        "at": "2026-06-25T04:09:12Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal agenda weather: drop redundant peak rows and clamp track to the day",
+        "url": "https://github.com/astondg/apple-grove/commit/4cc69cfae2452919eebdc3f78fc7046ce49c4129",
+        "at": "2026-06-25T03:42:02Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(display): viewer-centric theming and visual polish for kiosk surface (#631)",
+        "url": "https://github.com/astondg/trip-planner/commit/628cd4aa29c0cbe7570878491dd6067f932d203c",
+        "at": "2026-06-25T03:30:57Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal week pulse: lead with Now, let the chart carry the week's shape",
+        "url": "https://github.com/astondg/apple-grove/commit/59317262d61d8e8a99c1209b229f6ee13d46dd5b",
+        "at": "2026-06-25T03:14:24Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal school run: ship the settings UI and surface windows in the widget",
+        "url": "https://github.com/astondg/apple-grove/commit/a395a8bb36a4e5a998c83a1556ac57d6fa7040f5",
+        "at": "2026-06-25T03:01:08Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Subscription billing foundation: JotCal Live (jotcal_subscription)",
         "url": "https://github.com/astondg/home-dashboard/commit/aaa73daf96b5c8e9e8a28873991eedb6cbde1f71",
         "at": "2026-06-24T21:03:25Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #39 from astondg/weather-warm-start-worker-37",
-        "url": "https://github.com/astondg/home-dashboard/commit/ae174841520e18ff5bdc2f1f5bd0e584571e6eb0",
-        "at": "2026-06-24T11:54:53Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Weather warm-start: WeatherKit via worker, Room snapshot, widget chip (#37)",
-        "url": "https://github.com/astondg/home-dashboard/commit/70f587528f3c263c2cab261c57b4e9d4d987fb20",
-        "at": "2026-06-24T11:52:16Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal weather: surface across all layouts (glyphs + interleaved timeline + dial pips)",
-        "url": "https://github.com/astondg/apple-grove/commit/06067452214b657640ae8bb9def4909223321b8f",
-        "at": "2026-06-24T11:43:13Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal clock dial: inset round arc caps so free/busy gaps stay honest",
-        "url": "https://github.com/astondg/apple-grove/commit/f0d6f3d3307cd6a67aa35f8b53890aad522c5d9e",
-        "at": "2026-06-24T10:53:11Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal live activity: honour preference, 1h lead window, CarPlay/Watch tile",
-        "url": "https://github.com/astondg/apple-grove/commit/63bfc9d694d57e20e870cef5b278ec80ac316659",
-        "at": "2026-06-24T10:52:44Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-25T01:03:21.503Z"
+      "checkedAt": "2026-06-25T07:22:44.778Z"
     },
     {
       "name": "JotCal",
