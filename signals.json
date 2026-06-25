@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T18:42:16.848Z",
+  "generatedAt": "2026-06-25T01:03:22.662Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-24T12:55:12Z"
+        "pushedAt": "2026-06-24T18:42:17Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Subscription billing foundation: JotCal Live (jotcal_subscription)",
+        "url": "https://github.com/astondg/home-dashboard/commit/aaa73daf96b5c8e9e8a28873991eedb6cbde1f71",
+        "at": "2026-06-24T21:03:25Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Merge pull request #39 from astondg/weather-warm-start-worker-37",
         "url": "https://github.com/astondg/home-dashboard/commit/ae174841520e18ff5bdc2f1f5bd0e584571e6eb0",
         "at": "2026-06-24T11:54:53Z"
@@ -112,13 +119,6 @@
         "message": "jotcal live activity: honour preference, 1h lead window, CarPlay/Watch tile",
         "url": "https://github.com/astondg/apple-grove/commit/63bfc9d694d57e20e870cef5b278ec80ac316659",
         "at": "2026-06-24T10:52:44Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #36 from astondg/ambient-insight-eink-profile-sunset",
-        "url": "https://github.com/astondg/home-dashboard/commit/af55edcdde28398e3f5090839805947e0599b756",
-        "at": "2026-06-24T09:46:35Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-24T18:42:15.773Z"
+      "checkedAt": "2026-06-25T01:03:21.503Z"
     },
     {
       "name": "JotCal",
