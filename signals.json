@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T07:28:43.760Z",
+  "generatedAt": "2026-06-26T12:53:16.833Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-26T01:06:14Z"
+        "pushedAt": "2026-06-26T07:28:44Z"
       },
       {
         "name": "mcp-tools",
@@ -79,18 +79,32 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: skip already-granted permission screens in onboarding (#10)",
+        "url": "https://github.com/astondg/apple-grove/commit/84920b4b9cc619f59229d97ba3559f59548e4574",
+        "at": "2026-06-26T12:10:42Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: unify quick-event parsing, add geocoding, open editor pre-filled (Phase 1) (#13)",
+        "url": "https://github.com/astondg/apple-grove/commit/3ca8c49829443dbb5bc09405e4f2f3cb4649dd3a",
+        "at": "2026-06-26T11:47:20Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "jotcal phase 7: first-run onboarding + permission-priming flow",
+        "url": "https://github.com/astondg/apple-grove/commit/6d8989aaf39eeae5dbe8ac4e2f9c38544e2d3a89",
+        "at": "2026-06-25T20:33:30Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(display): replace scrollIntoView with container.scrollTo in playback-navigator (#635)",
         "url": "https://github.com/astondg/trip-planner/commit/09f968b0fff23e25c04416273380f9395bed1388",
         "at": "2026-06-25T11:47:24Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal phase 6: close out #6 — harden AQI gate, trial banner, background weather",
-        "url": "https://github.com/astondg/apple-grove/commit/ab0780267d88472d19672a6164c37d4603e01fa6",
-        "at": "2026-06-25T11:30:52Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -100,25 +114,11 @@
         "at": "2026-06-25T11:20:58Z"
       },
       {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal spec: refresh portal/store status to match the device + portal setup",
-        "url": "https://github.com/astondg/apple-grove/commit/f550e1ab3cc87945bd3a463bf8c54390652a664a",
-        "at": "2026-06-25T11:00:37Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(trips): bidirectional hover linking between draft plan and map (#634)",
         "url": "https://github.com/astondg/trip-planner/commit/7409f502e40aeed9d83ee49a30e1343fa4841d70",
         "at": "2026-06-25T10:55:21Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal phase 6: StoreKit 2 + Pro gating, with the \"Jotcal Live\" tier",
-        "url": "https://github.com/astondg/apple-grove/commit/6cd13463a713087302121f0dfb982ac9f6e0ef3f",
-        "at": "2026-06-25T10:01:38Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-26T07:28:43.215Z"
+      "checkedAt": "2026-06-26T12:53:15.641Z"
     },
     {
       "name": "JotCal",
