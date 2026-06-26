@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T12:53:16.833Z",
+  "generatedAt": "2026-06-26T18:44:47.470Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-26T07:28:44Z"
+        "pushedAt": "2026-06-26T12:53:17Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
+        "message": "Jotcal: cap Later column at 2 events; clarify Live Activity end time",
+        "url": "https://github.com/astondg/apple-grove/commit/515399d52a2f25320404a87901f8fd1c67ebacfe",
+        "at": "2026-06-26T13:20:58Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
         "message": "Jotcal: skip already-granted permission screens in onboarding (#10)",
         "url": "https://github.com/astondg/apple-grove/commit/84920b4b9cc619f59229d97ba3559f59548e4574",
         "at": "2026-06-26T12:10:42Z"
@@ -91,13 +98,6 @@
         "message": "Jotcal: unify quick-event parsing, add geocoding, open editor pre-filled (Phase 1) (#13)",
         "url": "https://github.com/astondg/apple-grove/commit/3ca8c49829443dbb5bc09405e4f2f3cb4649dd3a",
         "at": "2026-06-26T11:47:20Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal phase 7: first-run onboarding + permission-priming flow",
-        "url": "https://github.com/astondg/apple-grove/commit/6d8989aaf39eeae5dbe8ac4e2f9c38544e2d3a89",
-        "at": "2026-06-25T20:33:30Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-26T12:53:15.641Z"
+      "checkedAt": "2026-06-26T18:44:46.706Z"
     },
     {
       "name": "JotCal",
