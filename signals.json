@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:14:23.324Z",
+  "generatedAt": "2026-06-27T12:36:39.367Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-27T01:01:54Z"
+        "pushedAt": "2026-06-27T07:14:24Z"
       },
       {
         "name": "mcp-tools",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: cap Later column at 2 events; clarify Live Activity end time",
-        "url": "https://github.com/astondg/apple-grove/commit/515399d52a2f25320404a87901f8fd1c67ebacfe",
-        "at": "2026-06-26T13:20:58Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "WeatherKit logo attribution (#38), themed icon, splash + icon polish",
+        "url": "https://github.com/astondg/home-dashboard/commit/016beee8085bcd331f9490b25957584fbb24fb96",
+        "at": "2026-06-27T11:02:37Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Jotcal: skip already-granted permission screens in onboarding (#10)",
-        "url": "https://github.com/astondg/apple-grove/commit/84920b4b9cc619f59229d97ba3559f59548e4574",
-        "at": "2026-06-26T12:10:42Z"
+        "message": "Jotcal: add Xcode Cloud workflow manifest",
+        "url": "https://github.com/astondg/apple-grove/commit/25fdd104e701ea2a753b84a458f6e42a39d8882d",
+        "at": "2026-06-27T10:18:05Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Jotcal: unify quick-event parsing, add geocoding, open editor pre-filled (Phase 1) (#13)",
-        "url": "https://github.com/astondg/apple-grove/commit/3ca8c49829443dbb5bc09405e4f2f3cb4649dd3a",
-        "at": "2026-06-26T11:47:20Z"
+        "message": "Jotcal: convert JotcalWidgets to a synced folder; add widget privacy manifest",
+        "url": "https://github.com/astondg/apple-grove/commit/12511f01caaccf5a181c54dbe953964a924a1159",
+        "at": "2026-06-27T10:03:47Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(display): replace scrollIntoView with container.scrollTo in playback-navigator (#635)",
-        "url": "https://github.com/astondg/trip-planner/commit/09f968b0fff23e25c04416273380f9395bed1388",
-        "at": "2026-06-25T11:47:24Z"
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: release-blocker cleanup for first App Store upload (#9)",
+        "url": "https://github.com/astondg/apple-grove/commit/d73b93f247cc59946d1610e7b675e05dd780508a",
+        "at": "2026-06-27T09:43:08Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Center label vocabulary to iOS pattern: Next/Tomorrow/All clear",
-        "url": "https://github.com/astondg/home-dashboard/commit/9f0692864a79ce1d010bd2d45a62b6cf364f090e",
-        "at": "2026-06-25T11:20:58Z"
+        "message": "JotCal launcher icon v6e: shrink motif ~13% for calmer keyline margin",
+        "url": "https://github.com/astondg/home-dashboard/commit/ad207edf16e4c86fcca3ba6d19c1892a68b56860",
+        "at": "2026-06-27T08:24:03Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): bidirectional hover linking between draft plan and map (#634)",
-        "url": "https://github.com/astondg/trip-planner/commit/7409f502e40aeed9d83ee49a30e1343fa4841d70",
-        "at": "2026-06-25T10:55:21Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Upgrade Compose BOM to 2026.06.00 (UI 1.11.3) to fix OxygenOS crash",
+        "url": "https://github.com/astondg/home-dashboard/commit/8e56c5285b382240f37bd58dbe947d272074380f",
+        "at": "2026-06-27T05:54:19Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-27T07:14:22.412Z"
+      "checkedAt": "2026-06-27T12:36:39.367Z"
     },
     {
       "name": "JotCal",
