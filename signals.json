@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:37:24.175Z",
+  "generatedAt": "2026-06-28T18:32:07.352Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-28T07:30:57Z"
+        "pushedAt": "2026-06-28T12:37:25Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Bump version to 1.0.10 (versionCode 11)",
+        "url": "https://github.com/astondg/home-dashboard/commit/ffed72771a809b6a16dd03826dbbab4b78aef8a0",
+        "at": "2026-06-28T13:05:14Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "chore(automation): cut worker concurrency to 1 and rescue orphaned worktrees",
+        "url": "https://github.com/astondg/trip-planner/commit/ff33a45c59c2aa5b1faeee6ead1a3ea310976149",
+        "at": "2026-06-28T12:54:46Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #43 from astondg/weather-entitlement-token",
+        "url": "https://github.com/astondg/home-dashboard/commit/5ec99e1594d7000fb3476fd70f4f8ef66afe1f85",
+        "at": "2026-06-28T12:37:54Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Gate GET /weather with signed entitlement token",
+        "url": "https://github.com/astondg/home-dashboard/commit/fe554db1bffbd46ac4bd4abf41598b4ff3948901",
+        "at": "2026-06-28T12:28:18Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Jotcal: calendar zoom — pinch to scale week ↔ month ↔ year overview (#18)",
@@ -91,34 +119,6 @@
         "message": "Jotcal: always-on write-anywhere Pencil capture across iPad layouts",
         "url": "https://github.com/astondg/apple-grove/commit/ecd5248bb16e0315afe5c6722ec0136c3f31d819",
         "at": "2026-06-28T07:55:48Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: free bidirectional date navigation across all six layouts (#17)",
-        "url": "https://github.com/astondg/apple-grove/commit/0f09718c90f8e06af90dc30fcb748fdf67d07d04",
-        "at": "2026-06-28T04:36:58Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #42 from astondg/smart-time-defaults-4",
-        "url": "https://github.com/astondg/home-dashboard/commit/1b9f0433d20f1cc4b46b1b06d04a0996cea863b0",
-        "at": "2026-06-28T04:06:23Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Smart time defaults in NaturalLanguageParser (#4)",
-        "url": "https://github.com/astondg/home-dashboard/commit/695bd726eadb21bf3eae930adfb95ec7cb2f4932",
-        "at": "2026-06-28T04:05:23Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "WeatherKit logo attribution (#38), themed icon, splash + icon polish",
-        "url": "https://github.com/astondg/home-dashboard/commit/016beee8085bcd331f9490b25957584fbb24fb96",
-        "at": "2026-06-27T11:02:37Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-28T12:37:23.667Z"
+      "checkedAt": "2026-06-28T18:32:07.041Z"
     },
     {
       "name": "JotCal",
