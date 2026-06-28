@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T18:32:17.099Z",
+  "generatedAt": "2026-06-28T01:06:51.757Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-27T12:36:40Z"
+        "pushedAt": "2026-06-27T18:32:17Z"
       },
       {
         "name": "mcp-tools",
@@ -79,32 +79,32 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: refresh App Store screenshots (framed iPad set, iPhone 17 Pro Max)",
+        "url": "https://github.com/astondg/apple-grove/commit/1eabec0d97aee6eb1c27e6f6154f56a854383eb2",
+        "at": "2026-06-28T00:20:11Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: drive Pro paywall price from live App Store product",
+        "url": "https://github.com/astondg/apple-grove/commit/1d5b38402380d63e7a84c55b7440c10c07590fab",
+        "at": "2026-06-27T15:39:40Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: clear Swift 6 main-actor isolation & iOS 26 deprecation warnings",
+        "url": "https://github.com/astondg/apple-grove/commit/d37cd41e13b8a6fd49ed17eecd87a3d660deb54a",
+        "at": "2026-06-27T15:36:09Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "WeatherKit logo attribution (#38), themed icon, splash + icon polish",
         "url": "https://github.com/astondg/home-dashboard/commit/016beee8085bcd331f9490b25957584fbb24fb96",
         "at": "2026-06-27T11:02:37Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: add Xcode Cloud workflow manifest",
-        "url": "https://github.com/astondg/apple-grove/commit/25fdd104e701ea2a753b84a458f6e42a39d8882d",
-        "at": "2026-06-27T10:18:05Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: convert JotcalWidgets to a synced folder; add widget privacy manifest",
-        "url": "https://github.com/astondg/apple-grove/commit/12511f01caaccf5a181c54dbe953964a924a1159",
-        "at": "2026-06-27T10:03:47Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: release-blocker cleanup for first App Store upload (#9)",
-        "url": "https://github.com/astondg/apple-grove/commit/d73b93f247cc59946d1610e7b675e05dd780508a",
-        "at": "2026-06-27T09:43:08Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-27T18:32:16.617Z"
+      "checkedAt": "2026-06-28T01:06:50.509Z"
     },
     {
       "name": "JotCal",
