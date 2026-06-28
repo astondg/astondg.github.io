@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T07:30:56.927Z",
+  "generatedAt": "2026-06-28T12:37:24.175Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-28T01:06:52Z"
+        "pushedAt": "2026-06-28T07:30:57Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: calendar zoom — pinch to scale week ↔ month ↔ year overview (#18)",
+        "url": "https://github.com/astondg/apple-grove/commit/1ac757cef2bb11fdae91ae9705aa3af51f4b4a1d",
+        "at": "2026-06-28T10:57:06Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: always-on write-anywhere Pencil capture across iPad layouts",
+        "url": "https://github.com/astondg/apple-grove/commit/ecd5248bb16e0315afe5c6722ec0136c3f31d819",
+        "at": "2026-06-28T07:55:48Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: free bidirectional date navigation across all six layouts (#17)",
+        "url": "https://github.com/astondg/apple-grove/commit/0f09718c90f8e06af90dc30fcb748fdf67d07d04",
+        "at": "2026-06-28T04:36:58Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge pull request #42 from astondg/smart-time-defaults-4",
@@ -91,27 +112,6 @@
         "message": "Smart time defaults in NaturalLanguageParser (#4)",
         "url": "https://github.com/astondg/home-dashboard/commit/695bd726eadb21bf3eae930adfb95ec7cb2f4932",
         "at": "2026-06-28T04:05:23Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: add Xcode Cloud release automation (trunk + tags)",
-        "url": "https://github.com/astondg/apple-grove/commit/d7ed904076042fdda247d00638ccae6889320d64",
-        "at": "2026-06-28T02:49:42Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: mark Phase 4 entitlement complete + attribution UI shipped in docs",
-        "url": "https://github.com/astondg/apple-grove/commit/cb2293a84329972306c908ac04d51228eee8675e",
-        "at": "2026-06-28T02:45:35Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: render real Apple Weather attribution mark + legal link",
-        "url": "https://github.com/astondg/apple-grove/commit/e4e947fc00fcc2ad077e45498d450e040a5c9224",
-        "at": "2026-06-28T02:40:17Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-28T07:30:56.509Z"
+      "checkedAt": "2026-06-28T12:37:23.667Z"
     },
     {
       "name": "JotCal",
