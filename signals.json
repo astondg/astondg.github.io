@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T01:06:51.757Z",
+  "generatedAt": "2026-06-28T07:30:56.927Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-27T18:32:17Z"
+        "pushedAt": "2026-06-28T01:06:52Z"
       },
       {
         "name": "mcp-tools",
@@ -79,25 +79,39 @@
     ],
     "recent": [
       {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: refresh App Store screenshots (framed iPad set, iPhone 17 Pro Max)",
-        "url": "https://github.com/astondg/apple-grove/commit/1eabec0d97aee6eb1c27e6f6154f56a854383eb2",
-        "at": "2026-06-28T00:20:11Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #42 from astondg/smart-time-defaults-4",
+        "url": "https://github.com/astondg/home-dashboard/commit/1b9f0433d20f1cc4b46b1b06d04a0996cea863b0",
+        "at": "2026-06-28T04:06:23Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Smart time defaults in NaturalLanguageParser (#4)",
+        "url": "https://github.com/astondg/home-dashboard/commit/695bd726eadb21bf3eae930adfb95ec7cb2f4932",
+        "at": "2026-06-28T04:05:23Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Jotcal: drive Pro paywall price from live App Store product",
-        "url": "https://github.com/astondg/apple-grove/commit/1d5b38402380d63e7a84c55b7440c10c07590fab",
-        "at": "2026-06-27T15:39:40Z"
+        "message": "Jotcal: add Xcode Cloud release automation (trunk + tags)",
+        "url": "https://github.com/astondg/apple-grove/commit/d7ed904076042fdda247d00638ccae6889320d64",
+        "at": "2026-06-28T02:49:42Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Jotcal: clear Swift 6 main-actor isolation & iOS 26 deprecation warnings",
-        "url": "https://github.com/astondg/apple-grove/commit/d37cd41e13b8a6fd49ed17eecd87a3d660deb54a",
-        "at": "2026-06-27T15:36:09Z"
+        "message": "Jotcal: mark Phase 4 entitlement complete + attribution UI shipped in docs",
+        "url": "https://github.com/astondg/apple-grove/commit/cb2293a84329972306c908ac04d51228eee8675e",
+        "at": "2026-06-28T02:45:35Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: render real Apple Weather attribution mark + legal link",
+        "url": "https://github.com/astondg/apple-grove/commit/e4e947fc00fcc2ad077e45498d450e040a5c9224",
+        "at": "2026-06-28T02:40:17Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -105,20 +119,6 @@
         "message": "WeatherKit logo attribution (#38), themed icon, splash + icon polish",
         "url": "https://github.com/astondg/home-dashboard/commit/016beee8085bcd331f9490b25957584fbb24fb96",
         "at": "2026-06-27T11:02:37Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "JotCal launcher icon v6e: shrink motif ~13% for calmer keyline margin",
-        "url": "https://github.com/astondg/home-dashboard/commit/ad207edf16e4c86fcca3ba6d19c1892a68b56860",
-        "at": "2026-06-27T08:24:03Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Upgrade Compose BOM to 2026.06.00 (UI 1.11.3) to fix OxygenOS crash",
-        "url": "https://github.com/astondg/home-dashboard/commit/8e56c5285b382240f37bd58dbe947d272074380f",
-        "at": "2026-06-27T05:54:19Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-28T01:06:50.509Z"
+      "checkedAt": "2026-06-28T07:30:56.509Z"
     },
     {
       "name": "JotCal",
