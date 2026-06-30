@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T07:28:57.681Z",
+  "generatedAt": "2026-06-30T12:50:53.919Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-06-30T01:03:24Z"
+        "pushedAt": "2026-06-30T07:28:58Z"
       },
       {
         "name": "mcp-tools",
@@ -81,9 +81,23 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Bump version to 1.0.10 (versionCode 11)",
-        "url": "https://github.com/astondg/home-dashboard/commit/ffed72771a809b6a16dd03826dbbab4b78aef8a0",
-        "at": "2026-06-28T13:05:14Z"
+        "message": "Merge pull request #50 from astondg/design-alignment-ios-46",
+        "url": "https://github.com/astondg/home-dashboard/commit/20cc3842edae8451b944c2520b482e5478eea724",
+        "at": "2026-06-30T10:41:12Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Unify Clock BusyFreeToggle with the floating bottom-nav pill (#48)",
+        "url": "https://github.com/astondg/home-dashboard/commit/15201ba952aa588458153121427f2dfa0795b999",
+        "at": "2026-06-29T12:55:59Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Agenda compact: merge Next Up into Today, 3-state now zone, floating bottom nav (#47)",
+        "url": "https://github.com/astondg/home-dashboard/commit/5eaa353b3583c012c52c04a953d520c7463cd387",
+        "at": "2026-06-29T12:24:30Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -91,20 +105,6 @@
         "message": "chore(automation): cut worker concurrency to 1 and rescue orphaned worktrees",
         "url": "https://github.com/astondg/trip-planner/commit/ff33a45c59c2aa5b1faeee6ead1a3ea310976149",
         "at": "2026-06-28T12:54:46Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #43 from astondg/weather-entitlement-token",
-        "url": "https://github.com/astondg/home-dashboard/commit/5ec99e1594d7000fb3476fd70f4f8ef66afe1f85",
-        "at": "2026-06-28T12:37:54Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Gate GET /weather with signed entitlement token",
-        "url": "https://github.com/astondg/home-dashboard/commit/fe554db1bffbd46ac4bd4abf41598b4ff3948901",
-        "at": "2026-06-28T12:28:18Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-06-30T07:28:56.848Z"
+      "checkedAt": "2026-06-30T12:50:53.665Z"
     },
     {
       "name": "JotCal",
