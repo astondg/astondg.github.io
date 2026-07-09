@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T03:44:56.614Z",
+  "generatedAt": "2026-07-09T09:51:59.287Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-08T19:38:22Z"
+        "pushedAt": "2026-07-09T03:44:57Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(theme): beautiful, accessible light theme redesign (#638)",
+        "url": "https://github.com/astondg/trip-planner/commit/e86be9cb22aee7b0e5343e5cde1fde3b884ca6f2",
+        "at": "2026-07-09T05:43:23Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(share): recover expired public links and invites from Share & Members (#637)",
         "url": "https://github.com/astondg/trip-planner/commit/c667afb9e1b9357077c661920f556ab2ce3dd2ef",
         "at": "2026-07-09T00:56:57Z"
@@ -112,13 +119,6 @@
         "message": "chore(automation): cut worker concurrency to 1 and rescue orphaned worktrees",
         "url": "https://github.com/astondg/trip-planner/commit/ff33a45c59c2aa5b1faeee6ead1a3ea310976149",
         "at": "2026-06-28T12:54:46Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: calendar zoom — pinch to scale week ↔ month ↔ year overview (#18)",
-        "url": "https://github.com/astondg/apple-grove/commit/1ac757cef2bb11fdae91ae9705aa3af51f4b4a1d",
-        "at": "2026-06-28T10:57:06Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-09T03:44:56.515Z"
+      "checkedAt": "2026-07-09T09:51:58.109Z"
     },
     {
       "name": "JotCal",
