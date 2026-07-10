@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:41:52.378Z",
+  "generatedAt": "2026-07-10T14:36:07.786Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-10T03:41:23Z"
+        "pushedAt": "2026-07-10T09:41:53Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(marketing): tour Phase 5 - living overlays on stops 01-04 (#641)",
+        "url": "https://github.com/astondg/trip-planner/commit/dc184eb571a00998e4e88f29f33219cf578e8875",
+        "at": "2026-07-10T11:06:37Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(marketing): tour Phases 2-4 - perf/a11y, all 6 stops, dark + full-bleed (#640)",
         "url": "https://github.com/astondg/trip-planner/commit/ea841b361bae545179b12906e3dd515e1261672f",
         "at": "2026-07-10T08:29:41Z"
@@ -91,13 +98,6 @@
         "message": "feat(marketing): ship \"The Chart\" tour prototype (Phase 0 + Phase 1) (#639)",
         "url": "https://github.com/astondg/trip-planner/commit/cd482c6847b8ce6b8a58f67ae4693dac1e469a60",
         "at": "2026-07-09T22:38:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(theme): beautiful, accessible light theme redesign (#638)",
-        "url": "https://github.com/astondg/trip-planner/commit/e86be9cb22aee7b0e5343e5cde1fde3b884ca6f2",
-        "at": "2026-07-09T05:43:23Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-10T09:41:51.220Z"
+      "checkedAt": "2026-07-10T14:36:07.785Z"
     },
     {
       "name": "JotCal",
