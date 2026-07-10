@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:51:29.616Z",
+  "generatedAt": "2026-07-10T03:41:22.855Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-09T15:18:15Z"
+        "pushedAt": "2026-07-09T19:51:30Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(marketing): ship \"The Chart\" tour prototype (Phase 0 + Phase 1) (#639)",
+        "url": "https://github.com/astondg/trip-planner/commit/cd482c6847b8ce6b8a58f67ae4693dac1e469a60",
+        "at": "2026-07-09T22:38:14Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(theme): beautiful, accessible light theme redesign (#638)",
         "url": "https://github.com/astondg/trip-planner/commit/e86be9cb22aee7b0e5343e5cde1fde3b884ca6f2",
         "at": "2026-07-09T05:43:23Z"
@@ -112,13 +119,6 @@
         "message": "Agenda compact: merge Next Up into Today, 3-state now zone, floating bottom nav (#47)",
         "url": "https://github.com/astondg/home-dashboard/commit/5eaa353b3583c012c52c04a953d520c7463cd387",
         "at": "2026-06-29T12:24:30Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "chore(automation): cut worker concurrency to 1 and rescue orphaned worktrees",
-        "url": "https://github.com/astondg/trip-planner/commit/ff33a45c59c2aa5b1faeee6ead1a3ea310976149",
-        "at": "2026-06-28T12:54:46Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-09T19:51:29.003Z"
+      "checkedAt": "2026-07-10T03:41:22.258Z"
     },
     {
       "name": "JotCal",
