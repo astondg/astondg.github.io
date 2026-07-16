@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:19:51.715Z",
+  "generatedAt": "2026-07-16T14:02:10.953Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-16T02:52:28Z"
+        "pushedAt": "2026-07-16T08:19:53Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge pull request #65 from astondg/fix/56-finger-passthrough",
+        "url": "https://github.com/astondg/home-dashboard/commit/e158e824cbd52518d4a6ebeb686d98bf6de5fff0",
+        "at": "2026-07-16T13:43:47Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Play: add fastlane Appfile + Fastfile (metadata-only lanes)",
+        "url": "https://github.com/astondg/home-dashboard/commit/068451ee8e16661986ae3a25794901999a21e616",
+        "at": "2026-07-16T13:34:59Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Writing areas: fix finger pass-through + tap for the inline panels too (#56)",
+        "url": "https://github.com/astondg/home-dashboard/commit/7754c36fe3a580474c2acf4c6bd7b285e939739c",
+        "at": "2026-07-16T13:34:34Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "Restore procedural chart cartography + fluid scroll-camera on /tour (#642)",
@@ -98,27 +119,6 @@
         "message": "feat(marketing): tour Phase 5 - living overlays on stops 01-04 (#641)",
         "url": "https://github.com/astondg/trip-planner/commit/dc184eb571a00998e4e88f29f33219cf578e8875",
         "at": "2026-07-10T11:06:37Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #50 from astondg/design-alignment-ios-46",
-        "url": "https://github.com/astondg/home-dashboard/commit/20cc3842edae8451b944c2520b482e5478eea724",
-        "at": "2026-06-30T10:41:12Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Unify Clock BusyFreeToggle with the floating bottom-nav pill (#48)",
-        "url": "https://github.com/astondg/home-dashboard/commit/15201ba952aa588458153121427f2dfa0795b999",
-        "at": "2026-06-29T12:55:59Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Agenda compact: merge Next Up into Today, 3-state now zone, floating bottom nav (#47)",
-        "url": "https://github.com/astondg/home-dashboard/commit/5eaa353b3583c012c52c04a953d520c7463cd387",
-        "at": "2026-06-29T12:24:30Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-16T08:19:51.379Z"
+      "checkedAt": "2026-07-16T14:02:09.867Z"
     },
     {
       "name": "JotCal",
