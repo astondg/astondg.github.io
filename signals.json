@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:46:32.144Z",
+  "generatedAt": "2026-07-17T19:15:54.117Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-17T08:16:01Z"
+        "pushedAt": "2026-07-17T13:46:33Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(transport): stop the route API burn and meter HERE by charge item (#644)",
+        "url": "https://github.com/astondg/trip-planner/commit/4c6b6f88879e419100be7b19fec0620cde31755a",
+        "at": "2026-07-17T13:55:55Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Android: drop non-compliant severe alerts at the domain boundary (D-055/D-058)",
+        "url": "https://github.com/astondg/home-dashboard/commit/384cfa2424a3c175b6185d883ac35e61a3fbc9dc",
+        "at": "2026-07-17T13:51:22Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Android: unblock lint, land D-057, fix the tablet next-week chevron; suite 16 → 0",
@@ -100,25 +114,11 @@
         "at": "2026-07-16T21:42:15Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge pull request #65 from astondg/fix/56-finger-passthrough",
-        "url": "https://github.com/astondg/home-dashboard/commit/e158e824cbd52518d4a6ebeb686d98bf6de5fff0",
-        "at": "2026-07-16T13:43:47Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "Restore procedural chart cartography + fluid scroll-camera on /tour (#642)",
         "url": "https://github.com/astondg/trip-planner/commit/d4fb57bc5b04fa0f3fc1f64efb04003a064d4b7c",
         "at": "2026-07-12T22:16:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "automation: reclaim Docker disk after claude-worker rebuild",
-        "url": "https://github.com/astondg/trip-planner/commit/ed569774f5f067ac615a581f7ad278a5815ed91d",
-        "at": "2026-07-11T06:56:49Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-17T13:46:31.781Z"
+      "checkedAt": "2026-07-17T19:15:53.261Z"
     },
     {
       "name": "JotCal",
