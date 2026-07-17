@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T08:16:00.393Z",
+  "generatedAt": "2026-07-17T13:46:32.144Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-17T02:55:09Z"
+        "pushedAt": "2026-07-17T08:16:01Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,30 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Android: unblock lint, land D-057, fix the tablet next-week chevron; suite 16 → 0",
+        "url": "https://github.com/astondg/home-dashboard/commit/ccabcb66c8f4639be56a0994aab872448b872fe4",
+        "at": "2026-07-17T11:05:15Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(transport): waypoints phase 1 — free-pin stops on road-mode legs (#616) (#636)",
+        "url": "https://github.com/astondg/trip-planner/commit/c9fcfe70ecde280b09ab5f29a0a4b06510b57e02",
+        "at": "2026-07-17T08:46:53Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Grid today cell: weather alerts in-cell both tiers (D-050); NEXT UP eyebrow as one unit (D-037)",
+        "url": "https://github.com/astondg/home-dashboard/commit/0c7b3ca9c19e56c2c0a3b2dc7bd860e663918917",
+        "at": "2026-07-16T21:42:15Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Merge pull request #65 from astondg/fix/56-finger-passthrough",
         "url": "https://github.com/astondg/home-dashboard/commit/e158e824cbd52518d4a6ebeb686d98bf6de5fff0",
         "at": "2026-07-16T13:43:47Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Play: add fastlane Appfile + Fastfile (metadata-only lanes)",
-        "url": "https://github.com/astondg/home-dashboard/commit/068451ee8e16661986ae3a25794901999a21e616",
-        "at": "2026-07-16T13:34:59Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Writing areas: fix finger pass-through + tap for the inline panels too (#56)",
-        "url": "https://github.com/astondg/home-dashboard/commit/7754c36fe3a580474c2acf4c6bd7b285e939739c",
-        "at": "2026-07-16T13:34:34Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -112,13 +119,6 @@
         "message": "automation: reclaim Docker disk after claude-worker rebuild",
         "url": "https://github.com/astondg/trip-planner/commit/ed569774f5f067ac615a581f7ad278a5815ed91d",
         "at": "2026-07-11T06:56:49Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(marketing): tour Phase 5 - living overlays on stops 01-04 (#641)",
-        "url": "https://github.com/astondg/trip-planner/commit/dc184eb571a00998e4e88f29f33219cf578e8875",
-        "at": "2026-07-10T11:06:37Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-17T08:15:59.683Z"
+      "checkedAt": "2026-07-17T13:46:31.781Z"
     },
     {
       "name": "JotCal",
