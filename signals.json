@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:58:03.163Z",
+  "generatedAt": "2026-07-18T13:23:53.085Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-18T02:47:39Z"
+        "pushedAt": "2026-07-18T07:58:04Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Jotcal Android: D-060 NOW/NEXT anchor discipline (A123) + e-ink clip (A122)",
+        "url": "https://github.com/astondg/home-dashboard/commit/2918b9b57d9c381a3922d1073c87e5a88b36884e",
+        "at": "2026-07-18T12:08:58Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(itinerary): compact density, multi-night stay ordering + header/Select fixes (#646)",
+        "url": "https://github.com/astondg/trip-planner/commit/c60642978caaabc41ba4de90ffecf5ae51b542f7",
+        "at": "2026-07-18T10:22:34Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Jotcal Android: replace dangling §9 pointers with real ADR citations",
+        "url": "https://github.com/astondg/home-dashboard/commit/89abb8d9e2bc8b1e4ab5264a12885004182ef713",
+        "at": "2026-07-18T09:48:49Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Jotcal Android: day-nav on compact layouts (A117/D-054) + weather band retirement (D-059/A121)",
+        "url": "https://github.com/astondg/home-dashboard/commit/69ef43b0ca6f273665e9837eec89a4239225a34f",
+        "at": "2026-07-18T06:50:32Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(transport): stop the route API burn and meter HERE by charge item (#644)",
@@ -86,39 +114,11 @@
         "at": "2026-07-17T13:55:55Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android: drop non-compliant severe alerts at the domain boundary (D-055/D-058)",
-        "url": "https://github.com/astondg/home-dashboard/commit/384cfa2424a3c175b6185d883ac35e61a3fbc9dc",
-        "at": "2026-07-17T13:51:22Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android: unblock lint, land D-057, fix the tablet next-week chevron; suite 16 → 0",
-        "url": "https://github.com/astondg/home-dashboard/commit/ccabcb66c8f4639be56a0994aab872448b872fe4",
-        "at": "2026-07-17T11:05:15Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(transport): waypoints phase 1 — free-pin stops on road-mode legs (#616) (#636)",
         "url": "https://github.com/astondg/trip-planner/commit/c9fcfe70ecde280b09ab5f29a0a4b06510b57e02",
         "at": "2026-07-17T08:46:53Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Grid today cell: weather alerts in-cell both tiers (D-050); NEXT UP eyebrow as one unit (D-037)",
-        "url": "https://github.com/astondg/home-dashboard/commit/0c7b3ca9c19e56c2c0a3b2dc7bd860e663918917",
-        "at": "2026-07-16T21:42:15Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Restore procedural chart cartography + fluid scroll-camera on /tour (#642)",
-        "url": "https://github.com/astondg/trip-planner/commit/d4fb57bc5b04fa0f3fc1f64efb04003a064d4b7c",
-        "at": "2026-07-12T22:16:14Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-18T07:58:02.295Z"
+      "checkedAt": "2026-07-18T13:23:53.085Z"
     },
     {
       "name": "JotCal",
