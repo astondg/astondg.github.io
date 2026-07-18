@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:23:53.085Z",
+  "generatedAt": "2026-07-18T19:10:07.806Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-18T07:58:04Z"
+        "pushedAt": "2026-07-18T13:23:54Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,20 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Android: clock rim, grid-off 8th day, unified task control, UV/AQI size",
+        "url": "https://github.com/astondg/home-dashboard/commit/282d404a96383564ba5e7e6bb171b6ad78604e4b",
+        "at": "2026-07-18T15:05:49Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(itinerary): place transport hint before activity, not below a backdrop-night hotel (#647)",
+        "url": "https://github.com/astondg/trip-planner/commit/c18d086738724a1d5a8d910f7537de5ab3ec7234",
+        "at": "2026-07-18T14:03:56Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Jotcal Android: D-060 NOW/NEXT anchor discipline (A123) + e-ink clip (A122)",
         "url": "https://github.com/astondg/home-dashboard/commit/2918b9b57d9c381a3922d1073c87e5a88b36884e",
         "at": "2026-07-18T12:08:58Z"
@@ -100,25 +114,11 @@
         "at": "2026-07-18T09:48:49Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Jotcal Android: day-nav on compact layouts (A117/D-054) + weather band retirement (D-059/A121)",
-        "url": "https://github.com/astondg/home-dashboard/commit/69ef43b0ca6f273665e9837eec89a4239225a34f",
-        "at": "2026-07-18T06:50:32Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(transport): stop the route API burn and meter HERE by charge item (#644)",
         "url": "https://github.com/astondg/trip-planner/commit/4c6b6f88879e419100be7b19fec0620cde31755a",
         "at": "2026-07-17T13:55:55Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(transport): waypoints phase 1 — free-pin stops on road-mode legs (#616) (#636)",
-        "url": "https://github.com/astondg/trip-planner/commit/c9fcfe70ecde280b09ab5f29a0a4b06510b57e02",
-        "at": "2026-07-17T08:46:53Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-18T13:23:53.085Z"
+      "checkedAt": "2026-07-18T19:10:06.890Z"
     },
     {
       "name": "JotCal",
