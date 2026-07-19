@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:24:53.259Z",
+  "generatedAt": "2026-07-19T13:25:16.383Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-19T03:17:50Z"
+        "pushedAt": "2026-07-19T08:24:54Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Jotcal Android fastlane: render de-AI'd store copy, add en-AU/en-GB, tooling fixes",
+        "url": "https://github.com/astondg/home-dashboard/commit/7f5839150bf5d6d2eca440b033cd00ad0936c7a2",
+        "at": "2026-07-19T12:03:22Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(marketing): promote the tour to the homepage (Phases A–D, behind /preview) (#648)",
@@ -107,13 +114,6 @@
         "at": "2026-07-18T14:03:56Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Jotcal Android: D-060 NOW/NEXT anchor discipline (A123) + e-ink clip (A122)",
-        "url": "https://github.com/astondg/home-dashboard/commit/2918b9b57d9c381a3922d1073c87e5a88b36884e",
-        "at": "2026-07-18T12:08:58Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(itinerary): compact density, multi-night stay ordering + header/Select fixes (#646)",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-19T08:24:53.259Z"
+      "checkedAt": "2026-07-19T13:25:16.383Z"
     },
     {
       "name": "JotCal",
