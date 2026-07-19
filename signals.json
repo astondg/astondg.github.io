@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T03:17:49.329Z",
+  "generatedAt": "2026-07-19T08:24:53.259Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-18T19:10:08Z"
+        "pushedAt": "2026-07-19T03:17:50Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(marketing): promote the tour to the homepage (Phases A–D, behind /preview) (#648)",
+        "url": "https://github.com/astondg/trip-planner/commit/5221e2eec69c7a5fc0d04031297f620df697a89c",
+        "at": "2026-07-19T07:29:00Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Tasks & Notes label, Vitsœ paper ramp + elevation pass",
+        "url": "https://github.com/astondg/home-dashboard/commit/75868022c35d4c26507c4cc54296d9294689e52d",
+        "at": "2026-07-19T05:02:05Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Android: clock rim, grid-off 8th day, unified task control, UV/AQI size",
@@ -105,20 +119,6 @@
         "message": "feat(itinerary): compact density, multi-night stay ordering + header/Select fixes (#646)",
         "url": "https://github.com/astondg/trip-planner/commit/c60642978caaabc41ba4de90ffecf5ae51b542f7",
         "at": "2026-07-18T10:22:34Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Jotcal Android: replace dangling §9 pointers with real ADR citations",
-        "url": "https://github.com/astondg/home-dashboard/commit/89abb8d9e2bc8b1e4ab5264a12885004182ef713",
-        "at": "2026-07-18T09:48:49Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(transport): stop the route API burn and meter HERE by charge item (#644)",
-        "url": "https://github.com/astondg/trip-planner/commit/4c6b6f88879e419100be7b19fec0620cde31755a",
-        "at": "2026-07-17T13:55:55Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-19T03:17:48.586Z"
+      "checkedAt": "2026-07-19T08:24:53.259Z"
     },
     {
       "name": "JotCal",
