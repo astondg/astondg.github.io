@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T09:21:44.478Z",
+  "generatedAt": "2026-07-20T14:14:18.277Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-20T03:31:33Z"
+        "pushedAt": "2026-07-20T09:21:45Z"
       },
       {
         "name": "mcp-tools",
@@ -81,9 +81,23 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Jotcal Android fastlane: render de-AI'd store copy, add en-AU/en-GB, tooling fixes",
-        "url": "https://github.com/astondg/home-dashboard/commit/7f5839150bf5d6d2eca440b033cd00ad0936c7a2",
-        "at": "2026-07-19T12:03:22Z"
+        "message": "Store assets: D-064 warm paper everywhere, generated brand tile",
+        "url": "https://github.com/astondg/home-dashboard/commit/b6adb18940bf543cacd5fc771e2fd0932b5e85fb",
+        "at": "2026-07-20T13:00:26Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Drop HiddenApiBypass: Play blocks API-bypass SDKs (v14 / 1.0.13)",
+        "url": "https://github.com/astondg/home-dashboard/commit/23aa03a832a7216afef69f658aef4a2c74a3259a",
+        "at": "2026-07-20T12:59:34Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Outlook v1: personal Microsoft accounts only",
+        "url": "https://github.com/astondg/home-dashboard/commit/daa01958eb102b6e2925cb6101b06970917946db",
+        "at": "2026-07-20T12:33:20Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -91,20 +105,6 @@
         "message": "feat(marketing): promote the tour to the homepage (Phases A–D, behind /preview) (#648)",
         "url": "https://github.com/astondg/trip-planner/commit/5221e2eec69c7a5fc0d04031297f620df697a89c",
         "at": "2026-07-19T07:29:00Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Tasks & Notes label, Vitsœ paper ramp + elevation pass",
-        "url": "https://github.com/astondg/home-dashboard/commit/75868022c35d4c26507c4cc54296d9294689e52d",
-        "at": "2026-07-19T05:02:05Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android: clock rim, grid-off 8th day, unified task control, UV/AQI size",
-        "url": "https://github.com/astondg/home-dashboard/commit/282d404a96383564ba5e7e6bb171b6ad78604e4b",
-        "at": "2026-07-18T15:05:49Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-20T09:21:44.306Z"
+      "checkedAt": "2026-07-20T14:14:17.146Z"
     },
     {
       "name": "JotCal",
