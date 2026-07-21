@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T02:57:53.252Z",
+  "generatedAt": "2026-07-21T08:34:48.313Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-20T19:47:29Z"
+        "pushedAt": "2026-07-21T02:57:54Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Boox: fall back to androidx.ink when vendor pen API is hidden-API blocked",
+        "url": "https://github.com/astondg/home-dashboard/commit/92b9db242fa5c2647cef02b00618c875e95ba8a7",
+        "at": "2026-07-21T07:47:23Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Android: pin WarmPaperOnSurface (D-072) + weather/parser/localisation pass",
         "url": "https://github.com/astondg/home-dashboard/commit/9a912f560858cb833e4b42944f23be84daea6ce9",
         "at": "2026-07-20T21:01:45Z"
@@ -91,13 +98,6 @@
         "message": "Store assets: D-064 warm paper everywhere, generated brand tile",
         "url": "https://github.com/astondg/home-dashboard/commit/b6adb18940bf543cacd5fc771e2fd0932b5e85fb",
         "at": "2026-07-20T13:00:26Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Drop HiddenApiBypass: Play blocks API-bypass SDKs (v14 / 1.0.13)",
-        "url": "https://github.com/astondg/home-dashboard/commit/23aa03a832a7216afef69f658aef4a2c74a3259a",
-        "at": "2026-07-20T12:59:34Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-21T02:57:52.263Z"
+      "checkedAt": "2026-07-21T08:34:46.862Z"
     },
     {
       "name": "JotCal",
