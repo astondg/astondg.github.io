@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:34:29.340Z",
+  "generatedAt": "2026-07-22T14:04:33.476Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-22T02:55:33Z"
+        "pushedAt": "2026-07-22T08:34:30Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Retune \"busy\" tone to neutral grey; align Week Pulse opacity (D-076)",
-        "url": "https://github.com/astondg/home-dashboard/commit/c364fa744ea579cfb383a2362cd92874bb82ef3d",
-        "at": "2026-07-22T03:50:03Z"
+        "message": "Drop the peek's per-field \"edit to change\" hint (D-077 amendment)",
+        "url": "https://github.com/astondg/home-dashboard/commit/1b0fe831e87087247c637ddc29cc25a019ca62fd",
+        "at": "2026-07-22T11:35:56Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Android: remove dead per-cell write-hint UI (#1 TaskList pencil, #2 DayCell WriteHint)",
-        "url": "https://github.com/astondg/home-dashboard/commit/69869b5e9cdb0b5691c9ab28166acca372e396e1",
-        "at": "2026-07-22T00:26:13Z"
+        "message": "Fix Android peek URL/recurrence parity with iOS (A153/A156)",
+        "url": "https://github.com/astondg/home-dashboard/commit/4b858450411fbe68cec40399d06d8c09cd3a2188",
+        "at": "2026-07-22T11:07:19Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Android: migrate to targetSdk 36 (Android 16) for Play compliance",
-        "url": "https://github.com/astondg/home-dashboard/commit/e8cdf94ddec9ebcf9cf8c0d6c073bd717218f121",
-        "at": "2026-07-22T00:25:54Z"
+        "message": "Add recurrence presets (A153) and URL field (A156) to the event editor",
+        "url": "https://github.com/astondg/home-dashboard/commit/99f5525ab9844f368694593c3ffa508753eec41f",
+        "at": "2026-07-22T10:17:06Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-22T08:34:29.111Z"
+      "checkedAt": "2026-07-22T14:04:32.486Z"
     },
     {
       "name": "JotCal",
