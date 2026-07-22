@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:36:43.087Z",
+  "generatedAt": "2026-07-22T02:55:32.082Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-21T14:01:29Z"
+        "pushedAt": "2026-07-21T19:36:44Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Bump to 15 (1.0.14) for the fallback release bundle",
-        "url": "https://github.com/astondg/home-dashboard/commit/2b9660df2908d252dfe6ca4eece967854787b0dd",
-        "at": "2026-07-21T10:40:09Z"
+        "message": "Android: remove dead per-cell write-hint UI (#1 TaskList pencil, #2 DayCell WriteHint)",
+        "url": "https://github.com/astondg/home-dashboard/commit/69869b5e9cdb0b5691c9ab28166acca372e396e1",
+        "at": "2026-07-22T00:26:13Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Boox: debug-only HiddenApiBypass for native firmware ink",
-        "url": "https://github.com/astondg/home-dashboard/commit/6958c7d591aef1c43b0c6319a22e35efdbbb0324",
-        "at": "2026-07-21T10:20:19Z"
+        "message": "Android: migrate to targetSdk 36 (Android 16) for Play compliance",
+        "url": "https://github.com/astondg/home-dashboard/commit/e8cdf94ddec9ebcf9cf8c0d6c073bd717218f121",
+        "at": "2026-07-22T00:25:54Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Boox: fall back to androidx.ink when vendor pen API is hidden-API blocked",
-        "url": "https://github.com/astondg/home-dashboard/commit/92b9db242fa5c2647cef02b00618c875e95ba8a7",
-        "at": "2026-07-21T07:47:23Z"
+        "message": "Android: reframe wall scaling as a viewing-distance zoom, not density correction (D-074 amended)",
+        "url": "https://github.com/astondg/home-dashboard/commit/f00bcdeb2cd396c056c7671a88d0830e8b77f4b2",
+        "at": "2026-07-21T20:21:49Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-21T19:36:42.556Z"
+      "checkedAt": "2026-07-22T02:55:31.599Z"
     },
     {
       "name": "JotCal",
