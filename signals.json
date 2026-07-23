@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T08:35:58.797Z",
+  "generatedAt": "2026-07-23T14:09:57.188Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-23T03:17:35Z"
+        "pushedAt": "2026-07-23T08:35:59Z"
       },
       {
         "name": "mcp-tools",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Offset Xcode Cloud build number past legacy manual 1.0 uploads",
+        "url": "https://github.com/astondg/apple-grove/commit/bfcdb99ad33ea6a320b3dea1bd434663a2633fca",
+        "at": "2026-07-23T13:40:52Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Jotcal Android: implement Clock/weather design parity (A161–A165)",
-        "url": "https://github.com/astondg/home-dashboard/commit/fe9c21f8a05b77446a0a6bf033d39b1e729f07b3",
+        "message": "Android: bump to versionCode 17 / versionName 1.0.16 for the D-076 store refresh",
+        "url": "https://github.com/astondg/home-dashboard/commit/0b624a718e34d590368c4334bdd2617824943947",
+        "at": "2026-07-23T12:31:25Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Play: record verified caldav.lt reviewer credentials for App access",
+        "url": "https://github.com/astondg/home-dashboard/commit/349b568b4ae5fa348be873f4d5793a0e0a29183c",
+        "at": "2026-07-23T11:12:33Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "fastlane(play): render promo video.txt for English locales",
+        "url": "https://github.com/astondg/home-dashboard/commit/4178f0be3a95e12ffb3195b2c87c75b7bf8e84a2",
+        "at": "2026-07-23T10:17:56Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal iOS: finalize Clock/weather design parity (A161–A165)",
+        "url": "https://github.com/astondg/apple-grove/commit/d9274603b399577e461e709f889b35a1180046b1",
         "at": "2026-07-23T04:29:56Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android: warm the Material container neutrals D-076's busy scope missed (A160)",
-        "url": "https://github.com/astondg/home-dashboard/commit/a67e6a08e7d3cad7fef92ddf81a287ed0a25a72a",
-        "at": "2026-07-22T11:38:50Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Drop the peek's per-field \"edit to change\" hint (D-077 amendment)",
-        "url": "https://github.com/astondg/home-dashboard/commit/1b0fe831e87087247c637ddc29cc25a019ca62fd",
-        "at": "2026-07-22T11:35:56Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(marketing): promote the tour to the homepage (Phases A–D, behind /preview) (#648)",
-        "url": "https://github.com/astondg/trip-planner/commit/5221e2eec69c7a5fc0d04031297f620df697a89c",
-        "at": "2026-07-19T07:29:00Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(itinerary): place transport hint before activity, not below a backdrop-night hotel (#647)",
-        "url": "https://github.com/astondg/trip-planner/commit/c18d086738724a1d5a8d910f7537de5ab3ec7234",
-        "at": "2026-07-18T14:03:56Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(itinerary): compact density, multi-night stay ordering + header/Select fixes (#646)",
-        "url": "https://github.com/astondg/trip-planner/commit/c60642978caaabc41ba4de90ffecf5ae51b542f7",
-        "at": "2026-07-18T10:22:34Z"
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Extract new localization strings into the catalog",
+        "url": "https://github.com/astondg/apple-grove/commit/7be6506a39510efe0e59ae5a1d48bbe96af4ab58",
+        "at": "2026-07-22T12:14:51Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-23T08:35:57.675Z"
+      "checkedAt": "2026-07-23T14:09:56.110Z"
     },
     {
       "name": "JotCal",
