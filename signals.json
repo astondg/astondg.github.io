@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:32:07.324Z",
+  "generatedAt": "2026-07-24T13:52:21.025Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-24T02:56:22Z"
+        "pushedAt": "2026-07-24T08:32:08Z"
       },
       {
         "name": "mcp-tools",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
+        "message": "Prep hint l10n and agenda fixes (#34)",
+        "url": "https://github.com/astondg/apple-grove/commit/543b2c1788b24dbb83fe62418db4c91fd4838283",
+        "at": "2026-07-24T13:46:31Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Store metadata: rename to \"Jotcal: Calm Calendar\" and refresh copy",
+        "url": "https://github.com/astondg/home-dashboard/commit/2e762fe02a24dfb7fd269c8f641c0cc97161da19",
+        "at": "2026-07-24T13:44:02Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(itinerary): stop false chronological warning under pinned accommodation (#651)",
+        "url": "https://github.com/astondg/trip-planner/commit/e316b7d0acbdac71d757c2c9777e639c572f1f39",
+        "at": "2026-07-24T13:35:38Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(suggestions): refresh the list when a booking reference or cost is edited (#650)",
+        "url": "https://github.com/astondg/trip-planner/commit/2694cc218b316c1da6e867706be9096bc10b8dee",
+        "at": "2026-07-24T13:30:59Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Jotcal design: agenda/clock ambient fixes + medical prep-hint localization",
+        "url": "https://github.com/astondg/home-dashboard/commit/f6bda44b6bea46df62fed557b9f87c3158f1e3f3",
+        "at": "2026-07-24T09:54:02Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
         "message": "Offset Xcode Cloud build number past legacy manual 1.0 uploads",
         "url": "https://github.com/astondg/apple-grove/commit/bfcdb99ad33ea6a320b3dea1bd434663a2633fca",
         "at": "2026-07-23T13:40:52Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android: bump to versionCode 17 / versionName 1.0.16 for the D-076 store refresh",
-        "url": "https://github.com/astondg/home-dashboard/commit/0b624a718e34d590368c4334bdd2617824943947",
-        "at": "2026-07-23T12:31:25Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Play: record verified caldav.lt reviewer credentials for App access",
-        "url": "https://github.com/astondg/home-dashboard/commit/349b568b4ae5fa348be873f4d5793a0e0a29183c",
-        "at": "2026-07-23T11:12:33Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "fastlane(play): render promo video.txt for English locales",
-        "url": "https://github.com/astondg/home-dashboard/commit/4178f0be3a95e12ffb3195b2c87c75b7bf8e84a2",
-        "at": "2026-07-23T10:17:56Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal iOS: finalize Clock/weather design parity (A161–A165)",
-        "url": "https://github.com/astondg/apple-grove/commit/d9274603b399577e461e709f889b35a1180046b1",
-        "at": "2026-07-23T04:29:56Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Extract new localization strings into the catalog",
-        "url": "https://github.com/astondg/apple-grove/commit/7be6506a39510efe0e59ae5a1d48bbe96af4ab58",
-        "at": "2026-07-22T12:14:51Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-24T08:32:06.534Z"
+      "checkedAt": "2026-07-24T13:52:21.025Z"
     },
     {
       "name": "JotCal",
