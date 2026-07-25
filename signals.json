@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T08:11:24.212Z",
+  "generatedAt": "2026-07-25T13:42:43.510Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-25T02:55:49Z"
+        "pushedAt": "2026-07-25T08:11:25Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(marketing): promote the tour to the homepage (Phase E cutover) (#649)",
+        "url": "https://github.com/astondg/trip-planner/commit/a1f4b9ae4428d664c5516a7df3d5bfdcef5daa62",
+        "at": "2026-07-25T10:28:04Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Prep hint l10n and agenda fixes (#34)",
@@ -112,13 +119,6 @@
         "message": "Jotcal design: agenda/clock ambient fixes + medical prep-hint localization",
         "url": "https://github.com/astondg/home-dashboard/commit/f6bda44b6bea46df62fed557b9f87c3158f1e3f3",
         "at": "2026-07-24T09:54:02Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Offset Xcode Cloud build number past legacy manual 1.0 uploads",
-        "url": "https://github.com/astondg/apple-grove/commit/bfcdb99ad33ea6a320b3dea1bd434663a2633fca",
-        "at": "2026-07-23T13:40:52Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-25T08:11:23.976Z"
+      "checkedAt": "2026-07-25T13:42:43.134Z"
     },
     {
       "name": "JotCal",
