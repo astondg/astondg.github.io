@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T13:37:33.641Z",
+  "generatedAt": "2026-07-26T19:17:02.110Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-26T08:31:45Z"
+        "pushedAt": "2026-07-26T13:37:34Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Consolidate TribeRide docs into Apps/TribeRide/docs/ (#35)",
+        "url": "https://github.com/astondg/apple-grove/commit/22e472a0e8b74fa7b71275fa470923ddecf0c65a",
+        "at": "2026-07-26T14:08:57Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(onboarding): put planning first in the first-run experience (#662) (#674)",
+        "url": "https://github.com/astondg/trip-planner/commit/bc9193d8932ef263fffab2fdcc926f294419f4f3",
+        "at": "2026-07-26T14:07:04Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(admin): count paying customers, not comped accounts (#673)",
+        "url": "https://github.com/astondg/trip-planner/commit/4406a65f50a4be93fe65fd4e922e9991e675e038",
+        "at": "2026-07-26T13:53:34Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "Feat/issue 654 growth metrics (#672)",
@@ -98,27 +119,6 @@
         "message": "Android: fold the past-collapse boundary on end, not start (D-082)",
         "url": "https://github.com/astondg/home-dashboard/commit/dbc15964419fa3ff657d357bb4a9864566316d0d",
         "at": "2026-07-25T13:18:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(marketing): promote the tour to the homepage (Phase E cutover) (#649)",
-        "url": "https://github.com/astondg/trip-planner/commit/a1f4b9ae4428d664c5516a7df3d5bfdcef5daa62",
-        "at": "2026-07-25T10:28:04Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Prep hint l10n and agenda fixes (#34)",
-        "url": "https://github.com/astondg/apple-grove/commit/543b2c1788b24dbb83fe62418db4c91fd4838283",
-        "at": "2026-07-24T13:46:31Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Store metadata: rename to \"Jotcal: Calm Calendar\" and refresh copy",
-        "url": "https://github.com/astondg/home-dashboard/commit/2e762fe02a24dfb7fd269c8f641c0cc97161da19",
-        "at": "2026-07-24T13:44:02Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-26T13:37:33.641Z"
+      "checkedAt": "2026-07-26T19:17:01.859Z"
     },
     {
       "name": "JotCal",
