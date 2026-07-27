@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T03:31:44.040Z",
+  "generatedAt": "2026-07-27T09:58:06.730Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-26T19:17:03Z"
+        "pushedAt": "2026-07-27T03:31:44Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trip): destination-first trip creation + capture who's travelling (#663) (#676)",
+        "url": "https://github.com/astondg/trip-planner/commit/1034f4df560ced86ad413291585f53bec4d7bf12",
+        "at": "2026-07-27T09:08:22Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Consolidate TribeRide docs into Apps/TribeRide/docs/ (#35)",
@@ -98,13 +105,6 @@
         "message": "fix(admin): count paying customers, not comped accounts (#673)",
         "url": "https://github.com/astondg/trip-planner/commit/4406a65f50a4be93fe65fd4e922e9991e675e038",
         "at": "2026-07-26T13:53:34Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Feat/issue 654 growth metrics (#672)",
-        "url": "https://github.com/astondg/trip-planner/commit/c9f677e1e499696db7c4f9ff70013b4af7039088",
-        "at": "2026-07-26T12:02:47Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-27T03:31:43.044Z"
+      "checkedAt": "2026-07-27T09:58:05.876Z"
     },
     {
       "name": "JotCal",
