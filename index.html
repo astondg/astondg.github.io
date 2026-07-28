@@ -3,21 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aston Gilliland - Builder, Engineer, Technical Leader</title>
+    <title>Aston Gilliland - Engineer &amp; Technical Leader</title>
     <meta
       name="description"
-      content="Aston Gilliland - Melbourne-based builder and technical leader. 20 years shipping web platforms across healthcare, fintech and proptech, now building AI-native products: aitrips.io, JotCal, TribeRide."
+      content="Aston Gilliland - Melbourne-based engineer and technical leader. 20 years shipping web platforms across healthcare, fintech and proptech, and AI products I design, build and ship end to end: aitrips.io, Jotcal, TribeRide."
     />
     <meta name="author" content="Aston Gilliland" />
     <link rel="canonical" href="https://astondean.com/" />
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="Aston Gilliland - Builder, Engineer, Technical Leader"
+      content="Aston Gilliland - Engineer &amp; Technical Leader"
     />
     <meta
       property="og:description"
-      content="Melbourne-based builder and technical leader shipping AI-native products and the platforms behind them."
+      content="20 years shipping web platforms. Today, AI products I design, build and ship end to end - and AI-assisted delivery embedded across the team I lead."
     />
     <meta property="og:url" content="https://astondean.com/" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -720,8 +720,13 @@
         align-items: center;
         justify-content: space-between;
         gap: 12px;
-        margin-bottom: 16px;
+        margin-bottom: 10px;
         flex-wrap: wrap;
+      }
+      .activity-note {
+        color: var(--faint);
+        font-size: 0.9rem;
+        margin-bottom: 16px;
       }
       .sig-stamp {
         font-family: "JetBrains Mono", monospace;
@@ -825,10 +830,10 @@
             ><span class="dot"></span> Aston Gilliland</a
           >
           <div class="navlinks">
-            <a href="#building">Building</a>
-            <a href="#work">Work</a>
+            <a href="#services">How I work</a>
+            <a href="#building">Products</a>
+            <a href="#work">Experience</a>
             <a href="#stack">Stack</a>
-            <a href="#contact">Contact</a>
           </div>
           <div class="nav-right">
             <button
@@ -866,7 +871,7 @@
                 ></path>
               </svg>
             </button>
-            <a href="#contact" class="nav-cta">Get in touch</a>
+            <a href="#contact" class="nav-cta">Work with me</a>
           </div>
         </nav>
       </div>
@@ -877,25 +882,23 @@
       <section class="hero">
         <div class="wrap">
           <div class="status">
-            <span class="pulse"></span> Currently building aitrips.io, JotCal
+            <span class="pulse"></span> Currently building aitrips.io, Jotcal
             &amp; TribeRide
           </div>
           <h1>
-            I build <span class="grad">AI-native products</span> and the
-            platforms behind them.
+            Shipping <span class="grad">AI products</span> - and the platforms
+            behind them.
           </h1>
           <p class="lede">
             Melbourne-based engineer and technical leader.
             <strong>20 years</strong> shipping web platforms across healthcare,
-            fintech and proptech - and lately, shipping my own products with AI
-            in the loop end to end. At my best in small, high-autonomy teams
-            where I own the architecture and still write code daily.
+            fintech and proptech - and lately, AI products I design, build and
+            ship myself, and AI-assisted delivery embedded across the team I
+            lead.
           </p>
           <div class="cta-row">
-            <a href="#building" class="btn btn-primary"
-              >See what I'm building →</a
-            >
-            <a href="#contact" class="btn btn-ghost">Work with me</a>
+            <a href="#contact" class="btn btn-primary">Get in touch →</a>
+            <a href="#services" class="btn btn-ghost">How I work</a>
           </div>
           <div class="metrics">
             <div class="metric">
@@ -903,16 +906,63 @@
               <div class="l">Years shipping</div>
             </div>
             <div class="metric">
-              <div class="n">4+</div>
-              <div class="l">Products in flight</div>
+              <div class="n">37</div>
+              <div class="l">MCP tools in production</div>
             </div>
             <div class="metric">
-              <div class="n">Full-stack</div>
-              <div class="l">Platform architecture</div>
+              <div class="n">4</div>
+              <div class="l">Products built solo</div>
             </div>
             <div class="metric">
-              <div class="n">AI-native</div>
-              <div class="l">Dev workflows</div>
+              <div class="n">Team-wide</div>
+              <div class="l">AI-assisted delivery</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SERVICES -->
+      <section id="services">
+        <div class="wrap">
+          <div class="sec-head">
+            <span class="eyebrow">// how I work</span>
+            <h2>Where I spend my time</h2>
+            <p>
+              Most AI work stalls between a demo that impresses and a system
+              people actually depend on. Closing that gap is architecture,
+              evaluation, cost, latency and a lot of unglamorous production
+              work. It's the part I find interesting.
+            </p>
+          </div>
+          <div class="work-grid">
+            <div class="work reveal">
+              <div class="co">Building</div>
+              <h3>From idea to production</h3>
+              <p>
+                Taking AI products from idea to live, with the platform
+                underneath them - data model, auth, infrastructure, evaluation
+                and cost control. I make the architecture calls and I write the
+                code.
+              </p>
+            </div>
+            <div class="work reveal">
+              <div class="co">Enabling</div>
+              <h3>Making AI stick in a team</h3>
+              <p>
+                Embedding AI-assisted development into how an engineering team
+                already works - agents, MCP servers against internal systems,
+                review and CI practice - so the gains belong to the team rather
+                than one enthusiast.
+              </p>
+            </div>
+            <div class="work reveal">
+              <div class="co">Deciding</div>
+              <h3>Architecture &amp; trade-offs</h3>
+              <p>
+                Build-vs-buy, model and vendor choice, and which initiatives are
+                worth funding. Most of it comes down to knowing what breaks at
+                scale and what quietly costs a fortune.
+              </p>
             </div>
           </div>
         </div>
@@ -922,12 +972,12 @@
       <section id="building">
         <div class="wrap">
           <div class="sec-head">
-            <span class="eyebrow">// currently building</span>
-            <h2>Products in flight</h2>
+            <span class="eyebrow">// products</span>
+            <h2>Products I design, build and ship</h2>
             <p>
-              Personal projects I design, build and ship - most are AI-native by
-              default, with MCP and LLM integration baked in rather than bolted
-              on.
+              I own these end to end - architecture, delivery, and the
+              maintenance afterwards. Most are AI-native by default, with MCP
+              and LLM integration baked in rather than bolted on.
             </p>
           </div>
           <div class="products">
@@ -937,15 +987,17 @@
                 <span class="pill live">Live</span>
               </div>
               <p>
-                AI-powered trip planning with MCP integration. Chat with any AI
-                assistant to build itineraries that save to a real web app -
-                interactive maps, route visualisation, day-by-day planning.
-                Works standalone too.
+                A map-first trip planner built as the companion an AI assistant
+                needs. Plan by talking to Claude or ChatGPT, and the product
+                holds what assistants are bad at - durable state, spatial
+                reasoning,
+                collaborators, offline travel mode. 37 MCP tools in production,
+                and a web UI that's equally capable on its own.
               </p>
               <div class="tags">
-                <span class="tag">MCP</span><span class="tag">AI / LLM</span
-                ><span class="tag">Full-stack</span
-                ><span class="tag">Maps</span>
+                <span class="tag">MCP server in production</span
+                ><span class="tag">LLM integration</span
+                ><span class="tag">Real-time collaboration</span>
               </div>
               <a
                 class="link"
@@ -960,24 +1012,26 @@
 
             <div class="card reveal">
               <div class="top">
-                <h3>JotCal</h3>
-                <span class="pill dev">In development</span>
+                <h3>Jotcal</h3>
+                <span class="pill dev">In app store review</span>
               </div>
               <p>
-                Android calendar app built for speed. Strips event creation and
-                daily scheduling down to minimal friction - jot it, it's on the
-                calendar.
+                A writable family calendar for the kitchen wall. Handwrite
+                "soccer Thu 5pm" onto a 13" e-ink panel and it becomes a real,
+                synced event. Native iOS and Android from one design system -
+                the calendar you glance at, not one you scroll through.
               </p>
               <div class="tags">
-                <span class="tag">Android</span><span class="tag">Kotlin</span
-                ><span class="tag">Mobile</span>
+                <span class="tag">Native iOS &amp; Android</span
+                ><span class="tag">Handwriting recognition</span
+                ><span class="tag">E-ink</span>
               </div>
               <a
                 class="link"
                 href="https://jotcal.app"
                 target="_blank"
                 rel="noopener"
-                >jotcal.app · coming soon</a
+                >jotcal.app →</a
               >
             </div>
 
@@ -995,9 +1049,9 @@
                 arrival. CarPlay surface for active rides.
               </p>
               <div class="tags">
-                <span class="tag">iOS</span><span class="tag">Swift</span
+                <span class="tag">Native iOS</span
                 ><span class="tag">CarPlay</span
-                ><span class="tag">Flight-aware</span>
+                ><span class="tag">Flight-aware pickup</span>
               </div>
               <span class="link muted-link">coming soon</span>
             </div>
@@ -1013,9 +1067,9 @@
                 views and a provider pattern for extensible transit support.
               </p>
               <div class="tags">
-                <span class="tag">Next.js</span
-                ><span class="tag">TypeScript</span
-                ><span class="tag">PTV API</span><span class="tag">Vercel</span>
+                <span class="tag">Real-time transit data</span
+                ><span class="tag">E-ink</span
+                ><span class="tag">Extensible providers</span>
               </div>
               <a
                 class="link"
@@ -1032,6 +1086,10 @@
               <span class="eyebrow">// recent activity</span>
               <span class="sig-stamp" id="sigStamp"></span>
             </div>
+            <p class="activity-note">
+              Pulled live from my repositories every six hours - the actual
+              work, as it lands.
+            </p>
             <ul class="activity-list" id="activityList"></ul>
           </div>
         </div>
@@ -1286,10 +1344,10 @@
             Let's build something good
           </h2>
           <p class="lede">
-            I lead engineering teams and ship full-stack platforms end to end,
-            and I build <strong>AI-native products</strong> on the side. Always
-            happy to talk shop - architecture, AI-native development, or
-            something you're building.
+            I lead engineering teams, ship full-stack platforms end to end, and
+            design and build <strong>AI products</strong> of my own. If you're
+            working on something similar, or trying to get AI into production,
+            I'd like to hear about it.
           </p>
           <div class="contact-btns">
             <a href="mailto:aston.gilliland@outlook.com" class="btn btn-primary"
