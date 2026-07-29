@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:37:42.021Z",
+  "generatedAt": "2026-07-29T02:55:07.428Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-28T14:18:07Z"
+        "pushedAt": "2026-07-28T19:37:43Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(ai): global AI spend kill switch, spend alerts, and token accounting (#691)",
+        "url": "https://github.com/astondg/trip-planner/commit/214ea2e2a8837799d382a2d144a184882da10eab",
+        "at": "2026-07-28T22:13:48Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(pricing): reshape the free AI allowance from per-day to per-trip (#686) (#692)",
+        "url": "https://github.com/astondg/trip-planner/commit/28f8df8108af1602d4bb2281b80b25b9df39e6a3",
+        "at": "2026-07-28T20:19:42Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "docs: add the AI budget model",
+        "url": "https://github.com/astondg/trip-planner/commit/35c18a2c0bdea0ca631835f70efb147898d939c0",
+        "at": "2026-07-28T20:04:10Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "A145/A169: route Clock Day and Week Pulse through the one anchor engine (D-084)",
@@ -98,27 +119,6 @@
         "message": "A146: gate the Grid's NEXT UP amber on the anchor's own imminence threshold",
         "url": "https://github.com/astondg/home-dashboard/commit/3efb9caff6c72596e76c42d2123368bd5634839b",
         "at": "2026-07-28T11:18:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): scope the assistant to trip planning and charge off-topic turns (#690)",
-        "url": "https://github.com/astondg/trip-planner/commit/77dd4871a1d51ad88962309434b7e4fd2b92210f",
-        "at": "2026-07-28T10:36:47Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): bound what one free account can spend on the assist route (#689)",
-        "url": "https://github.com/astondg/trip-planner/commit/64f92db014c4e8fd249c83699f6f72a511fb0691",
-        "at": "2026-07-28T09:45:31Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): land every refine change in the turn it was asked in (#665) (#683)",
-        "url": "https://github.com/astondg/trip-planner/commit/22762168a47cdb2df422fb836976a7e0f8b40b30",
-        "at": "2026-07-28T04:00:34Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-28T19:37:41.661Z"
+      "checkedAt": "2026-07-29T02:55:07.145Z"
     },
     {
       "name": "JotCal",
