@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T02:40:35.427Z",
+  "generatedAt": "2026-07-30T08:32:58.172Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-29T19:22:03Z"
+        "pushedAt": "2026-07-30T02:40:36Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(ai): define in-app AI scope and the three-door exhausted state (#696) (#699)",
+        "url": "https://github.com/astondg/trip-planner/commit/49b263377af23181f59ea8dbb08d4865121def8c",
+        "at": "2026-07-30T03:04:15Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(ai): cap starter itinerary generations per day (#695) (#698)",
         "url": "https://github.com/astondg/trip-planner/commit/8ad76cea4c338bf7a09b0b7a92baec84e4178848",
         "at": "2026-07-29T12:21:53Z"
@@ -91,13 +98,6 @@
         "message": "fix(ai): meter destination briefs as their own AI feature (#680) (#697)",
         "url": "https://github.com/astondg/trip-planner/commit/6a411c464f414c639fb991096784f4710174726d",
         "at": "2026-07-29T04:12:53Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): measure real AI cost with a committed harness (#693) (#694)",
-        "url": "https://github.com/astondg/trip-planner/commit/3f4061a10c68f46f41abf6765335c297c8167adc",
-        "at": "2026-07-29T03:30:22Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-30T02:40:35.337Z"
+      "checkedAt": "2026-07-30T08:32:57.594Z"
     },
     {
       "name": "JotCal",
