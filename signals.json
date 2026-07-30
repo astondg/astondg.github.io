@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T08:32:58.172Z",
+  "generatedAt": "2026-07-30T14:10:51.862Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-30T02:40:36Z"
+        "pushedAt": "2026-07-30T08:32:59Z"
       },
       {
         "name": "mcp-tools",
@@ -79,11 +79,25 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Grid crown carries weight and space, not just amber (D-045); Today Focus anchor leads",
+        "url": "https://github.com/astondg/home-dashboard/commit/91d3033e8790aead89c447a8081e6f16f32d01c0",
+        "at": "2026-07-30T07:47:05Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(ai): define in-app AI scope and the three-door exhausted state (#696) (#699)",
         "url": "https://github.com/astondg/trip-planner/commit/49b263377af23181f59ea8dbb08d4865121def8c",
         "at": "2026-07-30T03:04:15Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "A154/D-078: show-as (busy/free), wired into the occupancy math",
+        "url": "https://github.com/astondg/home-dashboard/commit/0f0e967d8732005b2cb6f66b8e021eedbc700a9e",
+        "at": "2026-07-30T01:52:07Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -105,20 +119,6 @@
         "message": "A145/A169: route Clock Day and Week Pulse through the one anchor engine (D-084)",
         "url": "https://github.com/astondg/home-dashboard/commit/910d8112284fb09be790b9deabb7221fd6d3a300",
         "at": "2026-07-28T12:37:35Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Back out the in-flight A145/D-084 work committed in error by 3efb9ca",
-        "url": "https://github.com/astondg/home-dashboard/commit/a8a8f91c139a1e319a9b307292fdefac0c4ac231",
-        "at": "2026-07-28T11:34:24Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "A146: gate the Grid's NEXT UP amber on the anchor's own imminence threshold",
-        "url": "https://github.com/astondg/home-dashboard/commit/3efb9caff6c72596e76c42d2123368bd5634839b",
-        "at": "2026-07-28T11:18:14Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-30T08:32:57.594Z"
+      "checkedAt": "2026-07-30T14:10:49.753Z"
     },
     {
       "name": "JotCal",
