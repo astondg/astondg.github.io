@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:54:31.087Z",
+  "generatedAt": "2026-07-31T14:17:02.244Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-07-31T03:22:01Z"
+        "pushedAt": "2026-07-31T08:54:32Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,20 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "D-087: crash reports become declinable, so \"no analytics\" can be honest",
+        "url": "https://github.com/astondg/home-dashboard/commit/0f35a557949def6c4b8786db07176a1dba537bbf",
+        "at": "2026-07-31T10:53:46Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "fix(peek): keep the peek card on screen and carry its chip into view (#18)",
+        "url": "https://github.com/astondg/home-dashboard/commit/0d77db21f5d79c1b6a79ab046f1fb940a68f6ad8",
+        "at": "2026-07-31T10:51:31Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "Grid crown carries weight and space, not just amber (D-045); Today Focus anchor leads",
         "url": "https://github.com/astondg/home-dashboard/commit/91d3033e8790aead89c447a8081e6f16f32d01c0",
         "at": "2026-07-30T07:47:05Z"
@@ -91,13 +105,6 @@
         "message": "feat(ai): define in-app AI scope and the three-door exhausted state (#696) (#699)",
         "url": "https://github.com/astondg/trip-planner/commit/49b263377af23181f59ea8dbb08d4865121def8c",
         "at": "2026-07-30T03:04:15Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "A154/D-078: show-as (busy/free), wired into the occupancy math",
-        "url": "https://github.com/astondg/home-dashboard/commit/0f0e967d8732005b2cb6f66b8e021eedbc700a9e",
-        "at": "2026-07-30T01:52:07Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -112,13 +119,6 @@
         "message": "fix(ai): meter destination briefs as their own AI feature (#680) (#697)",
         "url": "https://github.com/astondg/trip-planner/commit/6a411c464f414c639fb991096784f4710174726d",
         "at": "2026-07-29T04:12:53Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "A145/A169: route Clock Day and Week Pulse through the one anchor engine (D-084)",
-        "url": "https://github.com/astondg/home-dashboard/commit/910d8112284fb09be790b9deabb7221fd6d3a300",
-        "at": "2026-07-28T12:37:35Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-07-31T08:54:30.156Z"
+      "checkedAt": "2026-07-31T14:17:01.550Z"
     },
     {
       "name": "JotCal",
