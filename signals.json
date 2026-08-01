@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T13:35:30.972Z",
+  "generatedAt": "2026-08-01T19:14:13.146Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-01T08:25:43Z"
+        "pushedAt": "2026-08-01T13:35:31Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "D-087: crash reports become declinable, so \"no analytics\" can be honest",
-        "url": "https://github.com/astondg/home-dashboard/commit/0f35a557949def6c4b8786db07176a1dba537bbf",
-        "at": "2026-07-31T10:53:46Z"
+        "message": "v1 submitted: record the release, and the timezone misread that nearly derailed it",
+        "url": "https://github.com/astondg/home-dashboard/commit/4a0fe18456f0de1c69eb3a2c9a3d4fb8db5003d0",
+        "at": "2026-08-01T13:57:33Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "fix(peek): keep the peek card on screen and carry its chip into view (#18)",
-        "url": "https://github.com/astondg/home-dashboard/commit/0d77db21f5d79c1b6a79ab046f1fb940a68f6ad8",
-        "at": "2026-07-31T10:51:31Z"
+        "message": "Lint pass: 200 warnings down to 23, and the CI step that will keep it there",
+        "url": "https://github.com/astondg/home-dashboard/commit/1462d12c4cabc9baafd9d6f858c10d6fbc833cba",
+        "at": "2026-08-01T13:29:14Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Grid crown carries weight and space, not just amber (D-045); Today Focus anchor leads",
-        "url": "https://github.com/astondg/home-dashboard/commit/91d3033e8790aead89c447a8081e6f16f32d01c0",
-        "at": "2026-07-30T07:47:05Z"
+        "message": "Store copy: re-render for Agenda, and point CI at the real skip sentinel",
+        "url": "https://github.com/astondg/home-dashboard/commit/72dc4814d1e2cb49d4cc491bf18f71ed49743a90",
+        "at": "2026-08-01T13:24:37Z"
       },
       {
         "repo": "astondg/trip-planner",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-01T13:35:30.769Z"
+      "checkedAt": "2026-08-01T19:14:12.013Z"
     },
     {
       "name": "JotCal",
