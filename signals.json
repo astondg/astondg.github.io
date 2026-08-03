@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T03:22:13.456Z",
+  "generatedAt": "2026-08-03T09:52:54.259Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-02T19:15:57Z"
+        "pushedAt": "2026-08-03T03:22:14Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(ai): generated plans include arrival, departure and somewhere to stay (#666) (#701)",
+        "url": "https://github.com/astondg/trip-planner/commit/a3e793d81cda6a21449258ddda35eb3849b5bc80",
+        "at": "2026-08-03T08:04:18Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "v1 submitted: record the release, and the timezone misread that nearly derailed it",
@@ -112,13 +119,6 @@
         "message": "fix(ai): cap starter itinerary generations per day (#695) (#698)",
         "url": "https://github.com/astondg/trip-planner/commit/8ad76cea4c338bf7a09b0b7a92baec84e4178848",
         "at": "2026-07-29T12:21:53Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): meter destination briefs as their own AI feature (#680) (#697)",
-        "url": "https://github.com/astondg/trip-planner/commit/6a411c464f414c639fb991096784f4710174726d",
-        "at": "2026-07-29T04:12:53Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-03T03:22:12.477Z"
+      "checkedAt": "2026-08-03T09:52:54.139Z"
     },
     {
       "name": "JotCal",
