@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T02:51:21.041Z",
+  "generatedAt": "2026-08-04T08:43:19.337Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-03T19:42:51Z"
+        "pushedAt": "2026-08-04T02:51:21Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(mcp): directory submission readiness — self-check, copy pack, public setup docs (#704)",
+        "url": "https://github.com/astondg/trip-planner/commit/2fc9a10e423705d0042807b5fd48969d1b0a9035",
+        "at": "2026-08-04T07:11:15Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(billing): raise Pro to $6/mo · $39/yr and tighten the free tier (#703)",
         "url": "https://github.com/astondg/trip-planner/commit/01f7ada81f63b77e1a5d5ad6d67c0bfd619f06e9",
         "at": "2026-08-03T21:21:59Z"
@@ -112,13 +119,6 @@
         "message": "Store copy: re-render for Agenda, and point CI at the real skip sentinel",
         "url": "https://github.com/astondg/home-dashboard/commit/72dc4814d1e2cb49d4cc491bf18f71ed49743a90",
         "at": "2026-08-01T13:24:37Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): define in-app AI scope and the three-door exhausted state (#696) (#699)",
-        "url": "https://github.com/astondg/trip-planner/commit/49b263377af23181f59ea8dbb08d4865121def8c",
-        "at": "2026-07-30T03:04:15Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-04T02:51:20.607Z"
+      "checkedAt": "2026-08-04T08:43:19.249Z"
     },
     {
       "name": "JotCal",
