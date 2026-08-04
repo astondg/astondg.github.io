@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:43:19.337Z",
+  "generatedAt": "2026-08-04T14:24:31.546Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-04T02:51:21Z"
+        "pushedAt": "2026-08-04T08:43:20Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(ai): make the AI allowance explainer reachable before you've spent it (#665) (#707)",
+        "url": "https://github.com/astondg/trip-planner/commit/58add61af588abccbc8bc280b14dc27e29451d4b",
+        "at": "2026-08-04T12:19:27Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(ai): meter AI in credits, and delete the turn limit and refund counter (#687) (#705)",
+        "url": "https://github.com/astondg/trip-planner/commit/781623c9e9ca1b055a219160143daf8d88e54402",
+        "at": "2026-08-04T11:22:21Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(mcp): directory submission readiness — self-check, copy pack, public setup docs (#704)",
         "url": "https://github.com/astondg/trip-planner/commit/2fc9a10e423705d0042807b5fd48969d1b0a9035",
         "at": "2026-08-04T07:11:15Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(billing): raise Pro to $6/mo · $39/yr and tighten the free tier (#703)",
-        "url": "https://github.com/astondg/trip-planner/commit/01f7ada81f63b77e1a5d5ad6d67c0bfd619f06e9",
-        "at": "2026-08-03T21:21:59Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): generated plans include arrival, departure and somewhere to stay (#666) (#701)",
-        "url": "https://github.com/astondg/trip-planner/commit/a3e793d81cda6a21449258ddda35eb3849b5bc80",
-        "at": "2026-08-03T08:04:18Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-04T08:43:19.249Z"
+      "checkedAt": "2026-08-04T14:24:31.546Z"
     },
     {
       "name": "JotCal",
