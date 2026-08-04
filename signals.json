@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:42:50.715Z",
+  "generatedAt": "2026-08-04T02:51:21.041Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-03T14:47:14Z"
+        "pushedAt": "2026-08-03T19:42:51Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(billing): raise Pro to $6/mo · $39/yr and tighten the free tier (#703)",
+        "url": "https://github.com/astondg/trip-planner/commit/01f7ada81f63b77e1a5d5ad6d67c0bfd619f06e9",
+        "at": "2026-08-03T21:21:59Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(ai): generated plans include arrival, departure and somewhere to stay (#666) (#701)",
         "url": "https://github.com/astondg/trip-planner/commit/a3e793d81cda6a21449258ddda35eb3849b5bc80",
         "at": "2026-08-03T08:04:18Z"
@@ -112,13 +119,6 @@
         "message": "feat(ai): define in-app AI scope and the three-door exhausted state (#696) (#699)",
         "url": "https://github.com/astondg/trip-planner/commit/49b263377af23181f59ea8dbb08d4865121def8c",
         "at": "2026-07-30T03:04:15Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): cap starter itinerary generations per day (#695) (#698)",
-        "url": "https://github.com/astondg/trip-planner/commit/8ad76cea4c338bf7a09b0b7a92baec84e4178848",
-        "at": "2026-07-29T12:21:53Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-03T19:42:49.761Z"
+      "checkedAt": "2026-08-04T02:51:20.607Z"
     },
     {
       "name": "JotCal",
