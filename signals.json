@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:41:33.881Z",
+  "generatedAt": "2026-08-05T02:48:22.241Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-04T14:24:32Z"
+        "pushedAt": "2026-08-04T19:41:34Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: cut 1.0 — the 5.1.1 resubmission",
+        "url": "https://github.com/astondg/apple-grove/commit/371acb7b960c993d8ca4dfa93bdc1ca936f278db",
+        "at": "2026-08-05T00:34:29Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: permission prompts that meet 5.1.1, and the bugs behind them",
+        "url": "https://github.com/astondg/apple-grove/commit/d49a761f78e6a0428b735e7cc70e5f3a4ceb711a",
+        "at": "2026-08-04T23:51:23Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(ai): make the AI allowance explainer reachable before you've spent it (#665) (#707)",
@@ -105,20 +119,6 @@
         "message": "v1 submitted: record the release, and the timezone misread that nearly derailed it",
         "url": "https://github.com/astondg/home-dashboard/commit/4a0fe18456f0de1c69eb3a2c9a3d4fb8db5003d0",
         "at": "2026-08-01T13:57:33Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Lint pass: 200 warnings down to 23, and the CI step that will keep it there",
-        "url": "https://github.com/astondg/home-dashboard/commit/1462d12c4cabc9baafd9d6f858c10d6fbc833cba",
-        "at": "2026-08-01T13:29:14Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Store copy: re-render for Agenda, and point CI at the real skip sentinel",
-        "url": "https://github.com/astondg/home-dashboard/commit/72dc4814d1e2cb49d4cc491bf18f71ed49743a90",
-        "at": "2026-08-01T13:24:37Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-04T19:41:33.505Z"
+      "checkedAt": "2026-08-05T02:48:22.164Z"
     },
     {
       "name": "JotCal",
