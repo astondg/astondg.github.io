@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T02:48:22.241Z",
+  "generatedAt": "2026-08-05T08:41:28.114Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-04T19:41:34Z"
+        "pushedAt": "2026-08-05T02:48:23Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(auth): let users in and verify asynchronously (#664) (#723)",
+        "url": "https://github.com/astondg/trip-planner/commit/b33232c558b8ecef2138eb697e3e1760bb0c2c16",
+        "at": "2026-08-05T07:41:26Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(ai): raise the Free daily ceiling, and keep the trip context cached past a draft edit (#709) (#722)",
+        "url": "https://github.com/astondg/trip-planner/commit/518e2911b86c36bb0201a966293de31ea007b65b",
+        "at": "2026-08-05T07:10:22Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(ai): re-measure the credit estimates, and advertise the action turn (#721)",
+        "url": "https://github.com/astondg/trip-planner/commit/8e914e0739d43b2cddf74c891db062e118c4aca6",
+        "at": "2026-08-05T05:49:47Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Jotcal: cut 1.0 — the 5.1.1 resubmission",
@@ -91,27 +112,6 @@
         "message": "Jotcal: permission prompts that meet 5.1.1, and the bugs behind them",
         "url": "https://github.com/astondg/apple-grove/commit/d49a761f78e6a0428b735e7cc70e5f3a4ceb711a",
         "at": "2026-08-04T23:51:23Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): make the AI allowance explainer reachable before you've spent it (#665) (#707)",
-        "url": "https://github.com/astondg/trip-planner/commit/58add61af588abccbc8bc280b14dc27e29451d4b",
-        "at": "2026-08-04T12:19:27Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): meter AI in credits, and delete the turn limit and refund counter (#687) (#705)",
-        "url": "https://github.com/astondg/trip-planner/commit/781623c9e9ca1b055a219160143daf8d88e54402",
-        "at": "2026-08-04T11:22:21Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(mcp): directory submission readiness — self-check, copy pack, public setup docs (#704)",
-        "url": "https://github.com/astondg/trip-planner/commit/2fc9a10e423705d0042807b5fd48969d1b0a9035",
-        "at": "2026-08-04T07:11:15Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-05T02:48:22.164Z"
+      "checkedAt": "2026-08-05T08:41:26.989Z"
     },
     {
       "name": "JotCal",
