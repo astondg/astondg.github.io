@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:46:52.725Z",
+  "generatedAt": "2026-08-10T02:04:22.852Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-09T12:57:25Z"
+        "pushedAt": "2026-08-09T18:46:53Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: Xcode's extraction pass catches up with the deleted twilight row",
+        "url": "https://github.com/astondg/apple-grove/commit/ed2665e1f9899442283d6aec5f6d43a2b6c25a99",
+        "at": "2026-08-09T22:07:03Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: the iPad URL-field flow scrolls to the row it asserts (§16)",
+        "url": "https://github.com/astondg/apple-grove/commit/9ba61bf6bf614255239bb51a80d9a0f9ee0bb92f",
+        "at": "2026-08-09T08:14:02Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: the twilight row's half-French label goes, and so does the row (A180)",
+        "url": "https://github.com/astondg/apple-grove/commit/39e88f682cc4d4ebb2f08d2203c6dc8625bc8292",
+        "at": "2026-08-09T08:13:48Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(ai): seed the daily credit-ceiling refusal on first paint (#706) (#726)",
@@ -93,32 +114,11 @@
         "at": "2026-08-06T01:03:10Z"
       },
       {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: the location ask belongs to the Weather screen (D-091 rule 6)",
-        "url": "https://github.com/astondg/apple-grove/commit/47ac847531094e3f096e056e4c493a22abe4207d",
-        "at": "2026-08-06T00:52:10Z"
-      },
-      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(auth): let users in and verify asynchronously (#664) (#723)",
         "url": "https://github.com/astondg/trip-planner/commit/b33232c558b8ecef2138eb697e3e1760bb0c2c16",
         "at": "2026-08-05T07:41:26Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: a rejected version is respun with a build, not a version bump",
-        "url": "https://github.com/astondg/apple-grove/commit/9eebad6ff68c3440b9eba432c00a90b66dc3d2d2",
-        "at": "2026-08-05T00:44:55Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: cut 1.0 — the 5.1.1 resubmission",
-        "url": "https://github.com/astondg/apple-grove/commit/371acb7b960c993d8ca4dfa93bdc1ca936f278db",
-        "at": "2026-08-05T00:34:29Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-09T18:46:52.709Z"
+      "checkedAt": "2026-08-10T02:04:22.331Z"
     },
     {
       "name": "JotCal",
