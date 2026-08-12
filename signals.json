@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T11:42:02.121Z",
+  "generatedAt": "2026-08-12T13:17:23.892Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-12T11:41:46Z"
+        "pushedAt": "2026-08-12T11:42:03Z"
       },
       {
         "name": "mcp-tools",
@@ -102,6 +102,13 @@
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
+        "message": "Jotcal: the runbook says how the listing copy actually reaches the store",
+        "url": "https://github.com/astondg/apple-grove/commit/584eb8e9288e7edb6151b495ae309d7914f118ab",
+        "at": "2026-08-10T10:00:42Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
         "message": "Jotcal: Xcode's extraction pass catches up with the deleted twilight row",
         "url": "https://github.com/astondg/apple-grove/commit/ed2665e1f9899442283d6aec5f6d43a2b6c25a99",
         "at": "2026-08-09T22:07:03Z"
@@ -112,13 +119,6 @@
         "message": "Jotcal: the iPad URL-field flow scrolls to the row it asserts (§16)",
         "url": "https://github.com/astondg/apple-grove/commit/9ba61bf6bf614255239bb51a80d9a0f9ee0bb92f",
         "at": "2026-08-09T08:14:02Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: the twilight row's half-French label goes, and so does the row (A180)",
-        "url": "https://github.com/astondg/apple-grove/commit/39e88f682cc4d4ebb2f08d2203c6dc8625bc8292",
-        "at": "2026-08-09T08:13:48Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-12T11:42:01.346Z"
+      "checkedAt": "2026-08-12T13:17:22.846Z"
     },
     {
       "name": "JotCal",
