@@ -34,7 +34,7 @@ const ACTIVITY_REPOS = [
 // Source of truth for products shown on the site.
 const APPS = [
   { name: "aitrips.io",      url: "https://aitrips.io",                          status: "live",          check: true  },
-  { name: "JotCal",          url: "https://jotcal.app",                          status: "in_development", check: false },
+  { name: "JotCal",          url: "https://jotcal.app",                          status: "live",          check: false },
   { name: "TribeRide",       url: null,                                          status: "in_development", check: false },
   { name: "Next Departure",  url: "https://github.com/astondg/next-departure",   status: "open_source",   check: false },
 ];
