@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:37:51.075Z",
+  "generatedAt": "2026-08-12T11:42:02.121Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-12T02:12:30Z"
+        "pushedAt": "2026-08-12T11:41:46Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Screenshots were going to the one locale almost nobody inherits from",
+        "url": "https://github.com/astondg/home-dashboard/commit/d54db4bcb4f49cbb0b8089dcbda8e37e1efa8e29",
+        "at": "2026-08-12T11:23:19Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Captions that outgrew the frame were being cropped, silently",
+        "url": "https://github.com/astondg/home-dashboard/commit/ed89f629a30d138d3f1fcbd18bd69d3899371c41",
+        "at": "2026-08-12T09:30:38Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Three flows had gone stale against the app, and two run commands had expired",
+        "url": "https://github.com/astondg/home-dashboard/commit/22badff0cc6c038f70a49066640cbc648756e975",
+        "at": "2026-08-12T08:15:54Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Jotcal: Xcode's extraction pass catches up with the deleted twilight row",
@@ -98,27 +119,6 @@
         "message": "Jotcal: the twilight row's half-French label goes, and so does the row (A180)",
         "url": "https://github.com/astondg/apple-grove/commit/39e88f682cc4d4ebb2f08d2203c6dc8625bc8292",
         "at": "2026-08-09T08:13:48Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): seed the daily credit-ceiling refusal on first paint (#706) (#726)",
-        "url": "https://github.com/astondg/trip-planner/commit/1aef8021ac6df11bbbc3c76daf35cdc7be96b7de",
-        "at": "2026-08-06T02:31:42Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): draw a credit refusal once, and stop calling it an error (#710) (#725)",
-        "url": "https://github.com/astondg/trip-planner/commit/60edc0eaded50a2b0fd724e3ef19bdb4400654b8",
-        "at": "2026-08-06T01:03:10Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(auth): let users in and verify asynchronously (#664) (#723)",
-        "url": "https://github.com/astondg/trip-planner/commit/b33232c558b8ecef2138eb697e3e1760bb0c2c16",
-        "at": "2026-08-05T07:41:26Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-12T07:37:50.623Z"
+      "checkedAt": "2026-08-12T11:42:01.346Z"
     },
     {
       "name": "JotCal",
