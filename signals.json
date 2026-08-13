@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:04:56.238Z",
+  "generatedAt": "2026-08-13T02:16:38.348Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-12T13:17:24Z"
+        "pushedAt": "2026-08-12T19:04:57Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Fix/e2e triage header hydration (#730)",
+        "url": "https://github.com/astondg/trip-planner/commit/7a569858018c2ab528138758301edf4f7dbf1ed7",
+        "at": "2026-08-12T20:59:11Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Screenshots were going to the one locale almost nobody inherits from",
@@ -112,13 +119,6 @@
         "message": "Jotcal: Xcode's extraction pass catches up with the deleted twilight row",
         "url": "https://github.com/astondg/apple-grove/commit/ed2665e1f9899442283d6aec5f6d43a2b6c25a99",
         "at": "2026-08-09T22:07:03Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: the iPad URL-field flow scrolls to the row it asserts (§16)",
-        "url": "https://github.com/astondg/apple-grove/commit/9ba61bf6bf614255239bb51a80d9a0f9ee0bb92f",
-        "at": "2026-08-09T08:14:02Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-12T19:04:55.442Z"
+      "checkedAt": "2026-08-13T02:16:37.806Z"
     },
     {
       "name": "JotCal",
