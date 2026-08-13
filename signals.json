@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T02:16:38.348Z",
+  "generatedAt": "2026-08-13T07:39:15.801Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-12T19:04:57Z"
+        "pushedAt": "2026-08-13T02:16:39Z"
       },
       {
         "name": "mcp-tools",
@@ -81,9 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Fix/e2e triage header hydration (#730)",
-        "url": "https://github.com/astondg/trip-planner/commit/7a569858018c2ab528138758301edf4f7dbf1ed7",
-        "at": "2026-08-12T20:59:11Z"
+        "message": "chore: gitignore env-backup.md",
+        "url": "https://github.com/astondg/trip-planner/commit/f34fbe9abaf1fad1af87576c47f9b3d0e23f664d",
+        "at": "2026-08-13T06:18:17Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "docs: add Tineo to the competitive analysis",
+        "url": "https://github.com/astondg/trip-planner/commit/07f99f9d95c8d67383281e314765dea82a9e8535",
+        "at": "2026-08-13T06:18:17Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "docs: add the first-run review protocol",
+        "url": "https://github.com/astondg/trip-planner/commit/5993c053aa49b29ae37c59f6a783553fdd396e2a",
+        "at": "2026-08-13T06:18:17Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -105,20 +119,6 @@
         "message": "Three flows had gone stale against the app, and two run commands had expired",
         "url": "https://github.com/astondg/home-dashboard/commit/22badff0cc6c038f70a49066640cbc648756e975",
         "at": "2026-08-12T08:15:54Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: the runbook says how the listing copy actually reaches the store",
-        "url": "https://github.com/astondg/apple-grove/commit/584eb8e9288e7edb6151b495ae309d7914f118ab",
-        "at": "2026-08-10T10:00:42Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: Xcode's extraction pass catches up with the deleted twilight row",
-        "url": "https://github.com/astondg/apple-grove/commit/ed2665e1f9899442283d6aec5f6d43a2b6c25a99",
-        "at": "2026-08-09T22:07:03Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-13T02:16:37.806Z"
+      "checkedAt": "2026-08-13T07:39:15.678Z"
     },
     {
       "name": "JotCal",
