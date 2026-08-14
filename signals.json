@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:12:30.519Z",
+  "generatedAt": "2026-08-14T07:37:36.491Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-13T19:06:43Z"
+        "pushedAt": "2026-08-14T02:12:31Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Merge experiment/75-declare-bypass-openly: Boox firmware ink ships on Play",
+        "url": "https://github.com/astondg/home-dashboard/commit/cca6d1fd1c75e524263a4fb0aa9a18d1151d26be",
+        "at": "2026-08-14T05:51:33Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "The bypass question is settled, so the docs stop hedging about it",
+        "url": "https://github.com/astondg/home-dashboard/commit/56705008f3eed52afea235ff2f663308da741f33",
+        "at": "2026-08-14T05:50:02Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Record that the crash-loop guard was checked on hardware, not reasoned about",
+        "url": "https://github.com/astondg/home-dashboard/commit/f47d80fcce84af0e3c3cd9e664e0284c105de9b4",
+        "at": "2026-08-14T05:08:06Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "chore: gitignore env-backup.md",
@@ -98,27 +119,6 @@
         "message": "docs: add the first-run review protocol",
         "url": "https://github.com/astondg/trip-planner/commit/5993c053aa49b29ae37c59f6a783553fdd396e2a",
         "at": "2026-08-13T06:18:17Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Screenshots were going to the one locale almost nobody inherits from",
-        "url": "https://github.com/astondg/home-dashboard/commit/d54db4bcb4f49cbb0b8089dcbda8e37e1efa8e29",
-        "at": "2026-08-12T11:23:19Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Captions that outgrew the frame were being cropped, silently",
-        "url": "https://github.com/astondg/home-dashboard/commit/ed89f629a30d138d3f1fcbd18bd69d3899371c41",
-        "at": "2026-08-12T09:30:38Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Three flows had gone stale against the app, and two run commands had expired",
-        "url": "https://github.com/astondg/home-dashboard/commit/22badff0cc6c038f70a49066640cbc648756e975",
-        "at": "2026-08-12T08:15:54Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-14T02:12:30.284Z"
+      "checkedAt": "2026-08-14T07:37:36.421Z"
     },
     {
       "name": "JotCal",
