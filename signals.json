@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:43:26.652Z",
+  "generatedAt": "2026-08-15T12:43:38.263Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-15T01:24:51Z"
+        "pushedAt": "2026-08-15T06:43:27Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trip): clear satisfied starter nudges and collapse the post-commit stack (#667, #713) (#733)",
+        "url": "https://github.com/astondg/trip-planner/commit/59dcfd5e127b96d2e5ec2b7526e72517b1aeaa0e",
+        "at": "2026-08-15T10:46:53Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trip): pluralise counts at one, and stop sticky headers bleeding (#669) (#732)",
+        "url": "https://github.com/astondg/trip-planner/commit/ef41dfb67caf0ca343a6aa5a11f3366edfc37926",
+        "at": "2026-08-15T08:06:39Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge experiment/75-declare-bypass-openly: Boox firmware ink ships on Play",
@@ -105,20 +119,6 @@
         "message": "chore: gitignore env-backup.md",
         "url": "https://github.com/astondg/trip-planner/commit/f34fbe9abaf1fad1af87576c47f9b3d0e23f664d",
         "at": "2026-08-13T06:18:17Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "docs: add Tineo to the competitive analysis",
-        "url": "https://github.com/astondg/trip-planner/commit/07f99f9d95c8d67383281e314765dea82a9e8535",
-        "at": "2026-08-13T06:18:17Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "docs: add the first-run review protocol",
-        "url": "https://github.com/astondg/trip-planner/commit/5993c053aa49b29ae37c59f6a783553fdd396e2a",
-        "at": "2026-08-13T06:18:17Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-15T06:43:26.233Z"
+      "checkedAt": "2026-08-15T12:43:38.242Z"
     },
     {
       "name": "JotCal",
