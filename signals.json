@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:45:00.044Z",
+  "generatedAt": "2026-08-16T12:45:45.877Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-16T01:36:17Z"
+        "pushedAt": "2026-08-16T06:45:01Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(auth): carry the tour's chart through the pre-product run (#714) (#737)",
+        "url": "https://github.com/astondg/trip-planner/commit/60384ed202cf45819eb90109064a1e0d107dc24f",
+        "at": "2026-08-16T10:23:21Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): make the Free trip-limit refusal an upgrade moment (#712) (#736)",
+        "url": "https://github.com/astondg/trip-planner/commit/d8a6cfd54872a7cb1fa1dcbc98c20cefe05f4100",
+        "at": "2026-08-16T08:37:27Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(onboarding): say a plan is coming on the trip creation card (#715) (#735)",
         "url": "https://github.com/astondg/trip-planner/commit/ad2d07c7d2626a293e4ae922e54b03ffbcdf8ac7",
         "at": "2026-08-16T06:37:16Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(onboarding): spotlight each tour step, and end the tour with generate-or-continue (#711) (#734)",
-        "url": "https://github.com/astondg/trip-planner/commit/9bd26b26369acf553c3844e23decb0c7e9836120",
-        "at": "2026-08-16T02:41:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(trip): clear satisfied starter nudges and collapse the post-commit stack (#667, #713) (#733)",
-        "url": "https://github.com/astondg/trip-planner/commit/59dcfd5e127b96d2e5ec2b7526e72517b1aeaa0e",
-        "at": "2026-08-15T10:46:53Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-16T06:45:00.044Z"
+      "checkedAt": "2026-08-16T12:45:45.877Z"
     },
     {
       "name": "JotCal",
