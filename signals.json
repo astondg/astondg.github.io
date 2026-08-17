@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:02:16.474Z",
+  "generatedAt": "2026-08-17T12:50:57.805Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-17T01:27:32Z"
+        "pushedAt": "2026-08-17T07:02:17Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(onboarding): dim the tour's surfaces, not the rectangle around them (#742)",
+        "url": "https://github.com/astondg/trip-planner/commit/bd9edc9b177cc81749cb4ad0821a1c192cae3426",
+        "at": "2026-08-17T11:54:18Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(ai): re-measure a turn, and resize Free's budget around what it really costs (#743)",
+        "url": "https://github.com/astondg/trip-planner/commit/1941c665cade43534eaa7e19d84ff0e4a706ac45",
+        "at": "2026-08-17T11:35:31Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(auth): carry the tour's chart through the pre-product run (#714) (#737)",
         "url": "https://github.com/astondg/trip-planner/commit/60384ed202cf45819eb90109064a1e0d107dc24f",
         "at": "2026-08-16T10:23:21Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(billing): make the Free trip-limit refusal an upgrade moment (#712) (#736)",
-        "url": "https://github.com/astondg/trip-planner/commit/d8a6cfd54872a7cb1fa1dcbc98c20cefe05f4100",
-        "at": "2026-08-16T08:37:27Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(onboarding): say a plan is coming on the trip creation card (#715) (#735)",
-        "url": "https://github.com/astondg/trip-planner/commit/ad2d07c7d2626a293e4ae922e54b03ffbcdf8ac7",
-        "at": "2026-08-16T06:37:16Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-17T07:02:15.459Z"
+      "checkedAt": "2026-08-17T12:50:57.326Z"
     },
     {
       "name": "JotCal",
