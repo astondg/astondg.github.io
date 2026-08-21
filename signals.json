@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:53:21.708Z",
+  "generatedAt": "2026-08-21T12:54:14.330Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-21T01:35:08Z"
+        "pushedAt": "2026-08-21T06:53:22Z"
       },
       {
         "name": "mcp-tools",
@@ -81,16 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(ai): reconcile a refine turn against the plan it changed (#739) (#745)",
-        "url": "https://github.com/astondg/trip-planner/commit/9f661d1d4ab3d0034c4b3c62de2cfe19df25cb46",
-        "at": "2026-08-21T06:49:16Z"
+        "message": "fix(trip): say what a trip is missing, not which column is null (#741) (#746)",
+        "url": "https://github.com/astondg/trip-planner/commit/e9b57a142dd08ef31c9d37ed25b7008d74bd4537",
+        "at": "2026-08-21T12:28:27Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(trip): let the date picker advance a month again (#738) (#744)",
-        "url": "https://github.com/astondg/trip-planner/commit/11d8087000c59f208eec1329d1561bf7b62087e0",
-        "at": "2026-08-20T23:16:03Z"
+        "message": "fix(seo): make sitemap lastmod a real per-page date (#748)",
+        "url": "https://github.com/astondg/trip-planner/commit/c9cdb98f00e525bfdce3df58e26d04e9e4eaa6f4",
+        "at": "2026-08-21T11:47:37Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "docs: record the pre-marketing growth baseline",
+        "url": "https://github.com/astondg/trip-planner/commit/86b0c974862c975f2f0f2ee0f97f9ae088f280cb",
+        "at": "2026-08-21T11:11:42Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -112,13 +119,6 @@
         "message": "Jotcal: run-all.sh drives the whole suite, instead of 21 flows and a silent 15",
         "url": "https://github.com/astondg/apple-grove/commit/fa61660f127d4691dea76e9269d7b736c61a72ee",
         "at": "2026-08-20T07:38:39Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Optional ML Kit init stops taking launch down with it (Crashlytics d080311d)",
-        "url": "https://github.com/astondg/home-dashboard/commit/17a1238860af033a269ae5044f5cbc31eafb9fb5",
-        "at": "2026-08-20T07:10:24Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-21T06:53:21.426Z"
+      "checkedAt": "2026-08-21T12:54:13.791Z"
     },
     {
       "name": "JotCal",
