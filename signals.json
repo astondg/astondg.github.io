@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:43:36.047Z",
+  "generatedAt": "2026-08-21T01:35:07.562Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-20T12:55:21Z"
+        "pushedAt": "2026-08-20T18:43:37Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trip): let the date picker advance a month again (#738) (#744)",
+        "url": "https://github.com/astondg/trip-planner/commit/11d8087000c59f208eec1329d1561bf7b62087e0",
+        "at": "2026-08-20T23:16:03Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge release/1.2.0: search across events, and swipe to page through time",
@@ -112,13 +119,6 @@
         "message": "Jotcal: the 1.2.0 changelog and the rendered release notes",
         "url": "https://github.com/astondg/apple-grove/commit/e330c56ac76f12f71dd597399ad049009407c422",
         "at": "2026-08-20T06:14:47Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "1.2.0 opens at versionCode 21, and the rendered changelog comes with it",
-        "url": "https://github.com/astondg/home-dashboard/commit/f0913112f52cfd8aaa405f3d62bf53e34cc0f682",
-        "at": "2026-08-20T06:14:34Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-20T18:43:35.662Z"
+      "checkedAt": "2026-08-21T01:35:06.982Z"
     },
     {
       "name": "JotCal",
