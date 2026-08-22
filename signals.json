@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:24:18.947Z",
+  "generatedAt": "2026-08-22T06:45:40.914Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-21T18:40:42Z"
+        "pushedAt": "2026-08-22T01:24:19Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(admin): make the funnel's step 2 measure activation, not a dismissal (#749) (#753)",
+        "url": "https://github.com/astondg/trip-planner/commit/4c33e10d87b1901b0303096fdc4281a6fa7d4160",
+        "at": "2026-08-22T01:48:42Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(trip): say what a trip is missing, not which column is null (#741) (#746)",
         "url": "https://github.com/astondg/trip-planner/commit/e9b57a142dd08ef31c9d37ed25b7008d74bd4537",
         "at": "2026-08-21T12:28:27Z"
@@ -91,13 +98,6 @@
         "message": "fix(seo): make sitemap lastmod a real per-page date (#748)",
         "url": "https://github.com/astondg/trip-planner/commit/c9cdb98f00e525bfdce3df58e26d04e9e4eaa6f4",
         "at": "2026-08-21T11:47:37Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "docs: record the pre-marketing growth baseline",
-        "url": "https://github.com/astondg/trip-planner/commit/86b0c974862c975f2f0f2ee0f97f9ae088f280cb",
-        "at": "2026-08-21T11:11:42Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-22T01:24:18.125Z"
+      "checkedAt": "2026-08-22T06:45:40.914Z"
     },
     {
       "name": "JotCal",
