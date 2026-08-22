@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:45:38.583Z",
+  "generatedAt": "2026-08-22T18:35:10.989Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-22T06:45:41Z"
+        "pushedAt": "2026-08-22T12:45:39Z"
       },
       {
         "name": "mcp-tools",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "The Grid today cell folds its morning, and all-day events become day labels",
+        "url": "https://github.com/astondg/home-dashboard/commit/e129a9c1c886e29acef98fdf6d7d37b5524150c6",
+        "at": "2026-08-22T14:19:01Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(growth): capture first-touch acquisition source at signup (#750) (#754)",
+        "url": "https://github.com/astondg/trip-planner/commit/8afce041a19af09bbd83e1f2b2633e9c518d2405",
+        "at": "2026-08-22T12:46:57Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "fix(admin): make the funnel's step 2 measure activation, not a dismissal (#749) (#753)",
@@ -93,13 +107,6 @@
         "at": "2026-08-21T12:28:27Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(seo): make sitemap lastmod a real per-page date (#748)",
-        "url": "https://github.com/astondg/trip-planner/commit/c9cdb98f00e525bfdce3df58e26d04e9e4eaa6f4",
-        "at": "2026-08-21T11:47:37Z"
-      },
-      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Merge release/1.2.0: search across events, and swipe to page through time",
@@ -112,13 +119,6 @@
         "message": "Merge release/1.2.0: search across events, and swipe to page through time",
         "url": "https://github.com/astondg/apple-grove/commit/e77fe7653a25c1c7da24d78ab2941dfea9c0efd2",
         "at": "2026-08-20T08:28:42Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: run-all.sh drives the whole suite, instead of 21 flows and a silent 15",
-        "url": "https://github.com/astondg/apple-grove/commit/fa61660f127d4691dea76e9269d7b736c61a72ee",
-        "at": "2026-08-20T07:38:39Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-22T12:45:38.388Z"
+      "checkedAt": "2026-08-22T18:35:10.989Z"
     },
     {
       "name": "JotCal",
