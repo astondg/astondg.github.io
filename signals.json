@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:35:10.989Z",
+  "generatedAt": "2026-08-23T01:37:45.684Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-22T12:45:39Z"
+        "pushedAt": "2026-08-22T18:35:11Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,27 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
+        "message": "Every anchor says where, in both states (D-077, #90)",
+        "url": "https://github.com/astondg/home-dashboard/commit/c9cd2be7953f16321fb06d0d74e76189078bbd43",
+        "at": "2026-08-23T01:20:25Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "A live event may take the Grid anchor, and the cell names it once (#90)",
+        "url": "https://github.com/astondg/home-dashboard/commit/bf68909e11ee5f350078716e4ddbbcac5546e78b",
+        "at": "2026-08-22T23:06:49Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(admin): classify accounts, and keep the non-real ones out of growth metrics (#755)",
+        "url": "https://github.com/astondg/trip-planner/commit/4d156cc040296ca70c4e3928ba9c0bda30a121cd",
+        "at": "2026-08-22T22:38:18Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
         "message": "The Grid today cell folds its morning, and all-day events become day labels",
         "url": "https://github.com/astondg/home-dashboard/commit/e129a9c1c886e29acef98fdf6d7d37b5524150c6",
         "at": "2026-08-22T14:19:01Z"
@@ -98,27 +119,6 @@
         "message": "fix(admin): make the funnel's step 2 measure activation, not a dismissal (#749) (#753)",
         "url": "https://github.com/astondg/trip-planner/commit/4c33e10d87b1901b0303096fdc4281a6fa7d4160",
         "at": "2026-08-22T01:48:42Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(trip): say what a trip is missing, not which column is null (#741) (#746)",
-        "url": "https://github.com/astondg/trip-planner/commit/e9b57a142dd08ef31c9d37ed25b7008d74bd4537",
-        "at": "2026-08-21T12:28:27Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Merge release/1.2.0: search across events, and swipe to page through time",
-        "url": "https://github.com/astondg/home-dashboard/commit/7076d3047f174135298fc5124d34ba6cba831efd",
-        "at": "2026-08-20T09:00:21Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Merge release/1.2.0: search across events, and swipe to page through time",
-        "url": "https://github.com/astondg/apple-grove/commit/e77fe7653a25c1c7da24d78ab2941dfea9c0efd2",
-        "at": "2026-08-20T08:28:42Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-22T18:35:10.989Z"
+      "checkedAt": "2026-08-23T01:37:45.567Z"
     },
     {
       "name": "JotCal",
