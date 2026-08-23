@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:37:45.684Z",
+  "generatedAt": "2026-08-23T06:46:58.659Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-22T18:35:11Z"
+        "pushedAt": "2026-08-23T01:37:46Z"
       },
       {
         "name": "mcp-tools",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(trips): free the detectors, and give trip review a deliberate surface (#700) (#758)",
+        "url": "https://github.com/astondg/trip-planner/commit/8344b50d7ed3785a9e5b4d77b8cbbbb9060cb9eb",
+        "at": "2026-08-23T05:09:10Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "The dial read-out steps off the hub, and the centre gains a line and a state (D-104)",
+        "url": "https://github.com/astondg/home-dashboard/commit/0b266a15cd91cecddff3b68b71b83b2f42e5c69f",
+        "at": "2026-08-23T04:12:04Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix: four defects found in browser verification (#757)",
+        "url": "https://github.com/astondg/trip-planner/commit/b749cd5687adc8bcfa1a57153baa8f93944536e4",
+        "at": "2026-08-23T04:00:50Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Clock Day keeps a \"now\" when the dial stops reading one out (D-100 rule 2)",
+        "url": "https://github.com/astondg/home-dashboard/commit/4c2179bd39789dd821f732990caa4d694fb07b8c",
+        "at": "2026-08-23T02:24:59Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(growth): onboarding step events, and retention as trip continuation (#752) (#756)",
+        "url": "https://github.com/astondg/trip-planner/commit/622000aabb7d08e7a419c4427ef5ad12f6de3f1c",
+        "at": "2026-08-23T01:57:24Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Every anchor says where, in both states (D-077, #90)",
         "url": "https://github.com/astondg/home-dashboard/commit/c9cd2be7953f16321fb06d0d74e76189078bbd43",
         "at": "2026-08-23T01:20:25Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "A live event may take the Grid anchor, and the cell names it once (#90)",
-        "url": "https://github.com/astondg/home-dashboard/commit/bf68909e11ee5f350078716e4ddbbcac5546e78b",
-        "at": "2026-08-22T23:06:49Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(admin): classify accounts, and keep the non-real ones out of growth metrics (#755)",
-        "url": "https://github.com/astondg/trip-planner/commit/4d156cc040296ca70c4e3928ba9c0bda30a121cd",
-        "at": "2026-08-22T22:38:18Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "The Grid today cell folds its morning, and all-day events become day labels",
-        "url": "https://github.com/astondg/home-dashboard/commit/e129a9c1c886e29acef98fdf6d7d37b5524150c6",
-        "at": "2026-08-22T14:19:01Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(growth): capture first-touch acquisition source at signup (#750) (#754)",
-        "url": "https://github.com/astondg/trip-planner/commit/8afce041a19af09bbd83e1f2b2633e9c518d2405",
-        "at": "2026-08-22T12:46:57Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(admin): make the funnel's step 2 measure activation, not a dismissal (#749) (#753)",
-        "url": "https://github.com/astondg/trip-planner/commit/4c33e10d87b1901b0303096fdc4281a6fa7d4160",
-        "at": "2026-08-22T01:48:42Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-23T01:37:45.567Z"
+      "checkedAt": "2026-08-23T06:46:57.611Z"
     },
     {
       "name": "JotCal",
