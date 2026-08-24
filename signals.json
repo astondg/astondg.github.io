@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-08-24T07:04:38.499Z",
+  "generatedAt": "2026-08-24T12:56:44.009Z",
   "version": 1,
   "github": {
     "user": "astondg",
     "repos": [
+      {
+        "name": "astondg.github.io",
+        "full": "astondg/astondg.github.io",
+        "url": "https://github.com/astondg/astondg.github.io",
+        "description": "",
+        "language": "HTML",
+        "stars": 0,
+        "pushedAt": "2026-08-24T07:04:39Z"
+      },
       {
         "name": "aitrips-mcp",
         "full": "astondg/aitrips-mcp",
@@ -12,15 +21,6 @@
         "language": null,
         "stars": 0,
         "pushedAt": "2026-08-24T04:07:34Z"
-      },
-      {
-        "name": "astondg.github.io",
-        "full": "astondg/astondg.github.io",
-        "url": "https://github.com/astondg/astondg.github.io",
-        "description": "",
-        "language": "HTML",
-        "stars": 0,
-        "pushedAt": "2026-08-24T01:35:53Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs(mcp): record why the awesome-mcp PR died, and that Glama is the gate",
-        "url": "https://github.com/astondg/trip-planner/commit/64a4fe279f8fcba53ea29839c100c41290a5adc0",
-        "at": "2026-08-24T03:22:19Z"
+        "message": "debug(mcp): log which credential header actually arrives",
+        "url": "https://github.com/astondg/trip-planner/commit/af6d7bc2970747d1f780e4c8f5950c6801d0b347",
+        "at": "2026-08-24T12:37:04Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs(growth): revise the plan against what actually shipped, and correct the MCP listing status",
-        "url": "https://github.com/astondg/trip-planner/commit/3425cf77436d6dcbc0b8a438f38e49a9d652824e",
-        "at": "2026-08-24T03:11:54Z"
+        "message": "debug(mcp): temporary shape-only logging for the Glama healthcheck 401",
+        "url": "https://github.com/astondg/trip-planner/commit/1b61bd3682a08202db70ad7e5f66386d15b7a5fb",
+        "at": "2026-08-24T12:26:08Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(growth): count traffic first-party, with no identifier at all (#759)",
-        "url": "https://github.com/astondg/trip-planner/commit/01d0a38a754606627e1b8c3cfdf65d50a3e97edd",
-        "at": "2026-08-24T00:23:48Z"
+        "message": "chore(mcp): fix the registry entry, and assemble the submission pack (#764) (#765)",
+        "url": "https://github.com/astondg/trip-planner/commit/e0166ffef8eac0717db05cb9dad7fcd7216063a8",
+        "at": "2026-08-24T11:51:11Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-24T07:04:38.264Z"
+      "checkedAt": "2026-08-24T12:56:43.385Z"
     },
     {
       "name": "JotCal",
