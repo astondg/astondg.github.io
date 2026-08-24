@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-08-24T01:35:52.323Z",
+  "generatedAt": "2026-08-24T07:04:38.499Z",
   "version": 1,
   "github": {
     "user": "astondg",
     "repos": [
+      {
+        "name": "aitrips-mcp",
+        "full": "astondg/aitrips-mcp",
+        "url": "https://github.com/astondg/aitrips-mcp",
+        "description": "Map-first trip planning for Claude, ChatGPT and any MCP client. 37 tools: itineraries, routed transport across 11 modes, trip review, sharing.",
+        "language": null,
+        "stars": 0,
+        "pushedAt": "2026-08-24T04:07:34Z"
+      },
       {
         "name": "astondg.github.io",
         "full": "astondg/astondg.github.io",
@@ -11,7 +20,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-23T18:34:08Z"
+        "pushedAt": "2026-08-24T01:35:53Z"
       },
       {
         "name": "mcp-tools",
@@ -30,15 +39,6 @@
         "language": "TypeScript",
         "stars": 0,
         "pushedAt": "2026-03-22T11:43:12Z"
-      },
-      {
-        "name": "aitrips-mcp",
-        "full": "astondg/aitrips-mcp",
-        "url": "https://github.com/astondg/aitrips-mcp",
-        "description": "MCP server for AI-powered trip planning — manage itineraries, locations, tasks, budgets, and collaborate on trips",
-        "language": null,
-        "stars": 0,
-        "pushedAt": "2026-02-13T05:27:42Z"
       },
       {
         "name": "ofx-fe-test",
@@ -81,16 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(growth): count traffic first-party, with no identifier at all (#759)",
-        "url": "https://github.com/astondg/trip-planner/commit/01d0a38a754606627e1b8c3cfdf65d50a3e97edd",
-        "at": "2026-08-24T00:23:48Z"
+        "message": "docs(mcp): record why the awesome-mcp PR died, and that Glama is the gate",
+        "url": "https://github.com/astondg/trip-planner/commit/64a4fe279f8fcba53ea29839c100c41290a5adc0",
+        "at": "2026-08-24T03:22:19Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trips): free the detectors, and give trip review a deliberate surface (#700) (#758)",
-        "url": "https://github.com/astondg/trip-planner/commit/8344b50d7ed3785a9e5b4d77b8cbbbb9060cb9eb",
-        "at": "2026-08-23T05:09:10Z"
+        "message": "docs(growth): revise the plan against what actually shipped, and correct the MCP listing status",
+        "url": "https://github.com/astondg/trip-planner/commit/3425cf77436d6dcbc0b8a438f38e49a9d652824e",
+        "at": "2026-08-24T03:11:54Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(growth): count traffic first-party, with no identifier at all (#759)",
+        "url": "https://github.com/astondg/trip-planner/commit/01d0a38a754606627e1b8c3cfdf65d50a3e97edd",
+        "at": "2026-08-24T00:23:48Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -98,13 +105,6 @@
         "message": "The dial read-out steps off the hub, and the centre gains a line and a state (D-104)",
         "url": "https://github.com/astondg/home-dashboard/commit/0b266a15cd91cecddff3b68b71b83b2f42e5c69f",
         "at": "2026-08-23T04:12:04Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix: four defects found in browser verification (#757)",
-        "url": "https://github.com/astondg/trip-planner/commit/b749cd5687adc8bcfa1a57153baa8f93944536e4",
-        "at": "2026-08-23T04:00:50Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-24T01:35:52.322Z"
+      "checkedAt": "2026-08-24T07:04:38.264Z"
     },
     {
       "name": "JotCal",
