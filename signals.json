@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:34:07.471Z",
+  "generatedAt": "2026-08-24T01:35:52.323Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-23T12:47:00Z"
+        "pushedAt": "2026-08-23T18:34:08Z"
       },
       {
         "name": "mcp-tools",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(growth): count traffic first-party, with no identifier at all (#759)",
+        "url": "https://github.com/astondg/trip-planner/commit/01d0a38a754606627e1b8c3cfdf65d50a3e97edd",
+        "at": "2026-08-24T00:23:48Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(trips): free the detectors, and give trip review a deliberate surface (#700) (#758)",
         "url": "https://github.com/astondg/trip-planner/commit/8344b50d7ed3785a9e5b4d77b8cbbbb9060cb9eb",
         "at": "2026-08-23T05:09:10Z"
@@ -107,13 +114,6 @@
         "at": "2026-08-23T02:24:59Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(growth): onboarding step events, and retention as trip continuation (#752) (#756)",
-        "url": "https://github.com/astondg/trip-planner/commit/622000aabb7d08e7a419c4427ef5ad12f6de3f1c",
-        "at": "2026-08-23T01:57:24Z"
-      },
-      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Every anchor says where, in both states (D-077, #90)",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-23T18:34:07.054Z"
+      "checkedAt": "2026-08-24T01:35:52.322Z"
     },
     {
       "name": "JotCal",
