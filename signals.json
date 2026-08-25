@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:53:53.474Z",
+  "generatedAt": "2026-08-25T12:52:55.082Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-25T01:25:50Z"
+        "pushedAt": "2026-08-25T06:53:54Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat: public itinerary pages (#761, #762, #763) (#770)",
+        "url": "https://github.com/astondg/trip-planner/commit/83cffb2b2726caf9bb90fa723c0237c319f41f80",
+        "at": "2026-08-25T07:48:04Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "chore(mcp): dedupe RPC clients, make tool-auth structural, drop debug logs (#769)",
         "url": "https://github.com/astondg/trip-planner/commit/e46b2fb8d95f734f47b6f4e846996b2dd8cf8418",
         "at": "2026-08-25T06:21:47Z"
@@ -91,13 +98,6 @@
         "message": "debug(mcp): log which credential header actually arrives",
         "url": "https://github.com/astondg/trip-planner/commit/af6d7bc2970747d1f780e4c8f5950c6801d0b347",
         "at": "2026-08-24T12:37:04Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "debug(mcp): temporary shape-only logging for the Glama healthcheck 401",
-        "url": "https://github.com/astondg/trip-planner/commit/1b61bd3682a08202db70ad7e5f66386d15b7a5fb",
-        "at": "2026-08-24T12:26:08Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-25T06:53:52.940Z"
+      "checkedAt": "2026-08-25T12:52:55.081Z"
     },
     {
       "name": "JotCal",
