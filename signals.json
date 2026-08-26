@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:43:11.675Z",
+  "generatedAt": "2026-08-26T01:35:57.437Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-25T12:52:56Z"
+        "pushedAt": "2026-08-25T18:43:12Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(itineraries): load .env.local in publish-itinerary script",
+        "url": "https://github.com/astondg/trip-planner/commit/d23fd27f36edcf2c3594aa43ad290f6874b46880",
+        "at": "2026-08-25T22:20:04Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "chore(itineraries): add script to copy a reviewed draft to another DB",
         "url": "https://github.com/astondg/trip-planner/commit/a5be8801fdf782c10474df0f7c1b4fbc770b1061",
         "at": "2026-08-25T12:56:15Z"
@@ -91,13 +98,6 @@
         "message": "feat: public itinerary pages (#761, #762, #763) (#770)",
         "url": "https://github.com/astondg/trip-planner/commit/83cffb2b2726caf9bb90fa723c0237c319f41f80",
         "at": "2026-08-25T07:48:04Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "chore(mcp): dedupe RPC clients, make tool-auth structural, drop debug logs (#769)",
-        "url": "https://github.com/astondg/trip-planner/commit/e46b2fb8d95f734f47b6f4e846996b2dd8cf8418",
-        "at": "2026-08-25T06:21:47Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-25T18:43:11.429Z"
+      "checkedAt": "2026-08-26T01:35:56.881Z"
     },
     {
       "name": "JotCal",
