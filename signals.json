@@ -1,18 +1,9 @@
 {
-  "generatedAt": "2026-08-26T01:35:57.437Z",
+  "generatedAt": "2026-08-26T06:54:55.806Z",
   "version": 1,
   "github": {
     "user": "astondg",
     "repos": [
-      {
-        "name": "astondg.github.io",
-        "full": "astondg/astondg.github.io",
-        "url": "https://github.com/astondg/astondg.github.io",
-        "description": "",
-        "language": "HTML",
-        "stars": 0,
-        "pushedAt": "2026-08-25T18:43:12Z"
-      },
       {
         "name": "aitrips-mcp",
         "full": "astondg/aitrips-mcp",
@@ -20,7 +11,16 @@
         "description": "Map-first trip planning for Claude, ChatGPT and any MCP client. 37 tools: itineraries, routed transport across 11 modes, trip review, sharing.",
         "language": null,
         "stars": 0,
-        "pushedAt": "2026-08-24T04:07:34Z"
+        "pushedAt": "2026-08-26T03:18:05Z"
+      },
+      {
+        "name": "astondg.github.io",
+        "full": "astondg/astondg.github.io",
+        "url": "https://github.com/astondg/astondg.github.io",
+        "description": "",
+        "language": "HTML",
+        "stars": 0,
+        "pushedAt": "2026-08-26T01:35:58Z"
       },
       {
         "name": "mcp-tools",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(mobile): resolve 393px E2E drift across trip and Display surfaces (#780)",
+        "url": "https://github.com/astondg/trip-planner/commit/d24602d78bc109e8f4a5db37553f58e70a0c8ff7",
+        "at": "2026-08-26T05:55:18Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(mobile): TodayView tokens, tab clipping, and cookie-banner overlap (#779)",
+        "url": "https://github.com/astondg/trip-planner/commit/0c9d58fb72fcbbc803218242b407ade99cef7ef3",
+        "at": "2026-08-26T03:15:12Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(itineraries): load .env.local in publish-itinerary script",
         "url": "https://github.com/astondg/trip-planner/commit/d23fd27f36edcf2c3594aa43ad290f6874b46880",
         "at": "2026-08-25T22:20:04Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "chore(itineraries): add script to copy a reviewed draft to another DB",
-        "url": "https://github.com/astondg/trip-planner/commit/a5be8801fdf782c10474df0f7c1b4fbc770b1061",
-        "at": "2026-08-25T12:56:15Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat: public itinerary pages (#761, #762, #763) (#770)",
-        "url": "https://github.com/astondg/trip-planner/commit/83cffb2b2726caf9bb90fa723c0237c319f41f80",
-        "at": "2026-08-25T07:48:04Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-26T01:35:56.881Z"
+      "checkedAt": "2026-08-26T06:54:55.332Z"
     },
     {
       "name": "JotCal",
