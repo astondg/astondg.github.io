@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:51:54.200Z",
+  "generatedAt": "2026-08-27T08:23:15.578Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-26T12:58:33Z"
+        "pushedAt": "2026-08-26T19:51:56Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(mobile): unify bottom-nav tab order across planning and travel mode (#783)",
-        "url": "https://github.com/astondg/trip-planner/commit/bd34344347f29e58381e6038551fb89a5a107253",
-        "at": "2026-08-26T12:51:57Z"
+        "message": "fix(marketing): add site nav and footer to the public itinerary pages (#789)",
+        "url": "https://github.com/astondg/trip-planner/commit/a527b19091045099bbbd4d3af0890706f959a802",
+        "at": "2026-08-27T07:29:46Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(mobile): collapse the planning IA tab/filter stack (#782)",
-        "url": "https://github.com/astondg/trip-planner/commit/ba911a5f4c668c92592c795a0a95745e8b704be7",
-        "at": "2026-08-26T12:41:25Z"
+        "message": "fix(seo): og:url matches canonical on static pages (#788)",
+        "url": "https://github.com/astondg/trip-planner/commit/68e512d9f2912866a3ab66e3435554505e07740f",
+        "at": "2026-08-27T07:09:22Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(mobile): resolve 393px E2E drift across trip and Display surfaces (#780)",
-        "url": "https://github.com/astondg/trip-planner/commit/d24602d78bc109e8f4a5db37553f58e70a0c8ff7",
-        "at": "2026-08-26T05:55:18Z"
+        "message": "fix(marketing): link published itineraries from the homepage nav (#785)",
+        "url": "https://github.com/astondg/trip-planner/commit/3fab81ca34e401c4390175b84b1d8d0392dd4586",
+        "at": "2026-08-27T05:46:56Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-26T19:51:53.546Z"
+      "checkedAt": "2026-08-27T08:23:15.578Z"
     },
     {
       "name": "JotCal",
