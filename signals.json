@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:56:27.657Z",
+  "generatedAt": "2026-08-29T06:24:37.225Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-28T10:24:10Z"
+        "pushedAt": "2026-08-28T21:56:28Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(map): support CARTO API key for basemap tiles",
+        "url": "https://github.com/astondg/trip-planner/commit/b9756165d719d65ee5c7e4e2e5b2a4233a606c33",
+        "at": "2026-08-29T00:28:34Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(marketing): /compare/[competitor] honest comparison pages (#791)",
         "url": "https://github.com/astondg/trip-planner/commit/babf37b46a8751ecb17d1934b55e11466f274aaa",
         "at": "2026-08-28T02:49:16Z"
@@ -91,13 +98,6 @@
         "message": "fix(marketing): add site nav and footer to the public itinerary pages (#789)",
         "url": "https://github.com/astondg/trip-planner/commit/a527b19091045099bbbd4d3af0890706f959a802",
         "at": "2026-08-27T07:29:46Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(seo): og:url matches canonical on static pages (#788)",
-        "url": "https://github.com/astondg/trip-planner/commit/68e512d9f2912866a3ab66e3435554505e07740f",
-        "at": "2026-08-27T07:09:22Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-28T21:56:27.530Z"
+      "checkedAt": "2026-08-29T06:24:36.667Z"
     },
     {
       "name": "JotCal",
