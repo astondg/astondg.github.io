@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:34:55.373Z",
+  "generatedAt": "2026-08-30T11:33:46.379Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-29T20:41:18Z"
+        "pushedAt": "2026-08-30T04:34:56Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix: recognize IATA airport codes in transport fields, scoped to flights (#794)",
+        "url": "https://github.com/astondg/trip-planner/commit/654112ac0bc1d178251aae42ec4230f826b0ee68",
+        "at": "2026-08-30T08:20:52Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix: pin the clock in an ai-credits test that was date-relative (#795)",
+        "url": "https://github.com/astondg/trip-planner/commit/6706110f90b50d72850fa21dd31fd689ae9d6875",
+        "at": "2026-08-30T08:05:11Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat: quick flight entry by flight number + date (#413) (#792)",
         "url": "https://github.com/astondg/trip-planner/commit/4e35d40f8b2622519e2912417057fc1505099b7a",
         "at": "2026-08-30T00:05:20Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat: integrate AeroDataBox flight API for real flight data in transport modal (#406)",
-        "url": "https://github.com/astondg/trip-planner/commit/e9d51ccd9ced17a58a59526cc81ad30d8cf7c871",
-        "at": "2026-08-29T09:19:09Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(map): support CARTO API key for basemap tiles",
-        "url": "https://github.com/astondg/trip-planner/commit/b9756165d719d65ee5c7e4e2e5b2a4233a606c33",
-        "at": "2026-08-29T00:28:34Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-30T04:34:55.262Z"
+      "checkedAt": "2026-08-30T11:33:45.851Z"
     },
     {
       "name": "JotCal",
