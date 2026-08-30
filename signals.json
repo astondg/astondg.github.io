@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:41:16.650Z",
+  "generatedAt": "2026-08-30T04:34:55.373Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-29T16:27:38Z"
+        "pushedAt": "2026-08-29T20:41:18Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat: quick flight entry by flight number + date (#413) (#792)",
+        "url": "https://github.com/astondg/trip-planner/commit/4e35d40f8b2622519e2912417057fc1505099b7a",
+        "at": "2026-08-30T00:05:20Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat: integrate AeroDataBox flight API for real flight data in transport modal (#406)",
         "url": "https://github.com/astondg/trip-planner/commit/e9d51ccd9ced17a58a59526cc81ad30d8cf7c871",
         "at": "2026-08-29T09:19:09Z"
@@ -91,13 +98,6 @@
         "message": "fix(map): support CARTO API key for basemap tiles",
         "url": "https://github.com/astondg/trip-planner/commit/b9756165d719d65ee5c7e4e2e5b2a4233a606c33",
         "at": "2026-08-29T00:28:34Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(marketing): /compare/[competitor] honest comparison pages (#791)",
-        "url": "https://github.com/astondg/trip-planner/commit/babf37b46a8751ecb17d1934b55e11466f274aaa",
-        "at": "2026-08-28T02:49:16Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-29T20:41:16.501Z"
+      "checkedAt": "2026-08-30T04:34:55.262Z"
     },
     {
       "name": "JotCal",
