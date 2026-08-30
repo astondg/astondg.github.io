@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:21:01.042Z",
+  "generatedAt": "2026-08-30T20:47:07.398Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-30T11:33:47Z"
+        "pushedAt": "2026-08-30T16:21:02Z"
       },
       {
         "name": "aitrips-mcp",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-30T16:21:01.042Z"
+      "checkedAt": "2026-08-30T20:47:07.316Z"
     },
     {
       "name": "JotCal",
