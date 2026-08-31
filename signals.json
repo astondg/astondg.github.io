@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T04:39:09.736Z",
+  "generatedAt": "2026-08-31T13:08:26.815Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-30T20:47:08Z"
+        "pushedAt": "2026-08-31T04:39:10Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix: flight-number lookup follow-ups — chain anchor, shared hook, coord-diff (#793) (#798)",
+        "url": "https://github.com/astondg/trip-planner/commit/96b89b4cdd1e18576aacb344dff2faa0922f3432",
+        "at": "2026-08-31T11:25:05Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix: triage mobile E2E failures from #781 (#797)",
+        "url": "https://github.com/astondg/trip-planner/commit/573f7000d15026089a2a0709e8c0e2ccd5a9838d",
+        "at": "2026-08-31T06:26:35Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(mobile): confirm step for transport quick-add, and continue-on-desktop handoff for batch actions (#796)",
         "url": "https://github.com/astondg/trip-planner/commit/98141e2bad78476b77ae6c56a222dff8670e8fef",
         "at": "2026-08-30T21:00:30Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix: recognize IATA airport codes in transport fields, scoped to flights (#794)",
-        "url": "https://github.com/astondg/trip-planner/commit/654112ac0bc1d178251aae42ec4230f826b0ee68",
-        "at": "2026-08-30T08:20:52Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix: pin the clock in an ai-credits test that was date-relative (#795)",
-        "url": "https://github.com/astondg/trip-planner/commit/6706110f90b50d72850fa21dd31fd689ae9d6875",
-        "at": "2026-08-30T08:05:11Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-31T04:39:09.119Z"
+      "checkedAt": "2026-08-31T13:08:26.815Z"
     },
     {
       "name": "JotCal",
