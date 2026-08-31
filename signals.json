@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:47:07.398Z",
+  "generatedAt": "2026-08-31T04:39:09.736Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-08-30T16:21:02Z"
+        "pushedAt": "2026-08-30T20:47:08Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(mobile): confirm step for transport quick-add, and continue-on-desktop handoff for batch actions (#796)",
+        "url": "https://github.com/astondg/trip-planner/commit/98141e2bad78476b77ae6c56a222dff8670e8fef",
+        "at": "2026-08-30T21:00:30Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix: recognize IATA airport codes in transport fields, scoped to flights (#794)",
         "url": "https://github.com/astondg/trip-planner/commit/654112ac0bc1d178251aae42ec4230f826b0ee68",
         "at": "2026-08-30T08:20:52Z"
@@ -91,13 +98,6 @@
         "message": "fix: pin the clock in an ai-credits test that was date-relative (#795)",
         "url": "https://github.com/astondg/trip-planner/commit/6706110f90b50d72850fa21dd31fd689ae9d6875",
         "at": "2026-08-30T08:05:11Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat: quick flight entry by flight number + date (#413) (#792)",
-        "url": "https://github.com/astondg/trip-planner/commit/4e35d40f8b2622519e2912417057fc1505099b7a",
-        "at": "2026-08-30T00:05:20Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-08-30T20:47:07.316Z"
+      "checkedAt": "2026-08-31T04:39:09.119Z"
     },
     {
       "name": "JotCal",
