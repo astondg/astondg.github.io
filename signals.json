@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:47:02.297Z",
+  "generatedAt": "2026-09-03T03:41:51.282Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-02T16:15:38Z"
+        "pushedAt": "2026-09-02T20:47:03Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Mobile draft plan review surface (#588 Phase 1) (#802)",
-        "url": "https://github.com/astondg/trip-planner/commit/99fc40872bf15bb10c92256038299a1893c28ce0",
-        "at": "2026-09-02T10:33:56Z"
+        "message": "Waypoints Phase 3: directions handoff (Google multi-stop + platform default single-leg) (#807)",
+        "url": "https://github.com/astondg/trip-planner/commit/cf51a0288271823767ed1464ccc9400637f0b64b",
+        "at": "2026-09-03T02:53:51Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(auth): add Apple and Facebook sign-in alongside Google and GitHub (#801)",
-        "url": "https://github.com/astondg/trip-planner/commit/8b7277fef21536187c1af5246b2e7cc786b1220c",
-        "at": "2026-09-02T06:06:32Z"
+        "message": "Fix stale linked waypoints on coord clear + live-label dedup collision (#806)",
+        "url": "https://github.com/astondg/trip-planner/commit/2f49b0da96bd88fd1726c693389ecee7dbf37c69",
+        "at": "2026-09-02T23:31:35Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Mobile Now tab: contextual intelligence slot (leave-by + proximity) (#799)",
-        "url": "https://github.com/astondg/trip-planner/commit/1dd0fd9d4faccac4a920f65e74d4111dd860db4f",
-        "at": "2026-09-02T05:12:44Z"
+        "message": "feat(transport): link a waypoint stop to an existing itinerary item (#617) (#803)",
+        "url": "https://github.com/astondg/trip-planner/commit/600d555828be6e83e5e51be1de1add5658c1a2e4",
+        "at": "2026-09-02T21:03:57Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-02T20:47:01.922Z"
+      "checkedAt": "2026-09-03T03:41:50.695Z"
     },
     {
       "name": "JotCal",
