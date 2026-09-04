@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:54:31.520Z",
+  "generatedAt": "2026-09-04T16:00:49.811Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-04T03:43:26Z"
+        "pushedAt": "2026-09-04T10:54:32Z"
       },
       {
         "name": "aitrips-mcp",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "#104: receipt chip Edit opens EventDetailDialog, not the quick-edit overlay",
+        "url": "https://github.com/astondg/home-dashboard/commit/8193aeda70187e722d5ac9eb983c0b2661bb68f0",
+        "at": "2026-09-04T11:02:43Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "D-134 amendment: Clock Day and Week Pulse get the tab-bar edge fix",
+        "url": "https://github.com/astondg/apple-grove/commit/719db90e37a2b74ab236af7dd57d4467ce500a15",
+        "at": "2026-09-04T10:53:46Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "A209: external change awareness - on-the-day marker + toolbar badge + jump list",
+        "url": "https://github.com/astondg/home-dashboard/commit/d981773839ebc8d55bba712ff02ac4aa28bcd7af",
+        "at": "2026-09-04T07:58:55Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "A209: external change awareness - on-the-day marker + toolbar badge + jump list",
+        "url": "https://github.com/astondg/apple-grove/commit/bdd75a0a91ff2fc95a70f040f0036a0baf0f59a5",
+        "at": "2026-09-04T07:58:30Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "Fix all ESLint warnings and errors (#812)",
@@ -91,34 +119,6 @@
         "message": "Fix unreadable mode labels in the disclosed transport picker panel (#815)",
         "url": "https://github.com/astondg/trip-planner/commit/52113f0dd4c7979940ad7efb8f27f660ea29473a",
         "at": "2026-09-04T04:52:55Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Transport mode picker: collapse to routed modes, disclose the rest (#811)",
-        "url": "https://github.com/astondg/trip-planner/commit/3a001b9df9bad63eb4c29c574b651acedb418346",
-        "at": "2026-09-04T04:39:07Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "jotcal#49: render trimmed 1.3.0 changelog from canon",
-        "url": "https://github.com/astondg/home-dashboard/commit/935242e8fbdadb1e29aa18db18377bc9c6a8e1c8",
-        "at": "2026-09-03T08:19:49Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal#49: render trimmed release notes + reallocated keywords from canon",
-        "url": "https://github.com/astondg/apple-grove/commit/bfed2d036e912d4682190397186c3ef0d1835559",
-        "at": "2026-09-03T08:19:47Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "jotcal#49: fold Unreleased into the 1.3.0 section, redated to today",
-        "url": "https://github.com/astondg/apple-grove/commit/42d991220900fc9a650683e3365adf24d38810a3",
-        "at": "2026-09-03T06:10:19Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-04T10:54:31.519Z"
+      "checkedAt": "2026-09-04T16:00:49.682Z"
     },
     {
       "name": "JotCal",
