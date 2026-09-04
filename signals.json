@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:43:24.847Z",
+  "generatedAt": "2026-09-04T10:54:31.520Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-03T20:44:18Z"
+        "pushedAt": "2026-09-04T03:43:26Z"
       },
       {
         "name": "aitrips-mcp",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Fix all ESLint warnings and errors (#812)",
+        "url": "https://github.com/astondg/trip-planner/commit/dcfcb1aa584ce5873566db41ab546c56410d3cff",
+        "at": "2026-09-04T06:37:22Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Fix unreadable mode labels in the disclosed transport picker panel (#815)",
+        "url": "https://github.com/astondg/trip-planner/commit/52113f0dd4c7979940ad7efb8f27f660ea29473a",
+        "at": "2026-09-04T04:52:55Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Transport mode picker: collapse to routed modes, disclose the rest (#811)",
+        "url": "https://github.com/astondg/trip-planner/commit/3a001b9df9bad63eb4c29c574b651acedb418346",
+        "at": "2026-09-04T04:39:07Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "jotcal#49: render trimmed 1.3.0 changelog from canon",
@@ -98,27 +119,6 @@
         "message": "jotcal#49: fold Unreleased into the 1.3.0 section, redated to today",
         "url": "https://github.com/astondg/apple-grove/commit/42d991220900fc9a650683e3365adf24d38810a3",
         "at": "2026-09-03T06:10:19Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "jotcal#49: update 3 stale instrumentation assertions to match already-shipped design changes",
-        "url": "https://github.com/astondg/home-dashboard/commit/7bba52108bb5a1df781289daff097d04a2e4d021",
-        "at": "2026-09-03T06:01:29Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "jotcal#49: fix release-gate lint errors — NonObservableLocale + 11 missing widget_* translations",
-        "url": "https://github.com/astondg/home-dashboard/commit/cbd439a3284e534043b48124a0edfcadc605a99f",
-        "at": "2026-09-03T06:01:16Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Fix Now tab leave-by/proximity directions hardcoding transportMode: \"car\" (#808) (#809)",
-        "url": "https://github.com/astondg/trip-planner/commit/e97951c6cda005b143290072d57e32bb1df91876",
-        "at": "2026-09-03T03:59:09Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-04T03:43:24.641Z"
+      "checkedAt": "2026-09-04T10:54:31.519Z"
     },
     {
       "name": "JotCal",
