@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T03:42:54.263Z",
+  "generatedAt": "2026-09-05T10:14:56.809Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-04T20:31:13Z"
+        "pushedAt": "2026-09-05T03:42:55Z"
       },
       {
         "name": "aitrips-mcp",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Fix silent waypoint drop in transport routing (#813) (#816)",
+        "url": "https://github.com/astondg/trip-planner/commit/044aec515c44b1c55dffddd62b6d745cc63ac4a4",
+        "at": "2026-09-05T04:26:50Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "#104: receipt chip Edit opens EventDetailDialog, not the quick-edit overlay",
@@ -112,13 +119,6 @@
         "message": "Fix all ESLint warnings and errors (#812)",
         "url": "https://github.com/astondg/trip-planner/commit/dcfcb1aa584ce5873566db41ab546c56410d3cff",
         "at": "2026-09-04T06:37:22Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Fix unreadable mode labels in the disclosed transport picker panel (#815)",
-        "url": "https://github.com/astondg/trip-planner/commit/52113f0dd4c7979940ad7efb8f27f660ea29473a",
-        "at": "2026-09-04T04:52:55Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-05T03:42:53.622Z"
+      "checkedAt": "2026-09-05T10:14:56.809Z"
     },
     {
       "name": "JotCal",
