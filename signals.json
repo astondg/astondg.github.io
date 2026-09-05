@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:14:56.809Z",
+  "generatedAt": "2026-09-05T14:51:33.977Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-05T03:42:55Z"
+        "pushedAt": "2026-09-05T10:14:57Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "Fix free-tier trip cap race with a per-user advisory lock (#819)",
+        "url": "https://github.com/astondg/trip-planner/commit/c9b916e0f6da80a9a1289e5de26958144787a276",
+        "at": "2026-09-05T10:41:54Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "Fix silent waypoint drop in transport routing (#813) (#816)",
         "url": "https://github.com/astondg/trip-planner/commit/044aec515c44b1c55dffddd62b6d745cc63ac4a4",
         "at": "2026-09-05T04:26:50Z"
@@ -112,13 +119,6 @@
         "message": "A209: external change awareness - on-the-day marker + toolbar badge + jump list",
         "url": "https://github.com/astondg/apple-grove/commit/bdd75a0a91ff2fc95a70f040f0036a0baf0f59a5",
         "at": "2026-09-04T07:58:30Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Fix all ESLint warnings and errors (#812)",
-        "url": "https://github.com/astondg/trip-planner/commit/dcfcb1aa584ce5873566db41ab546c56410d3cff",
-        "at": "2026-09-04T06:37:22Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-05T10:14:56.809Z"
+      "checkedAt": "2026-09-05T14:51:33.977Z"
     },
     {
       "name": "JotCal",
