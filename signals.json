@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T03:44:38.201Z",
+  "generatedAt": "2026-09-07T11:59:40.514Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-06T20:11:43Z"
+        "pushedAt": "2026-09-07T03:44:39Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "Idea boards: data model + generic add-idea inbox (#823) (#827)",
+        "url": "https://github.com/astondg/trip-planner/commit/6e31eda2f9b3df4e04964bd03614759d2dc5b357",
+        "at": "2026-09-07T08:25:56Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "Close the trip-limit gate bypass in the curated-itinerary generator (#820)",
         "url": "https://github.com/astondg/trip-planner/commit/f898b7de7a50d7cf0918a919311fce9631d19f7a",
         "at": "2026-09-07T01:44:23Z"
@@ -91,13 +98,6 @@
         "message": "Fix free-tier trip cap race with a per-user advisory lock (#819)",
         "url": "https://github.com/astondg/trip-planner/commit/c9b916e0f6da80a9a1289e5de26958144787a276",
         "at": "2026-09-05T10:41:54Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Fix silent waypoint drop in transport routing (#813) (#816)",
-        "url": "https://github.com/astondg/trip-planner/commit/044aec515c44b1c55dffddd62b6d745cc63ac4a4",
-        "at": "2026-09-05T04:26:50Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-07T03:44:38.201Z"
+      "checkedAt": "2026-09-07T11:59:40.514Z"
     },
     {
       "name": "JotCal",
