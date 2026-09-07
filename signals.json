@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:11:42.544Z",
+  "generatedAt": "2026-09-07T03:44:38.201Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-06T15:11:43Z"
+        "pushedAt": "2026-09-06T20:11:43Z"
       },
       {
         "name": "aitrips-mcp",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "Close the trip-limit gate bypass in the curated-itinerary generator (#820)",
+        "url": "https://github.com/astondg/trip-planner/commit/f898b7de7a50d7cf0918a919311fce9631d19f7a",
+        "at": "2026-09-07T01:44:23Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "Fix free-tier trip cap race with a per-user advisory lock (#819)",
         "url": "https://github.com/astondg/trip-planner/commit/c9b916e0f6da80a9a1289e5de26958144787a276",
         "at": "2026-09-05T10:41:54Z"
@@ -112,13 +119,6 @@
         "message": "A209: external change awareness - on-the-day marker + toolbar badge + jump list",
         "url": "https://github.com/astondg/home-dashboard/commit/d981773839ebc8d55bba712ff02ac4aa28bcd7af",
         "at": "2026-09-04T07:58:55Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "A209: external change awareness - on-the-day marker + toolbar badge + jump list",
-        "url": "https://github.com/astondg/apple-grove/commit/bdd75a0a91ff2fc95a70f040f0036a0baf0f59a5",
-        "at": "2026-09-04T07:58:30Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-06T20:11:41.732Z"
+      "checkedAt": "2026-09-07T03:44:38.201Z"
     },
     {
       "name": "JotCal",
