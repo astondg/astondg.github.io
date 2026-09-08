@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-09-08T10:54:46.387Z",
+  "generatedAt": "2026-09-08T16:19:05.334Z",
   "version": 1,
   "github": {
     "user": "astondg",
     "repos": [
+      {
+        "name": "next-departure",
+        "full": "astondg/next-departure",
+        "url": "https://github.com/astondg/next-departure",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushedAt": "2026-09-08T12:07:20Z"
+      },
       {
         "name": "astondg.github.io",
         "full": "astondg/astondg.github.io",
@@ -11,7 +20,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-08T03:49:17Z"
+        "pushedAt": "2026-09-08T10:54:47Z"
       },
       {
         "name": "mcp-tools",
@@ -30,15 +39,6 @@
         "language": null,
         "stars": 0,
         "pushedAt": "2026-08-26T03:18:05Z"
-      },
-      {
-        "name": "next-departure",
-        "full": "astondg/next-departure",
-        "url": "https://github.com/astondg/next-departure",
-        "description": "",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushedAt": "2026-03-22T11:43:12Z"
       },
       {
         "name": "ofx-fe-test",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/next-departure",
+        "label": "Next Departure",
+        "message": "Fix node not found under launchd (nvm setup lives in .zshrc, not sourced by bash -lc)",
+        "url": "https://github.com/astondg/next-departure/commit/bbf1482ce2714cede34541113824b842b9d856ab",
+        "at": "2026-09-08T12:07:19Z"
+      },
+      {
+        "repo": "astondg/next-departure",
+        "label": "Next Departure",
+        "message": "Check reachability before checking sudo in bootstrap-launchd.sh",
+        "url": "https://github.com/astondg/next-departure/commit/7219c33136f89334f1c89e83a2d1a4cebeebab85",
+        "at": "2026-09-08T11:56:01Z"
+      },
+      {
+        "repo": "astondg/next-departure",
+        "label": "Next Departure",
+        "message": "Add LaunchDaemon deployment, independent of GUI login",
+        "url": "https://github.com/astondg/next-departure/commit/12e1d284db940127b5cdfde520b697a8630e05dd",
+        "at": "2026-09-08T11:51:05Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "Idea boards: data model + generic add-idea inbox (#823) (#827)",
@@ -98,27 +119,6 @@
         "message": "Fix free-tier trip cap race with a per-user advisory lock (#819)",
         "url": "https://github.com/astondg/trip-planner/commit/c9b916e0f6da80a9a1289e5de26958144787a276",
         "at": "2026-09-05T10:41:54Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "#104: receipt chip Edit opens EventDetailDialog, not the quick-edit overlay",
-        "url": "https://github.com/astondg/home-dashboard/commit/8193aeda70187e722d5ac9eb983c0b2661bb68f0",
-        "at": "2026-09-04T11:02:43Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "D-134 amendment: Clock Day and Week Pulse get the tab-bar edge fix",
-        "url": "https://github.com/astondg/apple-grove/commit/719db90e37a2b74ab236af7dd57d4467ce500a15",
-        "at": "2026-09-04T10:53:46Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "A209: external change awareness - on-the-day marker + toolbar badge + jump list",
-        "url": "https://github.com/astondg/home-dashboard/commit/d981773839ebc8d55bba712ff02ac4aa28bcd7af",
-        "at": "2026-09-04T07:58:55Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-08T10:54:45.247Z"
+      "checkedAt": "2026-09-08T16:19:05.334Z"
     },
     {
       "name": "JotCal",
