@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-09-09T03:53:48.915Z",
+  "generatedAt": "2026-09-09T10:59:03.337Z",
   "version": 1,
   "github": {
     "user": "astondg",
     "repos": [
+      {
+        "name": "mcp-tools",
+        "full": "astondg/mcp-tools",
+        "url": "https://github.com/astondg/mcp-tools",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushedAt": "2026-09-09T09:51:34Z"
+      },
       {
         "name": "astondg.github.io",
         "full": "astondg/astondg.github.io",
@@ -11,7 +20,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-08T20:54:28Z"
+        "pushedAt": "2026-09-09T03:53:50Z"
       },
       {
         "name": "next-departure",
@@ -21,15 +30,6 @@
         "language": "TypeScript",
         "stars": 0,
         "pushedAt": "2026-09-08T12:07:20Z"
-      },
-      {
-        "name": "mcp-tools",
-        "full": "astondg/mcp-tools",
-        "url": "https://github.com/astondg/mcp-tools",
-        "description": "",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushedAt": "2026-09-07T22:15:50Z"
       },
       {
         "name": "aitrips-mcp",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Idea boards: board/idea management, map view, coarse geocoding (#824) (#830)",
+        "url": "https://github.com/astondg/trip-planner/commit/72f9869dda7ac0f3307e896ff46b21d4c2e81edc",
+        "at": "2026-09-09T10:16:03Z"
+      },
+      {
         "repo": "astondg/next-departure",
         "label": "Next Departure",
         "message": "Fix node not found under launchd (nvm setup lives in .zshrc, not sourced by bash -lc)",
@@ -112,13 +119,6 @@
         "message": "Close the trip-limit gate bypass in the curated-itinerary generator (#820)",
         "url": "https://github.com/astondg/trip-planner/commit/f898b7de7a50d7cf0918a919311fce9631d19f7a",
         "at": "2026-09-07T01:44:23Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Fix free-tier trip cap race with a per-user advisory lock (#819)",
-        "url": "https://github.com/astondg/trip-planner/commit/c9b916e0f6da80a9a1289e5de26958144787a276",
-        "at": "2026-09-05T10:41:54Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-09T03:53:48.914Z"
+      "checkedAt": "2026-09-09T10:59:03.337Z"
     },
     {
       "name": "JotCal",
