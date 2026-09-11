@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:37:35.202Z",
+  "generatedAt": "2026-09-11T03:49:24.394Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,16 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-10T16:05:22Z"
-      },
-      {
-        "name": "mcp-tools",
-        "full": "astondg/mcp-tools",
-        "url": "https://github.com/astondg/mcp-tools",
-        "description": "",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushedAt": "2026-09-10T02:36:08Z"
+        "pushedAt": "2026-09-10T20:37:36Z"
       },
       {
         "name": "next-departure",
@@ -75,6 +66,15 @@
         "language": "C#",
         "stars": 0,
         "pushedAt": "2022-08-31T20:47:03Z"
+      },
+      {
+        "name": "poker-strategy-editor",
+        "full": "astondg/poker-strategy-editor",
+        "url": "https://github.com/astondg/poker-strategy-editor",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushedAt": "2022-04-06T05:57:08Z"
       }
     ],
     "recent": [
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-10T20:37:34.254Z"
+      "checkedAt": "2026-09-11T03:49:24.015Z"
     },
     {
       "name": "JotCal",
