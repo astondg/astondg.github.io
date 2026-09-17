@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:11:46.032Z",
+  "generatedAt": "2026-09-17T11:17:37.802Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-16T21:04:04Z"
+        "pushedAt": "2026-09-17T04:11:47Z"
       },
       {
         "name": "next-departure",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: board/idea management, map view, coarse geocoding (#824) (#830)",
-        "url": "https://github.com/astondg/trip-planner/commit/72f9869dda7ac0f3307e896ff46b21d4c2e81edc",
-        "at": "2026-09-09T10:16:03Z"
-      },
-      {
-        "repo": "astondg/next-departure",
-        "label": "Next Departure",
-        "message": "Fix node not found under launchd (nvm setup lives in .zshrc, not sourced by bash -lc)",
-        "url": "https://github.com/astondg/next-departure/commit/bbf1482ce2714cede34541113824b842b9d856ab",
-        "at": "2026-09-08T12:07:19Z"
-      },
-      {
-        "repo": "astondg/next-departure",
-        "label": "Next Departure",
-        "message": "Check reachability before checking sudo in bootstrap-launchd.sh",
-        "url": "https://github.com/astondg/next-departure/commit/7219c33136f89334f1c89e83a2d1a4cebeebab85",
-        "at": "2026-09-08T11:56:01Z"
-      },
-      {
-        "repo": "astondg/next-departure",
-        "label": "Next Departure",
-        "message": "Add LaunchDaemon deployment, independent of GUI login",
-        "url": "https://github.com/astondg/next-departure/commit/12e1d284db940127b5cdfde520b697a8630e05dd",
-        "at": "2026-09-08T11:51:05Z"
+        "message": "Contact-sheet PDF paper-size preference (#833)",
+        "url": "https://github.com/astondg/trip-planner/commit/b79fc80ca23ddab20d12d722b2114dbacdcf0f9f",
+        "at": "2026-09-17T10:51:38Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: data model + generic add-idea inbox (#823) (#827)",
-        "url": "https://github.com/astondg/trip-planner/commit/6e31eda2f9b3df4e04964bd03614759d2dc5b357",
-        "at": "2026-09-07T08:25:56Z"
+        "message": "feat(trips): media picker and gallery on item detail (#336) (#483)",
+        "url": "https://github.com/astondg/trip-planner/commit/11760b9727a67cf64424a1e0ac2034da8cdfae23",
+        "at": "2026-09-17T06:39:05Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Close the trip-limit gate bypass in the curated-itinerary generator (#820)",
-        "url": "https://github.com/astondg/trip-planner/commit/f898b7de7a50d7cf0918a919311fce9631d19f7a",
-        "at": "2026-09-07T01:44:23Z"
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "run-all.sh: add the orphaned 21-churn-reason-prompt flow",
+        "url": "https://github.com/astondg/apple-grove/commit/a961d04120e00a4d51b56d315092ea8388acb1ee",
+        "at": "2026-09-17T05:56:08Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Fix two Maestro flows asserting on content below the fold",
+        "url": "https://github.com/astondg/home-dashboard/commit/db187602b8a4af558c5b43b959b92cb05b5e2ab0",
+        "at": "2026-09-17T05:56:00Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Fix TINY/TINY_WIDE widget clipping, and the host-ID race hiding it",
+        "url": "https://github.com/astondg/home-dashboard/commit/75867ca005d50868eaaa0409d117104da0bd683e",
+        "at": "2026-09-17T05:55:53Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Translate the remove-invitee strings, all 9 locales",
+        "url": "https://github.com/astondg/home-dashboard/commit/ce26f13df8ba3e03ffedb272fc867e582a43b6fa",
+        "at": "2026-09-17T05:55:44Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-17T04:11:46.032Z"
+      "checkedAt": "2026-09-17T11:17:36.881Z"
     },
     {
       "name": "JotCal",
