@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:51:08.386Z",
+  "generatedAt": "2026-09-18T16:05:58.363Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-18T03:56:39Z"
+        "pushedAt": "2026-09-18T10:51:09Z"
       },
       {
         "name": "next-departure",
@@ -81,16 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Contact-sheet PDF paper-size preference (#833)",
-        "url": "https://github.com/astondg/trip-planner/commit/b79fc80ca23ddab20d12d722b2114dbacdcf0f9f",
-        "at": "2026-09-17T10:51:38Z"
+        "message": "Idea boards: capture channels — Android share-target, iOS Shortcuts, Pinterest import (#825) (#835)",
+        "url": "https://github.com/astondg/trip-planner/commit/3dab85e2a257ec002495fd8595ed5de5761f81f4",
+        "at": "2026-09-18T12:22:36Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trips): media picker and gallery on item detail (#336) (#483)",
-        "url": "https://github.com/astondg/trip-planner/commit/11760b9727a67cf64424a1e0ac2034da8cdfae23",
-        "at": "2026-09-17T06:39:05Z"
+        "message": "Update MCP directory submission status (18 Sept re-check)",
+        "url": "https://github.com/astondg/trip-planner/commit/23c31f9b55097a523955ba199b493ebb1d179a6e",
+        "at": "2026-09-18T11:53:57Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Idea boards: MCP tool parity with trips (#828) (#834)",
+        "url": "https://github.com/astondg/trip-planner/commit/eec97b66e5749822da9aa8eeb1d649cc419682dc",
+        "at": "2026-09-18T11:17:37Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -112,13 +119,6 @@
         "message": "Fix TINY/TINY_WIDE widget clipping, and the host-ID race hiding it",
         "url": "https://github.com/astondg/home-dashboard/commit/75867ca005d50868eaaa0409d117104da0bd683e",
         "at": "2026-09-17T05:55:53Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Translate the remove-invitee strings, all 9 locales",
-        "url": "https://github.com/astondg/home-dashboard/commit/ce26f13df8ba3e03ffedb272fc867e582a43b6fa",
-        "at": "2026-09-17T05:55:44Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-18T10:51:07.269Z"
+      "checkedAt": "2026-09-18T16:05:57.983Z"
     },
     {
       "name": "JotCal",
