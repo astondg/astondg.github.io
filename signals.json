@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:34:55.655Z",
+  "generatedAt": "2026-09-19T15:39:08.013Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-19T03:54:02Z"
+        "pushedAt": "2026-09-19T10:34:56Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "Idea boards: convert directly to committed items, no draft staging (#845) (#857)",
+        "url": "https://github.com/astondg/trip-planner/commit/46f35880133456344245e09ddae25c3892137109",
+        "at": "2026-09-19T12:39:32Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "patch_items: gate BOOKED items and linked TRANSPORT connectors (#856)",
         "url": "https://github.com/astondg/trip-planner/commit/b60e6929992762ae4b17fc53662c2c1045958845",
         "at": "2026-09-19T08:28:46Z"
@@ -91,13 +98,6 @@
         "message": "Fix same-turn patch_items narration contaminating the draft-removal guard (#854)",
         "url": "https://github.com/astondg/trip-planner/commit/2f023366dda94ad7f7ad7683a9c86a6dc512dc9b",
         "at": "2026-09-19T04:27:33Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Idea board map: replace coastline texture with a graticule (#842) (#855)",
-        "url": "https://github.com/astondg/trip-planner/commit/03e1dbbe757821873c1555d571f7ecd95819be60",
-        "at": "2026-09-19T04:17:34Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-19T10:34:54.758Z"
+      "checkedAt": "2026-09-19T15:39:07.450Z"
     },
     {
       "name": "JotCal",
