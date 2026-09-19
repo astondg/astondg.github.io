@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:39:09.106Z",
+  "generatedAt": "2026-09-19T03:54:01.445Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-18T16:05:59Z"
+        "pushedAt": "2026-09-18T20:39:10Z"
       },
       {
         "name": "next-departure",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: capture channels — Android share-target, iOS Shortcuts, Pinterest import (#825) (#835)",
-        "url": "https://github.com/astondg/trip-planner/commit/3dab85e2a257ec002495fd8595ed5de5761f81f4",
-        "at": "2026-09-18T12:22:36Z"
+        "message": "Idea boards: surface AI-off state and manual re-enrichment (#841) (#853)",
+        "url": "https://github.com/astondg/trip-planner/commit/ff0a4cfc3e4389d0bbe7759aef9e2665d3da9734",
+        "at": "2026-09-19T03:36:48Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Update MCP directory submission status (18 Sept re-check)",
-        "url": "https://github.com/astondg/trip-planner/commit/23c31f9b55097a523955ba199b493ebb1d179a6e",
-        "at": "2026-09-18T11:53:57Z"
+        "message": "Add patch_items tool so Quick Assist can reschedule committed items (#849) (#852)",
+        "url": "https://github.com/astondg/trip-planner/commit/0821f07732859e1c43994cd57576ff02f32242d1",
+        "at": "2026-09-19T02:50:11Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: MCP tool parity with trips (#828) (#834)",
-        "url": "https://github.com/astondg/trip-planner/commit/eec97b66e5749822da9aa8eeb1d649cc419682dc",
-        "at": "2026-09-18T11:17:37Z"
+        "message": "Idea boards: convert selected ideas into a trip draft (#839)",
+        "url": "https://github.com/astondg/trip-planner/commit/c219d892c3b9e3ddcea26e04f103c6c4055bbc34",
+        "at": "2026-09-18T23:32:16Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Translate churn_reason_send/email_instead and redeem_code, all 9 locales",
+        "url": "https://github.com/astondg/home-dashboard/commit/cd0d07d2dbf05c251c8be244800c362fcca34ac7",
+        "at": "2026-09-18T23:04:13Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Churn-reason prompt → explicit Send POST, plus a paywall \"Redeem code\" link",
+        "url": "https://github.com/astondg/home-dashboard/commit/1282ff73c56f0b2a94629964ffcd425fd90c4b7f",
+        "at": "2026-09-18T22:49:56Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "run-all.sh: add the orphaned 21-churn-reason-prompt flow",
-        "url": "https://github.com/astondg/apple-grove/commit/a961d04120e00a4d51b56d315092ea8388acb1ee",
-        "at": "2026-09-17T05:56:08Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Fix two Maestro flows asserting on content below the fold",
-        "url": "https://github.com/astondg/home-dashboard/commit/db187602b8a4af558c5b43b959b92cb05b5e2ab0",
-        "at": "2026-09-17T05:56:00Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Fix TINY/TINY_WIDE widget clipping, and the host-ID race hiding it",
-        "url": "https://github.com/astondg/home-dashboard/commit/75867ca005d50868eaaa0409d117104da0bd683e",
-        "at": "2026-09-17T05:55:53Z"
+        "message": "Churn-reason prompt: stage a reason, then explicit Send POSTs to the worker",
+        "url": "https://github.com/astondg/apple-grove/commit/a08ea621b103aa9a86ad202894fff995edea5820",
+        "at": "2026-09-18T22:49:38Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-18T20:39:07.660Z"
+      "checkedAt": "2026-09-19T03:54:00.701Z"
     },
     {
       "name": "JotCal",
