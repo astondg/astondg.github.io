@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:54:01.445Z",
+  "generatedAt": "2026-09-19T10:34:55.655Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-18T20:39:10Z"
+        "pushedAt": "2026-09-19T03:54:02Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: surface AI-off state and manual re-enrichment (#841) (#853)",
-        "url": "https://github.com/astondg/trip-planner/commit/ff0a4cfc3e4389d0bbe7759aef9e2665d3da9734",
-        "at": "2026-09-19T03:36:48Z"
+        "message": "patch_items: gate BOOKED items and linked TRANSPORT connectors (#856)",
+        "url": "https://github.com/astondg/trip-planner/commit/b60e6929992762ae4b17fc53662c2c1045958845",
+        "at": "2026-09-19T08:28:46Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Add patch_items tool so Quick Assist can reschedule committed items (#849) (#852)",
-        "url": "https://github.com/astondg/trip-planner/commit/0821f07732859e1c43994cd57576ff02f32242d1",
-        "at": "2026-09-19T02:50:11Z"
+        "message": "Fix same-turn patch_items narration contaminating the draft-removal guard (#854)",
+        "url": "https://github.com/astondg/trip-planner/commit/2f023366dda94ad7f7ad7683a9c86a6dc512dc9b",
+        "at": "2026-09-19T04:27:33Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: convert selected ideas into a trip draft (#839)",
-        "url": "https://github.com/astondg/trip-planner/commit/c219d892c3b9e3ddcea26e04f103c6c4055bbc34",
-        "at": "2026-09-18T23:32:16Z"
+        "message": "Idea board map: replace coastline texture with a graticule (#842) (#855)",
+        "url": "https://github.com/astondg/trip-planner/commit/03e1dbbe757821873c1555d571f7ecd95819be60",
+        "at": "2026-09-19T04:17:34Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-19T03:54:00.701Z"
+      "checkedAt": "2026-09-19T10:34:54.758Z"
     },
     {
       "name": "JotCal",
