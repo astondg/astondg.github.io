@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:17:38.717Z",
+  "generatedAt": "2026-09-20T04:11:04.258Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-19T15:39:09Z"
+        "pushedAt": "2026-09-19T20:17:39Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea boards: convert directly to committed items, no draft staging (#845) (#857)",
-        "url": "https://github.com/astondg/trip-planner/commit/46f35880133456344245e09ddae25c3892137109",
-        "at": "2026-09-19T12:39:32Z"
+        "message": "Default convert-to-trip name to the selected ideas' place, not the board label (#864)",
+        "url": "https://github.com/astondg/trip-planner/commit/4318492a8d404e70ff4fea38be34f6a940de0b71",
+        "at": "2026-09-20T03:38:48Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "patch_items: gate BOOKED items and linked TRANSPORT connectors (#856)",
-        "url": "https://github.com/astondg/trip-planner/commit/b60e6929992762ae4b17fc53662c2c1045958845",
-        "at": "2026-09-19T08:28:46Z"
+        "message": "Brand AuthenticatedUserId to guard the *ForUser trust boundary (#859)",
+        "url": "https://github.com/astondg/trip-planner/commit/2658acdf72cd52480278eaac277f0f9e3bac8202",
+        "at": "2026-09-20T00:28:33Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Fix same-turn patch_items narration contaminating the draft-removal guard (#854)",
-        "url": "https://github.com/astondg/trip-planner/commit/2f023366dda94ad7f7ad7683a9c86a6dc512dc9b",
-        "at": "2026-09-19T04:27:33Z"
+        "message": "Quick Assist: offer to organize unscheduled items, confirm no false dates claim (#843, #844) (#862)",
+        "url": "https://github.com/astondg/trip-planner/commit/7286a6abc74b668d141d1ca63174730baae97cb3",
+        "at": "2026-09-20T00:28:18Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-19T20:17:38.716Z"
+      "checkedAt": "2026-09-20T04:11:04.257Z"
     },
     {
       "name": "JotCal",
