@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:32:35.881Z",
+  "generatedAt": "2026-09-21T04:08:27.561Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-20T15:43:51Z"
+        "pushedAt": "2026-09-20T20:32:36Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Fix TripCloneDialog form not resetting on reopen (#865) (#872)",
-        "url": "https://github.com/astondg/trip-planner/commit/3635e878a1456609f2c1aec3087c906f100883f4",
-        "at": "2026-09-20T10:18:06Z"
+        "message": "Real geography rendering for the idea board map (#883)",
+        "url": "https://github.com/astondg/trip-planner/commit/97be69282db54d8f91f6a629444f32afc2cf31e4",
+        "at": "2026-09-21T03:54:23Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Health check: query a real table, not a bare SELECT 1 (#871)",
-        "url": "https://github.com/astondg/trip-planner/commit/d1db4d01733d5e22c1e002af3bca665e78ed4e1d",
-        "at": "2026-09-20T09:54:45Z"
+        "message": "Stop coarse-graining idea location geocodes (#875)",
+        "url": "https://github.com/astondg/trip-planner/commit/bb82681f4dd248c16ae595583dc53b2d5c5f6f68",
+        "at": "2026-09-21T03:53:56Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Fix text-only ideas capped at \"partial\" enrichment (#867) (#870)",
-        "url": "https://github.com/astondg/trip-planner/commit/106380c477e3d459f6bd6302c3ac5e1267b9bbf9",
-        "at": "2026-09-20T09:40:53Z"
+        "message": "Extend AuthenticatedUserId branding to listTripsForUser (#877)",
+        "url": "https://github.com/astondg/trip-planner/commit/24b95a2bd273f57844993ac778d933cade9d46ec",
+        "at": "2026-09-21T03:53:26Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-20T20:32:35.881Z"
+      "checkedAt": "2026-09-21T04:08:27.561Z"
     },
     {
       "name": "JotCal",
