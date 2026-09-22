@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:49:45.307Z",
+  "generatedAt": "2026-09-22T04:04:57.101Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-21T12:23:18Z"
+        "pushedAt": "2026-09-21T21:49:46Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Bypass Neon's pooler by connecting through DATABASE_URL_UNPOOLED (#892)",
-        "url": "https://github.com/astondg/trip-planner/commit/83679401e6e22709f191248a3d80ed2b5862f80c",
-        "at": "2026-09-21T10:40:25Z"
+        "message": "Idea board: always-visible Start a Trip entry point, image snapshot privacy (#897)",
+        "url": "https://github.com/astondg/trip-planner/commit/13f090d4d14c15a86fcc732a336f968ce19f3c74",
+        "at": "2026-09-22T03:21:21Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Idea board: editorial empty state for zero-idea boards (#886) (#891)",
-        "url": "https://github.com/astondg/trip-planner/commit/9afd2101e4111419137f46486a1abf919689e92b",
-        "at": "2026-09-21T09:05:59Z"
+        "message": "Idea board: free-text notes with optional url and date (#896)",
+        "url": "https://github.com/astondg/trip-planner/commit/4c965252d185f1a23f2842ff96a07af1378fa13b",
+        "at": "2026-09-22T00:44:49Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Raise idea editorial-card fallback ceiling: tag-keyed theme + richer wash (#885) (#890)",
-        "url": "https://github.com/astondg/trip-planner/commit/c6b1d005bd7b0d4edcb23e708de7f969f2e07423",
-        "at": "2026-09-21T06:12:52Z"
+        "message": "Idea board: mobile design pass (#888) (#893)",
+        "url": "https://github.com/astondg/trip-planner/commit/c9f549e6668461e7afa5c4b421f3e092b30b70d5",
+        "at": "2026-09-21T23:14:24Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-21T21:49:43.651Z"
+      "checkedAt": "2026-09-22T04:04:55.967Z"
     },
     {
       "name": "JotCal",
