@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:01:36.835Z",
+  "generatedAt": "2026-09-23T11:05:58.032Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-22T21:02:53Z"
+        "pushedAt": "2026-09-23T04:01:38Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(mcp): register endDate/priority/bookingUrl on live item tool schemas (#901)",
-        "url": "https://github.com/astondg/trip-planner/commit/a436ab94a638c45b792652212c0488832283c463",
-        "at": "2026-09-22T12:46:20Z"
+        "message": "Loosen focus-crop zoom and extend it to the landscape promo cut (#909)",
+        "url": "https://github.com/astondg/trip-planner/commit/f74701c20c29631bea0e44ff279e9aa80127c543",
+        "at": "2026-09-23T10:31:56Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Describe trip-planner to the home-platform builder (#899)",
-        "url": "https://github.com/astondg/trip-planner/commit/c1c83750e5fd099f2a259cfe80bf0147945ab614",
-        "at": "2026-09-22T12:32:34Z"
+        "message": "Focus-crop the weather and collaboration promo scenes (#906)",
+        "url": "https://github.com/astondg/trip-planner/commit/14038a6b6f4b1025e7b679bb4a7e7d2b5525efd7",
+        "at": "2026-09-23T06:49:53Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Add route-reveal animation for trip maps (#900)",
-        "url": "https://github.com/astondg/trip-planner/commit/034f0c2a5e502f182384e10bd024a4d98d5dc745",
-        "at": "2026-09-22T10:56:43Z"
+        "message": "Add marketing video capture pipeline; route-reveal capture mode (#660) (#905)",
+        "url": "https://github.com/astondg/trip-planner/commit/2a2b50b48f445fe1078342d3783890bbface9e6a",
+        "at": "2026-09-23T06:18:42Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-23T04:01:35.867Z"
+      "checkedAt": "2026-09-23T11:05:57.595Z"
     },
     {
       "name": "JotCal",
