@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T21:17:50.945Z",
+  "generatedAt": "2026-09-24T03:56:47.956Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-23T16:27:32Z"
+        "pushedAt": "2026-09-23T21:17:52Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "Three-state glass map markers and a staggered draft-commit morph (#558) (#911)",
+        "url": "https://github.com/astondg/trip-planner/commit/b88c5c0fb1a674f9243c8bbffa3e9fff66ff1ff6",
+        "at": "2026-09-24T00:25:56Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(feedback): in-product abandonment micro-survey (#653) (#910)",
         "url": "https://github.com/astondg/trip-planner/commit/b4895fa97a2c0484d40ba1f644a90c9a1f7d6750",
         "at": "2026-09-23T12:59:28Z"
@@ -91,13 +98,6 @@
         "message": "Loosen focus-crop zoom and extend it to the landscape promo cut (#909)",
         "url": "https://github.com/astondg/trip-planner/commit/f74701c20c29631bea0e44ff279e9aa80127c543",
         "at": "2026-09-23T10:31:56Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Focus-crop the weather and collaboration promo scenes (#906)",
-        "url": "https://github.com/astondg/trip-planner/commit/14038a6b6f4b1025e7b679bb4a7e7d2b5525efd7",
-        "at": "2026-09-23T06:49:53Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-23T21:17:50.945Z"
+      "checkedAt": "2026-09-24T03:56:46.969Z"
     },
     {
       "name": "JotCal",
