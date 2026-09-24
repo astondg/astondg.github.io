@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T03:56:47.956Z",
+  "generatedAt": "2026-09-24T11:23:05.091Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-23T21:17:52Z"
+        "pushedAt": "2026-09-24T03:56:48Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Three-state glass map markers and a staggered draft-commit morph (#558) (#911)",
-        "url": "https://github.com/astondg/trip-planner/commit/b88c5c0fb1a674f9243c8bbffa3e9fff66ff1ff6",
-        "at": "2026-09-24T00:25:56Z"
+        "message": "feat(marketing): add voiceover, music, and a logo outro to the 4 short clips",
+        "url": "https://github.com/astondg/trip-planner/commit/828a0a1c69c2cf33592144bed08e9ac424a892de",
+        "at": "2026-09-24T04:44:36Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(feedback): in-product abandonment micro-survey (#653) (#910)",
-        "url": "https://github.com/astondg/trip-planner/commit/b4895fa97a2c0484d40ba1f644a90c9a1f7d6750",
-        "at": "2026-09-23T12:59:28Z"
+        "message": "fix(marketing): drop the darker-evening overlay layer",
+        "url": "https://github.com/astondg/trip-planner/commit/69ceed2b2cdc2b4cb5ba135373060c03425eeadd",
+        "at": "2026-09-24T01:13:37Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Loosen focus-crop zoom and extend it to the landscape promo cut (#909)",
-        "url": "https://github.com/astondg/trip-planner/commit/f74701c20c29631bea0e44ff279e9aa80127c543",
-        "at": "2026-09-23T10:31:56Z"
+        "message": "fix(marketing): tighten travel-mode's darker-evening overlay footprint",
+        "url": "https://github.com/astondg/trip-planner/commit/365c932d5964255ac1ab0a8e1af0e8a54682c839",
+        "at": "2026-09-24T01:06:08Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-24T03:56:46.969Z"
+      "checkedAt": "2026-09-24T11:23:04.242Z"
     },
     {
       "name": "JotCal",
