@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T04:15:51.024Z",
+  "generatedAt": "2026-09-26T11:03:45.807Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-25T21:17:14Z"
+        "pushedAt": "2026-09-26T04:15:52Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(map): compare-search entry point for candidate pins (#918)",
+        "url": "https://github.com/astondg/trip-planner/commit/95ecb5b4d297c82e907771f1178b59480b67f873",
+        "at": "2026-09-26T07:23:11Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(scripts): use real per-day item counts for --from-file budget preflight (#916)",
+        "url": "https://github.com/astondg/trip-planner/commit/4872aa97eb1187fadd3b95fcff95f8ad3468f884",
+        "at": "2026-09-26T05:46:24Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(map): raise contrast on Quick Assist suggestion pins (#915)",
         "url": "https://github.com/astondg/trip-planner/commit/1272b65950adec1e00dfc58caacaad58d703617b",
         "at": "2026-09-26T02:59:22Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(marketing): add voiceover, music, and a logo outro to the 4 short clips",
-        "url": "https://github.com/astondg/trip-planner/commit/828a0a1c69c2cf33592144bed08e9ac424a892de",
-        "at": "2026-09-24T04:44:36Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(marketing): drop the darker-evening overlay layer",
-        "url": "https://github.com/astondg/trip-planner/commit/69ceed2b2cdc2b4cb5ba135373060c03425eeadd",
-        "at": "2026-09-24T01:13:37Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-26T04:15:50.979Z"
+      "checkedAt": "2026-09-26T11:03:45.807Z"
     },
     {
       "name": "JotCal",
