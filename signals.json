@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:03:45.807Z",
+  "generatedAt": "2026-09-26T16:03:46.372Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-26T04:15:52Z"
+        "pushedAt": "2026-09-26T11:03:46Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(feedback): email submissions to support instead of dropping them (#919)",
+        "url": "https://github.com/astondg/trip-planner/commit/5c358dc32a862cf366ea51797b54df78591afbfc",
+        "at": "2026-09-26T11:18:44Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(map): compare-search entry point for candidate pins (#918)",
         "url": "https://github.com/astondg/trip-planner/commit/95ecb5b4d297c82e907771f1178b59480b67f873",
         "at": "2026-09-26T07:23:11Z"
@@ -91,13 +98,6 @@
         "message": "fix(scripts): use real per-day item counts for --from-file budget preflight (#916)",
         "url": "https://github.com/astondg/trip-planner/commit/4872aa97eb1187fadd3b95fcff95f8ad3468f884",
         "at": "2026-09-26T05:46:24Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(map): raise contrast on Quick Assist suggestion pins (#915)",
-        "url": "https://github.com/astondg/trip-planner/commit/1272b65950adec1e00dfc58caacaad58d703617b",
-        "at": "2026-09-26T02:59:22Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-26T11:03:45.807Z"
+      "checkedAt": "2026-09-26T16:03:46.116Z"
     },
     {
       "name": "JotCal",
