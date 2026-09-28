@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:33:03.232Z",
+  "generatedAt": "2026-09-28T11:00:33.239Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-28T04:21:30Z"
+        "pushedAt": "2026-09-28T11:00:19Z"
       },
       {
         "name": "next-departure",
@@ -81,16 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Refuse to publish an itinerary that still has placeholder copy (#935)",
-        "url": "https://github.com/astondg/trip-planner/commit/5ae3f698dae2d6b4d3886a69dd54372b7ecfa870",
-        "at": "2026-09-28T03:33:16Z"
+        "message": "Pinterest import: privacy policy row and user_accounts:read scope (#938)",
+        "url": "https://github.com/astondg/trip-planner/commit/acddf254f493a4a2b7e44d301bc20a4dac1fa25e",
+        "at": "2026-09-28T09:47:34Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "Compare pages: credit idea boards in the pre-trip copy (#933) (#934)",
-        "url": "https://github.com/astondg/trip-planner/commit/7cdd5c42ffccfc8d778a065247e5e52c5fa799c2",
-        "at": "2026-09-28T03:15:49Z"
+        "message": "Raise the Free tier's daily MCP limit from 20 to 50 (#937)",
+        "url": "https://github.com/astondg/trip-planner/commit/01fdc0c4e576ea2e59c260bf897c2f6531e100b8",
+        "at": "2026-09-28T09:41:07Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Refuse to publish an itinerary that still has placeholder copy (#935)",
+        "url": "https://github.com/astondg/trip-planner/commit/5ae3f698dae2d6b4d3886a69dd54372b7ecfa870",
+        "at": "2026-09-28T03:33:16Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -98,13 +105,6 @@
         "message": "Revert the SolarCalculator UTC default: it moved sun events a day early east of UTC",
         "url": "https://github.com/astondg/apple-grove/commit/2b610c5d21322fa7a7d0f850f2b7c8ec88e9f639",
         "at": "2026-09-28T01:41:05Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Link /itineraries and /compare from the marketing footer (#928)",
-        "url": "https://github.com/astondg/trip-planner/commit/268ca501a40a012e932d227f1ca9252f0856ba36",
-        "at": "2026-09-27T23:39:48Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-28T04:33:02.762Z"
+      "checkedAt": "2026-09-28T11:00:33.192Z"
     },
     {
       "name": "JotCal",
