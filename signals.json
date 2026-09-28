@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:06:27.870Z",
+  "generatedAt": "2026-09-28T04:17:19.524Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-27T16:40:53Z"
+        "pushedAt": "2026-09-28T04:17:05Z"
       },
       {
         "name": "next-departure",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(billing): Polar webhook signatures, 2026-10 payload, pin API to 2026-04 (#927)",
-        "url": "https://github.com/astondg/trip-planner/commit/b73d2ed5d3b75d02a65e0a9919d9a5172f432164",
-        "at": "2026-09-27T20:53:13Z"
+        "message": "Refuse to publish an itinerary that still has placeholder copy (#935)",
+        "url": "https://github.com/astondg/trip-planner/commit/5ae3f698dae2d6b4d3886a69dd54372b7ecfa870",
+        "at": "2026-09-28T03:33:16Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(account): account management cleanup (#920–#924) (#926)",
-        "url": "https://github.com/astondg/trip-planner/commit/8e54730929eb619e66bec98eb38ba462fc69f310",
-        "at": "2026-09-27T09:46:50Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(feedback): email submissions to support instead of dropping them (#919)",
-        "url": "https://github.com/astondg/trip-planner/commit/5c358dc32a862cf366ea51797b54df78591afbfc",
-        "at": "2026-09-26T11:18:44Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Translate churn_reason_send/email_instead and redeem_code, all 9 locales",
-        "url": "https://github.com/astondg/home-dashboard/commit/cd0d07d2dbf05c251c8be244800c362fcca34ac7",
-        "at": "2026-09-18T23:04:13Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Churn-reason prompt → explicit Send POST, plus a paywall \"Redeem code\" link",
-        "url": "https://github.com/astondg/home-dashboard/commit/1282ff73c56f0b2a94629964ffcd425fd90c4b7f",
-        "at": "2026-09-18T22:49:56Z"
+        "message": "Compare pages: credit idea boards in the pre-trip copy (#933) (#934)",
+        "url": "https://github.com/astondg/trip-planner/commit/7cdd5c42ffccfc8d778a065247e5e52c5fa799c2",
+        "at": "2026-09-28T03:15:49Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Churn-reason prompt: stage a reason, then explicit Send POSTs to the worker",
-        "url": "https://github.com/astondg/apple-grove/commit/a08ea621b103aa9a86ad202894fff995edea5820",
-        "at": "2026-09-18T22:49:38Z"
+        "message": "Revert the SolarCalculator UTC default: it moved sun events a day early east of UTC",
+        "url": "https://github.com/astondg/apple-grove/commit/2b610c5d21322fa7a7d0f850f2b7c8ec88e9f639",
+        "at": "2026-09-28T01:41:05Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Link /itineraries and /compare from the marketing footer (#928)",
+        "url": "https://github.com/astondg/trip-planner/commit/268ca501a40a012e932d227f1ca9252f0856ba36",
+        "at": "2026-09-27T23:39:48Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "#55 amendment 2: the pinch's own lift-off no longer taps the new overview",
+        "url": "https://github.com/astondg/apple-grove/commit/c8619319308a7f078de6a6a5a44648317b36f403",
+        "at": "2026-09-27T22:15:46Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "#55 amendment: month->year pinch needs a less careful gesture now",
+        "url": "https://github.com/astondg/apple-grove/commit/5204b68f5ec09261f31cfee3f18f9e7783afc6d3",
+        "at": "2026-09-27T12:11:59Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-27T21:06:27.362Z"
+      "checkedAt": "2026-09-28T04:17:18.829Z"
     },
     {
       "name": "JotCal",
