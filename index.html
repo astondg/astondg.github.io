@@ -602,7 +602,7 @@
       /* SELECTED WORK */
       .work-grid {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         gap: 16px;
       }
       @media (max-width: 820px) {
@@ -1323,6 +1323,16 @@
                 works out the likely root cause and severity.
               </p>
               <div class="res">→ Routed to Jira, Slack or PagerDuty</div>
+            </div>
+            <div class="work reveal">
+              <div class="co">Own products</div>
+              <h3>Issue-to-PR Agent Pipeline</h3>
+              <p>
+                A labelled GitHub issue is planned, built and tested by Claude
+                agents in isolated containers, then checked by a review panel
+                before a PR opens. The agents never hold write access.
+              </p>
+              <div class="res">→ Opening PRs on my own products</div>
             </div>
           </div>
         </div>
