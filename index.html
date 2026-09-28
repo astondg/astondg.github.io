@@ -956,17 +956,18 @@
               <h3>Making AI stick in a team</h3>
               <p>
                 Embedding AI-assisted development into how an engineering team
-                already works - agents, MCP servers against internal systems,
-                review and CI practice - so the gains belong to the team rather
-                than one enthusiast.
+                already works - shared Claude Code skills and agents, MCP servers
+                for the tools people already use, and LLM triage on production
+                errors - so the gains belong to the whole team, not one
+                enthusiast.
               </p>
             </div>
             <div class="work reveal">
               <div class="co">Deciding</div>
               <h3>Architecture &amp; trade-offs</h3>
               <p>
-                Build-vs-buy, model and vendor choice, and which initiatives are
-                worth funding. Most of it comes down to knowing what breaks at
+                Build-vs-buy, model and vendor choice, and where the effort is
+                worth spending. Most of it comes down to knowing what breaks at
                 scale and what quietly costs a fortune.
               </p>
             </div>
@@ -982,8 +983,8 @@
             <h2>Products I design, build and ship</h2>
             <p>
               I own these end to end - architecture, delivery, and the
-              maintenance afterwards. Most are AI-native by default, with MCP
-              and LLM integration baked in rather than bolted on.
+              maintenance afterwards. Most are AI-native, with MCP and LLM
+              integration designed in from the start.
             </p>
           </div>
           <div class="products">
@@ -1201,17 +1202,21 @@
               </div>
               <div class="co">Urban Rest</div>
               <p>
-                Corporate accommodation platform serving enterprise clients,
-                operating furnished apartments in Australia and internationally.
+                Accommodation platform with furnished apartments across
+                Australia, New Zealand and the UK, serving corporate clients like
+                KPMG and Deloitte as well as holiday travellers.
                 Architected and grew a Lambda-based Guesty/Salesforce
                 integration into a full platform with its own data store and API
                 layer. I own architecture across three repos - backend monorepo,
                 Next.js web app, and React Native mobile - on AWS CDK v2 (ECS
-                Fargate, RDS/PostgreSQL, SQS/SNS, GitHub Actions CI/CD).
-                Building a real-time data platform, Tableau BI, a smart-lock
-                system, native iOS & Android apps and a guest kiosk, while
-                running SCRUM end to end and embedding AI-assisted workflows
-                (Claude Code, custom agents, skills and MCP) across the team.
+                Fargate, RDS/PostgreSQL, SQS/SNS, GitHub Actions CI/CD). Built an
+                LLM triage pipeline for production errors and an admin dashboard
+                for workflows nobody could previously see into. Now building a
+                real-time data platform, Tableau BI, a smart-lock
+                system and native iOS & Android apps. Rolled out a guest check-in
+                kiosk running in a hotel lobby, and run SCRUM end to end while
+                embedding AI-assisted workflows (Claude Code, custom agents,
+                skills and MCP) across the team.
               </p>
               <div class="tags">
                 <span class="tag">AWS CDK v2</span
@@ -1225,7 +1230,7 @@
             <div class="job reveal">
               <div class="jtop">
                 <h3>ReactJS Subject Matter Expert</h3>
-                <span class="when">Jul 2021 - Jul 2025</span>
+                <span class="when">Jul 2021 - Jun 2025</span>
               </div>
               <div class="co">Oneview Healthcare · Healthcare Tech</div>
               <p>
@@ -1233,12 +1238,14 @@
                 platform serving hospitals worldwide. Architected microfrontend
                 systems that let teams scale and deploy independently, and drove
                 performance work keeping critical clinical workflows sub-second.
+                Ran the accessibility community of practice and wrote coding
+                standards adopted across teams.
               </p>
               <div class="tags">
                 <span class="tag">React Architecture</span
                 ><span class="tag">Microfrontends</span
-                ><span class="tag">99.9% Uptime</span
-                ><span class="tag">Global Teams</span>
+                ><span class="tag">Accessibility</span
+                ><span class="tag">Coding Standards</span>
               </div>
             </div>
 
@@ -1251,13 +1258,13 @@
               <p>
                 Led UX transformation of a mission-critical payment platform
                 serving Commonwealth Bank, Mastercard and JB Hi-Fi. Established
-                React architecture patterns and standards for enterprise payment
-                processing that demanded exceptional reliability.
+                React architecture patterns and development standards for the
+                payment platform's frontend.
               </p>
               <div class="tags">
                 <span class="tag">Tier-1 Clients</span
-                ><span class="tag">Payment Processing</span
-                ><span class="tag">Enterprise Scale</span>
+                ><span class="tag">Payments UI</span
+                ><span class="tag">React Standards</span>
               </div>
             </div>
 
@@ -1269,9 +1276,9 @@
               <div class="co">Cohort Go · EdTech</div>
               <p>
                 Led the technical team delivering multi-currency payment
-                services for international education. Partnered with the CTO on
-                payment-system architecture and managed distributed teams across
-                time zones with Agile practice.
+                services for international education, integrating third-party
+                payment providers. Worked with the CTO on payment-system
+                architecture, ran Agile delivery and mentored junior developers.
               </p>
               <div class="tags">
                 <span class="tag">Team Leadership</span
@@ -1304,19 +1311,19 @@
               <div class="co">Property Management</div>
               <h3>Console Cloud SaaS</h3>
               <p>
-                Multi-tenant SaaS with a complete trust-accounting system, TDD
-                throughout and a GraphQL API.
+                Multi-tenant property management SaaS with a complete
+                trust-accounting system and a GraphQL API.
               </p>
-              <div class="res">→ Thousands of concurrent users</div>
+              <div class="res">→ Test-driven throughout</div>
             </div>
             <div class="work reveal">
-              <div class="co">Enterprise Payments</div>
-              <h3>Serverless Payment Architecture</h3>
+              <div class="co">Urban Rest</div>
+              <h3>AI Production Triage</h3>
               <p>
-                Event-driven payment processing on AWS Lambda, API Gateway and
-                DynamoDB with optimistic locking.
+                Sentry and CloudWatch issues are deduplicated in n8n, then an LLM
+                works out the likely root cause and severity.
               </p>
-              <div class="res">→ Sub-second global transactions</div>
+              <div class="res">→ Routed to Jira, Slack or PagerDuty</div>
             </div>
           </div>
         </div>
