@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T11:00:33.239Z",
+  "generatedAt": "2026-09-28T13:20:07.951Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-28T11:00:19Z"
+        "pushedAt": "2026-09-28T11:00:34Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,30 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(marketing): shorts review fixes — loudness, crops, caption wrap (#940)",
+        "url": "https://github.com/astondg/trip-planner/commit/98d451a9b8ee8ce2f672505f185b92db9f13e810",
+        "at": "2026-09-28T11:39:29Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trip-review): name findings by item, show readable dates (#939)",
+        "url": "https://github.com/astondg/trip-planner/commit/9ee95ce014aa714c44b26dc333d7bfae00c4cb02",
+        "at": "2026-09-28T11:39:12Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "Pinterest import: privacy policy row and user_accounts:read scope (#938)",
         "url": "https://github.com/astondg/trip-planner/commit/acddf254f493a4a2b7e44d301bc20a4dac1fa25e",
         "at": "2026-09-28T09:47:34Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Raise the Free tier's daily MCP limit from 20 to 50 (#937)",
-        "url": "https://github.com/astondg/trip-planner/commit/01fdc0c4e576ea2e59c260bf897c2f6531e100b8",
-        "at": "2026-09-28T09:41:07Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "Refuse to publish an itinerary that still has placeholder copy (#935)",
-        "url": "https://github.com/astondg/trip-planner/commit/5ae3f698dae2d6b4d3886a69dd54372b7ecfa870",
-        "at": "2026-09-28T03:33:16Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Render 1.4.1 changelog without the promo-code line (jotcal canon)",
+        "url": "https://github.com/astondg/home-dashboard/commit/1c8ee7411b99f4d1365bceaf99359ec3500d648b",
+        "at": "2026-09-28T08:29:21Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -112,13 +119,6 @@
         "message": "#55 amendment 2: the pinch's own lift-off no longer taps the new overview",
         "url": "https://github.com/astondg/apple-grove/commit/c8619319308a7f078de6a6a5a44648317b36f403",
         "at": "2026-09-27T22:15:46Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "#55 amendment: month->year pinch needs a less careful gesture now",
-        "url": "https://github.com/astondg/apple-grove/commit/5204b68f5ec09261f31cfee3f18f9e7783afc6d3",
-        "at": "2026-09-27T12:11:59Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-28T11:00:33.192Z"
+      "checkedAt": "2026-09-28T13:20:07.951Z"
     },
     {
       "name": "JotCal",
