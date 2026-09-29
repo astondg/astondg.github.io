@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:26:03.131Z",
+  "generatedAt": "2026-09-29T22:02:02.775Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-29T05:01:23Z"
+        "pushedAt": "2026-09-29T12:26:05Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(map): ask what kind of place before the \"What's nearby?\" AI call (#936)",
+        "url": "https://github.com/astondg/trip-planner/commit/0488cbf8330a26238b06a92405c46261996e4bc3",
+        "at": "2026-09-29T12:36:48Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(marketing): review round — collab crop, portrait caption size, Douro in idea-board itinerary, clipped weather wash",
         "url": "https://github.com/astondg/trip-planner/commit/71de112b6b1ae9964f2b1e650972e4bfa10d464d",
         "at": "2026-09-29T12:24:15Z"
@@ -91,13 +98,6 @@
         "message": "fix(marketing): pause between VO sentences, rising pitch on questions (#942)",
         "url": "https://github.com/astondg/trip-planner/commit/8e9151a38b8ba225d2d44330a874323c3bf911a6",
         "at": "2026-09-29T10:58:56Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(billing): open Settings on Subscription after checkout (#941)",
-        "url": "https://github.com/astondg/trip-planner/commit/16dc9ee076023004a2a109774579dd27726595a8",
-        "at": "2026-09-29T10:58:29Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-29T12:26:02.873Z"
+      "checkedAt": "2026-09-29T22:02:02.775Z"
     },
     {
       "name": "JotCal",
