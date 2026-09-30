@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:11:23.653Z",
+  "generatedAt": "2026-09-30T22:01:11.033Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-30T04:48:29Z"
+        "pushedAt": "2026-09-30T12:11:24Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(map): floating search bar with trip results (#946) (#957)",
+        "url": "https://github.com/astondg/trip-planner/commit/69d4dc4c38eba32d76d5c18741152115d4cbca54",
+        "at": "2026-09-30T12:24:42Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(search): trip search engine and intent classifier (#945) (#956)",
         "url": "https://github.com/astondg/trip-planner/commit/503ad7cd974af03a1f1e7973a41c73fc556466ed",
         "at": "2026-09-30T05:11:34Z"
@@ -91,13 +98,6 @@
         "message": "Run the builder's clarify step on sonnet",
         "url": "https://github.com/astondg/trip-planner/commit/a37d20a66708a7ed4e500db97f64bec5962b70cd",
         "at": "2026-09-30T01:45:10Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(search): match without accents, search notes, name the dialog (#944) (#955)",
-        "url": "https://github.com/astondg/trip-planner/commit/1146ba78323e64c61292fb14e2ad2743e40f8184",
-        "at": "2026-09-30T01:27:44Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-30T12:11:22.271Z"
+      "checkedAt": "2026-09-30T22:01:10.974Z"
     },
     {
       "name": "JotCal",
