@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T04:48:28.693Z",
+  "generatedAt": "2026-09-30T12:11:23.653Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-09-29T22:02:03Z"
+        "pushedAt": "2026-09-30T04:48:29Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(search): trip search engine and intent classifier (#945) (#956)",
+        "url": "https://github.com/astondg/trip-planner/commit/503ad7cd974af03a1f1e7973a41c73fc556466ed",
+        "at": "2026-09-30T05:11:34Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "Run the builder's clarify step on sonnet",
+        "url": "https://github.com/astondg/trip-planner/commit/a37d20a66708a7ed4e500db97f64bec5962b70cd",
+        "at": "2026-09-30T01:45:10Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(search): match without accents, search notes, name the dialog (#944) (#955)",
         "url": "https://github.com/astondg/trip-planner/commit/1146ba78323e64c61292fb14e2ad2743e40f8184",
         "at": "2026-09-30T01:27:44Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(routes): stop overspending Google Routes (Compute Routes Essentials) (#954)",
-        "url": "https://github.com/astondg/trip-planner/commit/14cc3ead7e8ba65974ba95b4885a1f2bb9d81a65",
-        "at": "2026-09-30T00:23:06Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(map): ask what kind of place before the \"What's nearby?\" AI call (#936)",
-        "url": "https://github.com/astondg/trip-planner/commit/0488cbf8330a26238b06a92405c46261996e4bc3",
-        "at": "2026-09-29T12:36:48Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-09-30T04:48:28.693Z"
+      "checkedAt": "2026-09-30T12:11:22.271Z"
     },
     {
       "name": "JotCal",
