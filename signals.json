@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:29:10.179Z",
+  "generatedAt": "2026-10-02T04:50:54.426Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-01T12:45:26Z"
+        "pushedAt": "2026-10-01T22:29:11Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(map): count and clear search candidates in the bar (#959) (#971)",
-        "url": "https://github.com/astondg/trip-planner/commit/962200a43d7151cf66d17262c4117eb094e8dceb",
-        "at": "2026-10-01T22:04:37Z"
+        "message": "feat(map): typed category text offers the matching chip (#963) (#977)",
+        "url": "https://github.com/astondg/trip-planner/commit/e2ebdc135605d8c687bcf4d8561715600fd3d230",
+        "at": "2026-10-02T04:39:35Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(map): nearby category chips in the map search bar (#962) (#972)",
-        "url": "https://github.com/astondg/trip-planner/commit/4834349e839d23cbef4365f07665502ea1c7db31",
-        "at": "2026-10-01T20:49:02Z"
+        "message": "feat(map): one-time tip about searching near a spot (#964) (#976)",
+        "url": "https://github.com/astondg/trip-planner/commit/20df2d75c813e48bb99ab3a80875f265637e6d1b",
+        "at": "2026-10-02T03:35:38Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(map): credit copy and exhausted state on the Ask row (#961) (#970)",
-        "url": "https://github.com/astondg/trip-planner/commit/e9958511e6a19d2bf107293acaa69b27a874f296",
-        "at": "2026-10-01T12:24:04Z"
+        "message": "feat(map): \"Add as...\" menu on places and candidate pins (#960) (#975)",
+        "url": "https://github.com/astondg/trip-planner/commit/0428f808b43e61575d66cc3eabfef96678eba91c",
+        "at": "2026-10-02T02:34:41Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-01T22:29:10.179Z"
+      "checkedAt": "2026-10-02T04:50:54.426Z"
     },
     {
       "name": "JotCal",
