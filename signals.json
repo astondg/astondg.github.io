@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:36:44.745Z",
+  "generatedAt": "2026-10-02T12:09:18.212Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-02T05:36:27Z"
+        "pushedAt": "2026-10-02T05:36:45Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(map): typed category text offers the matching chip (#963) (#977)",
-        "url": "https://github.com/astondg/trip-planner/commit/e2ebdc135605d8c687bcf4d8561715600fd3d230",
-        "at": "2026-10-02T04:39:35Z"
+        "message": "fix(map): mobile search chrome — stray chip, wrap, scrollbar (#980) (#984)",
+        "url": "https://github.com/astondg/trip-planner/commit/1d79cb7ad8529a2463bc44a1d86acaea729a2fd8",
+        "at": "2026-10-02T11:06:30Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(map): one-time tip about searching near a spot (#964) (#976)",
-        "url": "https://github.com/astondg/trip-planner/commit/20df2d75c813e48bb99ab3a80875f265637e6d1b",
-        "at": "2026-10-02T03:35:38Z"
+        "message": "fix(map): legible dark candidate pins, persistent origin pin (#981) (#983)",
+        "url": "https://github.com/astondg/trip-planner/commit/ee41451e8aba2424961c3b5429460369950d05f0",
+        "at": "2026-10-02T10:39:20Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(map): \"Add as...\" menu on places and candidate pins (#960) (#975)",
-        "url": "https://github.com/astondg/trip-planner/commit/0428f808b43e61575d66cc3eabfef96678eba91c",
-        "at": "2026-10-02T02:34:41Z"
+        "message": "fix(map): lay out candidate pin labels in one collision pass (#979) (#986)",
+        "url": "https://github.com/astondg/trip-planner/commit/5d2ab426d5cc092ac073b0f88faf157a001f9240",
+        "at": "2026-10-02T10:17:16Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-02T05:36:44.745Z"
+      "checkedAt": "2026-10-02T12:09:18.212Z"
     },
     {
       "name": "JotCal",
