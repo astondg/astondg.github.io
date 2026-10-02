@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:09:18.212Z",
+  "generatedAt": "2026-10-02T21:59:44.929Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-02T05:36:45Z"
+        "pushedAt": "2026-10-02T12:09:19Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(map): mobile search chrome — stray chip, wrap, scrollbar (#980) (#984)",
-        "url": "https://github.com/astondg/trip-planner/commit/1d79cb7ad8529a2463bc44a1d86acaea729a2fd8",
-        "at": "2026-10-02T11:06:30Z"
+        "message": "fix(auth): reject email-change links older than their account (#925) (#989)",
+        "url": "https://github.com/astondg/trip-planner/commit/7824f94867065943191dd41932295b16923a5349",
+        "at": "2026-10-02T21:33:23Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(map): legible dark candidate pins, persistent origin pin (#981) (#983)",
-        "url": "https://github.com/astondg/trip-planner/commit/ee41451e8aba2424961c3b5429460369950d05f0",
-        "at": "2026-10-02T10:39:20Z"
+        "message": "refactor(tests): share the drop-pin menu opener across UX flows (#988)",
+        "url": "https://github.com/astondg/trip-planner/commit/6bba960ff1af73ffc2f68b236cbeff65cc1ab630",
+        "at": "2026-10-02T21:31:23Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(map): lay out candidate pin labels in one collision pass (#979) (#986)",
-        "url": "https://github.com/astondg/trip-planner/commit/5d2ab426d5cc092ac073b0f88faf157a001f9240",
-        "at": "2026-10-02T10:17:16Z"
+        "message": "fix(map): frame search candidates inside the free map (#978) (#987)",
+        "url": "https://github.com/astondg/trip-planner/commit/4525e84517eea1024661c8fc177595518d6aaca5",
+        "at": "2026-10-02T12:25:34Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-02T12:09:18.212Z"
+      "checkedAt": "2026-10-02T21:59:43.325Z"
     },
     {
       "name": "JotCal",
