@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:00:53.780Z",
+  "generatedAt": "2026-10-04T21:03:08.825Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-04T05:04:21Z"
+        "pushedAt": "2026-10-04T12:00:54Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(travel): \"offline ready\" chip on the trip (#997) (#1005)",
+        "url": "https://github.com/astondg/trip-planner/commit/6bdb6cb665d4297cbd8ab069b7bd11a04c855275",
+        "at": "2026-10-04T19:34:23Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(travel): versioned offline app shell and service-worker navigation fallback (#995) (#1004)",
+        "url": "https://github.com/astondg/trip-planner/commit/b284c96faddb27ee46ab71fd66ad098f591be957",
+        "at": "2026-10-04T13:03:40Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Ignore apps/android/.kotlin",
@@ -105,20 +119,6 @@
         "message": "feat(travel): offline Travel route renders Now/Today from a snapshot (#1003)",
         "url": "https://github.com/astondg/trip-planner/commit/45aa44671f2e606323a04f7c5ca860e037caccd3",
         "at": "2026-10-04T10:27:53Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Scheme: drop the StoreKit configuration from Run and Test so dev builds use real StoreKit",
-        "url": "https://github.com/astondg/apple-grove/commit/236d04cc94677dc7c9485eed8777c1238011d3bb",
-        "at": "2026-10-04T07:09:41Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android: render corrected 1.4.2 DST changelog line",
-        "url": "https://github.com/astondg/home-dashboard/commit/7cbd5da80d543bd5cf651109e647b3af1b93965b",
-        "at": "2026-10-04T04:42:52Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-04T12:00:53.780Z"
+      "checkedAt": "2026-10-04T21:03:08.824Z"
     },
     {
       "name": "JotCal",
