@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T05:04:20.840Z",
+  "generatedAt": "2026-10-04T12:00:53.780Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-03T20:47:42Z"
+        "pushedAt": "2026-10-04T05:04:21Z"
       },
       {
         "name": "next-departure",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "test(offline): production-build Playwright project and helpers (#992) (#1000)",
-        "url": "https://github.com/astondg/trip-planner/commit/972b0201925f67dcfb342d090275b48963e77dcb",
-        "at": "2026-10-03T21:50:37Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Ignore apps/android/.kotlin",
+        "url": "https://github.com/astondg/home-dashboard/commit/3c59d54485576ad4f583449500cdce6c4205e93e",
+        "at": "2026-10-04T11:59:03Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Scheme: Xcode 27 rewrote the scheme format version (1.8 to 1.7); no functional change",
+        "url": "https://github.com/astondg/apple-grove/commit/95aba29ec9df536ac644e7775e1e0733b8896267",
+        "at": "2026-10-04T11:58:49Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Tab bar: undo a layout change made by the swipe-home gesture",
+        "url": "https://github.com/astondg/apple-grove/commit/b5b19b476f8f4eca0f84b5fc335183a4e8954f63",
+        "at": "2026-10-04T11:43:12Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(travel): persisted offline trip snapshot (#991) (#1002)",
-        "url": "https://github.com/astondg/trip-planner/commit/66888d89ee22f64b84fa7ef8c2a09bbe56ed526b",
-        "at": "2026-10-03T21:50:01Z"
+        "message": "feat(travel): offline Travel route renders Now/Today from a snapshot (#1003)",
+        "url": "https://github.com/astondg/trip-planner/commit/45aa44671f2e606323a04f7c5ca860e037caccd3",
+        "at": "2026-10-04T10:27:53Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(mcp): check ownership before user lookup in trip_collaborators_invite (#999)",
-        "url": "https://github.com/astondg/trip-planner/commit/9556294519e72b0955ac25bee53b4e8ec6aa1611",
-        "at": "2026-10-03T07:06:56Z"
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Scheme: drop the StoreKit configuration from Run and Test so dev builds use real StoreKit",
+        "url": "https://github.com/astondg/apple-grove/commit/236d04cc94677dc7c9485eed8777c1238011d3bb",
+        "at": "2026-10-04T07:09:41Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Render 1.4.1 changelog without the promo-code line (jotcal canon)",
-        "url": "https://github.com/astondg/home-dashboard/commit/1c8ee7411b99f4d1365bceaf99359ec3500d648b",
-        "at": "2026-09-28T08:29:21Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Revert the SolarCalculator UTC default: it moved sun events a day early east of UTC",
-        "url": "https://github.com/astondg/apple-grove/commit/2b610c5d21322fa7a7d0f850f2b7c8ec88e9f639",
-        "at": "2026-09-28T01:41:05Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "#55 amendment 2: the pinch's own lift-off no longer taps the new overview",
-        "url": "https://github.com/astondg/apple-grove/commit/c8619319308a7f078de6a6a5a44648317b36f403",
-        "at": "2026-09-27T22:15:46Z"
+        "message": "Android: render corrected 1.4.2 DST changelog line",
+        "url": "https://github.com/astondg/home-dashboard/commit/7cbd5da80d543bd5cf651109e647b3af1b93965b",
+        "at": "2026-10-04T04:42:52Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-04T05:04:20.840Z"
+      "checkedAt": "2026-10-04T12:00:53.780Z"
     },
     {
       "name": "JotCal",
