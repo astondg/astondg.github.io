@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:50:43.439Z",
+  "generatedAt": "2026-10-05T14:03:16.497Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-04T21:03:09Z"
+        "pushedAt": "2026-10-05T04:50:44Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,20 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(pwa): extend the trip page over the iOS standalone viewport shortfall (#1010)",
+        "url": "https://github.com/astondg/trip-planner/commit/1b4a3ef7cac1aac650a6519f9980a6b93c8f935b",
+        "at": "2026-10-05T11:43:18Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Readiness doc: tag before upload, build the AAB from the tag",
+        "url": "https://github.com/astondg/home-dashboard/commit/36ab80ae325fd715f5cd86aaef79c78563f61225",
+        "at": "2026-10-05T05:00:41Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(travel): offline trip list, auto-open the active trip (#996) (#1009)",
         "url": "https://github.com/astondg/trip-planner/commit/aca5e9c921d5597777a0b332ccb38a478ce8d70a",
         "at": "2026-10-05T02:00:27Z"
@@ -91,13 +105,6 @@
         "message": "fix(mobile): centre the map below the search bar, trim dead band under the bottom nav (#1008)",
         "url": "https://github.com/astondg/trip-planner/commit/e40d6a7557f01b337a2d7f1aa52c86062d12b2d9",
         "at": "2026-10-05T00:16:42Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(offline): persist the first snapshot write; report ready only once it is on disk (#1007)",
-        "url": "https://github.com/astondg/trip-planner/commit/3b07942ec95a20ba1710d07121ca1b2edf7747f7",
-        "at": "2026-10-04T22:53:38Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -112,13 +119,6 @@
         "message": "Scheme: Xcode 27 rewrote the scheme format version (1.8 to 1.7); no functional change",
         "url": "https://github.com/astondg/apple-grove/commit/95aba29ec9df536ac644e7775e1e0733b8896267",
         "at": "2026-10-04T11:58:49Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Tab bar: undo a layout change made by the swipe-home gesture",
-        "url": "https://github.com/astondg/apple-grove/commit/b5b19b476f8f4eca0f84b5fc335183a4e8954f63",
-        "at": "2026-10-04T11:43:12Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-05T04:50:43.439Z"
+      "checkedAt": "2026-10-05T14:03:16.497Z"
     },
     {
       "name": "JotCal",
