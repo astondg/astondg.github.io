@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:03:16.497Z",
+  "generatedAt": "2026-10-05T23:53:06.232Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-05T04:50:44Z"
+        "pushedAt": "2026-10-05T14:03:18Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(pwa): bottom-anchored update toast with instant feedback (#1011)",
+        "url": "https://github.com/astondg/trip-planner/commit/ff8394c2a151f40658bce79db2c686642e4d5a5b",
+        "at": "2026-10-05T22:49:17Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(pwa): extend the trip page over the iOS standalone viewport shortfall (#1010)",
         "url": "https://github.com/astondg/trip-planner/commit/1b4a3ef7cac1aac650a6519f9980a6b93c8f935b",
         "at": "2026-10-05T11:43:18Z"
@@ -98,13 +105,6 @@
         "message": "feat(travel): offline trip list, auto-open the active trip (#996) (#1009)",
         "url": "https://github.com/astondg/trip-planner/commit/aca5e9c921d5597777a0b332ccb38a478ce8d70a",
         "at": "2026-10-05T02:00:27Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(mobile): centre the map below the search bar, trim dead band under the bottom nav (#1008)",
-        "url": "https://github.com/astondg/trip-planner/commit/e40d6a7557f01b337a2d7f1aa52c86062d12b2d9",
-        "at": "2026-10-05T00:16:42Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-05T14:03:16.497Z"
+      "checkedAt": "2026-10-05T23:53:05.090Z"
     },
     {
       "name": "JotCal",
