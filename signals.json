@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:28:30.072Z",
+  "generatedAt": "2026-10-06T12:24:44.137Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-06T00:45:47Z"
+        "pushedAt": "2026-10-06T06:28:31Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(billing): Free-tier rolling-30-day MCP write budget (#1027) (#1033)",
+        "url": "https://github.com/astondg/trip-planner/commit/344025a57ead8c153f44de64bb169594c6f91cfc",
+        "at": "2026-10-06T09:51:05Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(ai): grounded Assist: read tools, eval set, verified places (#1014, #1015, #1017) (#1032)",
         "url": "https://github.com/astondg/trip-planner/commit/0472dc2233dd3fc6600d3b328c97a005f21144c2",
         "at": "2026-10-06T06:09:30Z"
@@ -91,13 +98,6 @@
         "message": "perf(pwa): launch splash, parallel trip page data, navigation preload (#1012)",
         "url": "https://github.com/astondg/trip-planner/commit/5da4f1882589e656d04b558759f11b66757b6c97",
         "at": "2026-10-06T02:05:12Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(pwa): bottom-anchored update toast with instant feedback (#1011)",
-        "url": "https://github.com/astondg/trip-planner/commit/ff8394c2a151f40658bce79db2c686642e4d5a5b",
-        "at": "2026-10-05T22:49:17Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-06T06:28:30.072Z"
+      "checkedAt": "2026-10-06T12:24:43.671Z"
     },
     {
       "name": "JotCal",
