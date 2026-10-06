@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:45:46.939Z",
+  "generatedAt": "2026-10-06T06:28:30.072Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-05T23:53:07Z"
+        "pushedAt": "2026-10-06T00:45:47Z"
       },
       {
         "name": "next-departure",
@@ -81,16 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(pwa): bottom-anchored update toast with instant feedback (#1011)",
-        "url": "https://github.com/astondg/trip-planner/commit/ff8394c2a151f40658bce79db2c686642e4d5a5b",
-        "at": "2026-10-05T22:49:17Z"
+        "message": "feat(ai): grounded Assist: read tools, eval set, verified places (#1014, #1015, #1017) (#1032)",
+        "url": "https://github.com/astondg/trip-planner/commit/0472dc2233dd3fc6600d3b328c97a005f21144c2",
+        "at": "2026-10-06T06:09:30Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(pwa): extend the trip page over the iOS standalone viewport shortfall (#1010)",
-        "url": "https://github.com/astondg/trip-planner/commit/1b4a3ef7cac1aac650a6519f9980a6b93c8f935b",
-        "at": "2026-10-05T11:43:18Z"
+        "message": "perf(pwa): launch splash, parallel trip page data, navigation preload (#1012)",
+        "url": "https://github.com/astondg/trip-planner/commit/5da4f1882589e656d04b558759f11b66757b6c97",
+        "at": "2026-10-06T02:05:12Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(pwa): bottom-anchored update toast with instant feedback (#1011)",
+        "url": "https://github.com/astondg/trip-planner/commit/ff8394c2a151f40658bce79db2c686642e4d5a5b",
+        "at": "2026-10-05T22:49:17Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -98,13 +105,6 @@
         "message": "Readiness doc: tag before upload, build the AAB from the tag",
         "url": "https://github.com/astondg/home-dashboard/commit/36ab80ae325fd715f5cd86aaef79c78563f61225",
         "at": "2026-10-05T05:00:41Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(travel): offline trip list, auto-open the active trip (#996) (#1009)",
-        "url": "https://github.com/astondg/trip-planner/commit/aca5e9c921d5597777a0b332ccb38a478ce8d70a",
-        "at": "2026-10-05T02:00:27Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-06T00:45:46.939Z"
+      "checkedAt": "2026-10-06T06:28:30.072Z"
     },
     {
       "name": "JotCal",
