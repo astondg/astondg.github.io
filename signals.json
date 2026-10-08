@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:47:00.546Z",
+  "generatedAt": "2026-10-08T06:30:01.155Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-07T18:21:06Z"
+        "pushedAt": "2026-10-08T00:47:01Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(ai): provider-gap registry, explained where it bites (#1030) (#1040)",
-        "url": "https://github.com/astondg/trip-planner/commit/0026d46300cd5b3763c341e354165f8ad22ee6a6",
-        "at": "2026-10-07T11:13:08Z"
+        "message": "Marketing: commit the assembled voiceover and hero/AI-short narration (#1044)",
+        "url": "https://github.com/astondg/trip-planner/commit/ed5070aad4c8e6f70ff4f03075361d1bd8543845",
+        "at": "2026-10-08T03:32:14Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(ai): opening hours in search_places, closed-day correction (#1029) (#1038)",
-        "url": "https://github.com/astondg/trip-planner/commit/80d420ad219493fb91ac362b2c45b884dc3c88c1",
-        "at": "2026-10-07T05:21:53Z"
+        "message": "Marketing: ElevenLabs voice and music for the shorts; keep route lines readable when zoomed in (#1042)",
+        "url": "https://github.com/astondg/trip-planner/commit/49f4f686b84b04f8d20dd31b258a24b928b02ab7",
+        "at": "2026-10-08T02:28:45Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs(ai): decide the Free/Pro line for budgeted provider calls (#1026)",
-        "url": "https://github.com/astondg/trip-planner/commit/8d1e32690e6129abfc134a9cad536252cec4f990",
-        "at": "2026-10-07T02:36:41Z"
+        "message": "Paris demo trip seed and header label collapse (#1041)",
+        "url": "https://github.com/astondg/trip-planner/commit/0aa6ad34103a7fcfe792c8f4f9b2e8d2bad16c24",
+        "at": "2026-10-08T01:22:45Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-08T00:47:00.546Z"
+      "checkedAt": "2026-10-08T06:30:01.138Z"
     },
     {
       "name": "JotCal",
