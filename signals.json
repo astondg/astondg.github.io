@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:23:48.084Z",
+  "generatedAt": "2026-10-09T18:20:15.585Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-09T06:29:00Z"
+        "pushedAt": "2026-10-09T12:23:49Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(ai): check generated plans before they are shown (#1021) (#1079)",
+        "url": "https://github.com/astondg/trip-planner/commit/a7a335bee0188c7755a7ebb11025ebe7a7d98750",
+        "at": "2026-10-09T12:53:24Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(ai): Google Places details for hours and status (Pro) (#1078)",
         "url": "https://github.com/astondg/trip-planner/commit/12fe53af4ebe5b5639df82148c695e8a8d6eca90",
         "at": "2026-10-09T07:06:48Z"
@@ -91,13 +98,6 @@
         "message": "Move in-app AI to Claude Haiku 5.5 and re-size the AI credits (#1055)",
         "url": "https://github.com/astondg/trip-planner/commit/c318ff1fd4d16f4ea66400c2cc479ff7c23125df",
         "at": "2026-10-09T01:16:56Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "perf(ai): in-request search_places dedup, eval lookups per turn (#1036) (#1053)",
-        "url": "https://github.com/astondg/trip-planner/commit/5ab3d4b8cb7e8d9768cfda8dce93d1a76195bf03",
-        "at": "2026-10-09T00:23:10Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-09T12:23:46.858Z"
+      "checkedAt": "2026-10-09T18:20:15.585Z"
     },
     {
       "name": "JotCal",
