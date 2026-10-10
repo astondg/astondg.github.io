@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T06:26:41.920Z",
+  "generatedAt": "2026-10-10T12:22:48.058Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-10T00:46:52Z"
+        "pushedAt": "2026-10-10T06:26:43Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): Trip Pass constants and pure date and expiry rules (#1081)",
-        "url": "https://github.com/astondg/trip-planner/commit/cc76d09a2fe451cd3c9cdc6e9e039dcedf687d50",
-        "at": "2026-10-10T03:43:44Z"
+        "message": "test(e2e): scoped run on a production build with a known-failures baseline, and the spec repairs behind it (#1093)",
+        "url": "https://github.com/astondg/trip-planner/commit/575538fa3a2290d5ba04e8121cbaac11c27beb7f",
+        "at": "2026-10-10T11:50:14Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "test(ai): local-knowledge eval check and cases (#1023) (#1083)",
-        "url": "https://github.com/astondg/trip-planner/commit/eec1a030bf648e095280cb63f47b5153e08f4e21",
-        "at": "2026-10-10T03:43:29Z"
+        "message": "ci: run e2e and claude-code jobs on a pgvector Postgres image (#1086)",
+        "url": "https://github.com/astondg/trip-planner/commit/f4549d85d88d86841f808871f16386fa29de8b03",
+        "at": "2026-10-10T10:05:12Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(ai): web search tool for current facts (Pro) (#1080)",
-        "url": "https://github.com/astondg/trip-planner/commit/4965b39c7ee3d26aad6839c8df62902c3902a660",
-        "at": "2026-10-09T21:21:01Z"
+        "message": "fix(ai): tell \"could not check\" apart from \"no such place\" (#1031) (#1085)",
+        "url": "https://github.com/astondg/trip-planner/commit/62539e51eee7229cbf2eddbc8c1a6120488a9350",
+        "at": "2026-10-10T08:06:51Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-10T06:26:40.760Z"
+      "checkedAt": "2026-10-10T12:22:48.058Z"
     },
     {
       "name": "JotCal",
