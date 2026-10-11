@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:51:38.524Z",
+  "generatedAt": "2026-10-11T06:26:42.465Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-10T18:19:07Z"
+        "pushedAt": "2026-10-11T00:51:39Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(ai): personal recall over your own trips and ideas (opt-in) (#1096)",
+        "url": "https://github.com/astondg/trip-planner/commit/a6cbe094b615684b8151ac2e7de691044eaf0e9b",
+        "at": "2026-10-11T05:42:15Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "test(e2e): scoped run on a production build with a known-failures baseline, and the spec repairs behind it (#1093)",
         "url": "https://github.com/astondg/trip-planner/commit/575538fa3a2290d5ba04e8121cbaac11c27beb7f",
         "at": "2026-10-10T11:50:14Z"
@@ -91,13 +98,6 @@
         "message": "ci: run e2e and claude-code jobs on a pgvector Postgres image (#1086)",
         "url": "https://github.com/astondg/trip-planner/commit/f4549d85d88d86841f808871f16386fa29de8b03",
         "at": "2026-10-10T10:05:12Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): tell \"could not check\" apart from \"no such place\" (#1031) (#1085)",
-        "url": "https://github.com/astondg/trip-planner/commit/62539e51eee7229cbf2eddbc8c1a6120488a9350",
-        "at": "2026-10-10T08:06:51Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-11T00:51:38.501Z"
+      "checkedAt": "2026-10-11T06:26:42.028Z"
     },
     {
       "name": "JotCal",
