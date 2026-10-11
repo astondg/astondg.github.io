@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:26:42.465Z",
+  "generatedAt": "2026-10-11T12:24:00.393Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-11T00:51:39Z"
+        "pushedAt": "2026-10-11T06:26:43Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(admin): edit and publish itineraries without SQL (#790) (#1095)",
+        "url": "https://github.com/astondg/trip-planner/commit/3679da9762c010fae22a19c32f7261d94bded221",
+        "at": "2026-10-11T10:56:51Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(growth): upgrade prompts at the trip, collaborator and MCP limits (#1094)",
+        "url": "https://github.com/astondg/trip-planner/commit/911b59b154318cc92ae5b05275bdb18112f04c23",
+        "at": "2026-10-11T09:54:34Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(ai): personal recall over your own trips and ideas (opt-in) (#1096)",
         "url": "https://github.com/astondg/trip-planner/commit/a6cbe094b615684b8151ac2e7de691044eaf0e9b",
         "at": "2026-10-11T05:42:15Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "test(e2e): scoped run on a production build with a known-failures baseline, and the spec repairs behind it (#1093)",
-        "url": "https://github.com/astondg/trip-planner/commit/575538fa3a2290d5ba04e8121cbaac11c27beb7f",
-        "at": "2026-10-10T11:50:14Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "ci: run e2e and claude-code jobs on a pgvector Postgres image (#1086)",
-        "url": "https://github.com/astondg/trip-planner/commit/f4549d85d88d86841f808871f16386fa29de8b03",
-        "at": "2026-10-10T10:05:12Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-11T06:26:42.028Z"
+      "checkedAt": "2026-10-11T12:23:59.622Z"
     },
     {
       "name": "JotCal",
