@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:20:02.871Z",
+  "generatedAt": "2026-10-12T00:52:49.180Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-11T12:24:01Z"
+        "pushedAt": "2026-10-11T18:20:03Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(admin): overview with attention strip and week-vs-month-vs-year pulse (#1104)",
+        "url": "https://github.com/astondg/trip-planner/commit/d31d265deb9ea8d2f9abeb767a3ed65be9596bcb",
+        "at": "2026-10-11T20:55:53Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(admin): edit and publish itineraries without SQL (#790) (#1095)",
         "url": "https://github.com/astondg/trip-planner/commit/3679da9762c010fae22a19c32f7261d94bded221",
         "at": "2026-10-11T10:56:51Z"
@@ -91,13 +98,6 @@
         "message": "feat(growth): upgrade prompts at the trip, collaborator and MCP limits (#1094)",
         "url": "https://github.com/astondg/trip-planner/commit/911b59b154318cc92ae5b05275bdb18112f04c23",
         "at": "2026-10-11T09:54:34Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): personal recall over your own trips and ideas (opt-in) (#1096)",
-        "url": "https://github.com/astondg/trip-planner/commit/a6cbe094b615684b8151ac2e7de691044eaf0e9b",
-        "at": "2026-10-11T05:42:15Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-11T18:20:02.871Z"
+      "checkedAt": "2026-10-12T00:52:48.445Z"
     },
     {
       "name": "JotCal",
