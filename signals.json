@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T06:41:57.181Z",
+  "generatedAt": "2026-10-12T12:35:02.628Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-12T00:52:50Z"
+        "pushedAt": "2026-10-12T06:41:58Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(admin): overview with attention strip and week-vs-month-vs-year pulse (#1104)",
-        "url": "https://github.com/astondg/trip-planner/commit/d31d265deb9ea8d2f9abeb767a3ed65be9596bcb",
-        "at": "2026-10-11T20:55:53Z"
+        "message": "feat(billing): trip_passes table, repository and test helpers (#1103)",
+        "url": "https://github.com/astondg/trip-planner/commit/7b5874ad26cf33f51073fa551c2a46b95ef138fa",
+        "at": "2026-10-12T10:34:39Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(admin): edit and publish itineraries without SQL (#790) (#1095)",
-        "url": "https://github.com/astondg/trip-planner/commit/3679da9762c010fae22a19c32f7261d94bded221",
-        "at": "2026-10-11T10:56:51Z"
+        "message": "fix(mcp): refused calls must not spend the request or write budget (#1102)",
+        "url": "https://github.com/astondg/trip-planner/commit/4f3a41cdb42488c5db87bf5de312a1c0a931fbef",
+        "at": "2026-10-12T10:08:38Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(growth): upgrade prompts at the trip, collaborator and MCP limits (#1094)",
-        "url": "https://github.com/astondg/trip-planner/commit/911b59b154318cc92ae5b05275bdb18112f04c23",
-        "at": "2026-10-11T09:54:34Z"
+        "message": "test(e2e): clear the E2E failure backlog, fix the product bugs it found, baseline the rest (#1109)",
+        "url": "https://github.com/astondg/trip-planner/commit/0e7869bf1318d40200600c9c6e67132770ccca27",
+        "at": "2026-10-12T07:25:18Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-12T06:41:57.180Z"
+      "checkedAt": "2026-10-12T12:35:02.628Z"
     },
     {
       "name": "JotCal",
