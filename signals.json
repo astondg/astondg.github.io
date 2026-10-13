@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:31:42.661Z",
+  "generatedAt": "2026-10-13T12:26:43.456Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-13T00:49:02Z"
+        "pushedAt": "2026-10-13T06:31:43Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,13 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(admin): show provider budget use and flag the #1026 triggers (#1115)",
+        "url": "https://github.com/astondg/trip-planner/commit/3f576f7c2d5d8d704472b263c716f06024a459f3",
+        "at": "2026-10-13T08:52:15Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Drop the padlock line from the 1.4.3 release notes",
@@ -112,13 +119,6 @@
         "message": "feat(billing): the seven trip gates honour a live Trip Pass (#1110)",
         "url": "https://github.com/astondg/trip-planner/commit/8aaf3bf4ce47160299324c989ef5195aee8e969a",
         "at": "2026-10-12T22:49:05Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(billing): trip_passes table, repository and test helpers (#1103)",
-        "url": "https://github.com/astondg/trip-planner/commit/7b5874ad26cf33f51073fa551c2a46b95ef138fa",
-        "at": "2026-10-12T10:34:39Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-13T06:31:42.661Z"
+      "checkedAt": "2026-10-13T12:26:43.456Z"
     },
     {
       "name": "JotCal",
