@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:49:01.775Z",
+  "generatedAt": "2026-10-13T06:31:42.661Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-12T18:20:17Z"
+        "pushedAt": "2026-10-13T00:49:02Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,34 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Drop the padlock line from the 1.4.3 release notes",
+        "url": "https://github.com/astondg/home-dashboard/commit/c709507e9b269658098d7c2cf80ce837d096cff0",
+        "at": "2026-10-13T03:20:04Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Drop the padlock line from the 1.4.3 release notes",
+        "url": "https://github.com/astondg/apple-grove/commit/1172782678eabc6225768c663505f10996081767",
+        "at": "2026-10-13T03:20:02Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "TestSupport: -uitest-reset also puts the Start page back to Auto",
+        "url": "https://github.com/astondg/apple-grove/commit/ac73655dbe2984586aa851d11e2d87c56b6321a1",
+        "at": "2026-10-13T01:31:05Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): Trip Pass checkout route, env flag and price (#1059) (#1112)",
+        "url": "https://github.com/astondg/trip-planner/commit/3a491621dfa3b1ec8ac172b6be3b783a7dd6984e",
+        "at": "2026-10-13T01:00:44Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(billing): the seven trip gates honour a live Trip Pass (#1110)",
@@ -91,34 +119,6 @@
         "message": "feat(billing): trip_passes table, repository and test helpers (#1103)",
         "url": "https://github.com/astondg/trip-planner/commit/7b5874ad26cf33f51073fa551c2a46b95ef138fa",
         "at": "2026-10-12T10:34:39Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(mcp): refused calls must not spend the request or write budget (#1102)",
-        "url": "https://github.com/astondg/trip-planner/commit/4f3a41cdb42488c5db87bf5de312a1c0a931fbef",
-        "at": "2026-10-12T10:08:38Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Readiness doc: tag before upload, build the AAB from the tag",
-        "url": "https://github.com/astondg/home-dashboard/commit/36ab80ae325fd715f5cd86aaef79c78563f61225",
-        "at": "2026-10-05T05:00:41Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Ignore apps/android/.kotlin",
-        "url": "https://github.com/astondg/home-dashboard/commit/3c59d54485576ad4f583449500cdce6c4205e93e",
-        "at": "2026-10-04T11:59:03Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Scheme: Xcode 27 rewrote the scheme format version (1.8 to 1.7); no functional change",
-        "url": "https://github.com/astondg/apple-grove/commit/95aba29ec9df536ac644e7775e1e0733b8896267",
-        "at": "2026-10-04T11:58:49Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-13T00:49:01.775Z"
+      "checkedAt": "2026-10-13T06:31:42.661Z"
     },
     {
       "name": "JotCal",
