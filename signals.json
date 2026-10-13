@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:20:15.898Z",
+  "generatedAt": "2026-10-13T00:49:01.775Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-12T12:35:03Z"
+        "pushedAt": "2026-10-12T18:20:17Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(billing): the seven trip gates honour a live Trip Pass (#1110)",
+        "url": "https://github.com/astondg/trip-planner/commit/8aaf3bf4ce47160299324c989ef5195aee8e969a",
+        "at": "2026-10-12T22:49:05Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(billing): trip_passes table, repository and test helpers (#1103)",
         "url": "https://github.com/astondg/trip-planner/commit/7b5874ad26cf33f51073fa551c2a46b95ef138fa",
         "at": "2026-10-12T10:34:39Z"
@@ -91,13 +98,6 @@
         "message": "fix(mcp): refused calls must not spend the request or write budget (#1102)",
         "url": "https://github.com/astondg/trip-planner/commit/4f3a41cdb42488c5db87bf5de312a1c0a931fbef",
         "at": "2026-10-12T10:08:38Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "test(e2e): clear the E2E failure backlog, fix the product bugs it found, baseline the rest (#1109)",
-        "url": "https://github.com/astondg/trip-planner/commit/0e7869bf1318d40200600c9c6e67132770ccca27",
-        "at": "2026-10-12T07:25:18Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-12T18:20:15.898Z"
+      "checkedAt": "2026-10-13T00:49:01.775Z"
     },
     {
       "name": "JotCal",
