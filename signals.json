@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:38:30.121Z",
+  "generatedAt": "2026-10-14T06:26:47.184Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-13T18:22:25Z"
+        "pushedAt": "2026-10-14T00:38:31Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(pwa): move the viewport-deficit init script to the root layout (#1123)",
+        "url": "https://github.com/astondg/trip-planner/commit/691cc530c546f78eeed173a1dc84bcd772cc83a1",
+        "at": "2026-10-14T03:20:19Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(observability): daily tally of repeated provider lookups (#1051) (#1117)",
+        "url": "https://github.com/astondg/trip-planner/commit/26b1f78611494e074b555b2e205424e9bd1d25bf",
+        "at": "2026-10-14T03:19:26Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(billing): attach a Trip Pass and track the trip's dates (#1121)",
         "url": "https://github.com/astondg/trip-planner/commit/6d578c16a52686e907b73d535763a06001b95321",
         "at": "2026-10-13T21:44:16Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(billing): brief, assist tools and media retention honour a pass (#1120)",
-        "url": "https://github.com/astondg/trip-planner/commit/7a6393959ac51ac613dab47fc96a7dd256a327b4",
-        "at": "2026-10-13T21:43:07Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): FCDO travel advisory read tool for Quick Assist (#1020) (#1118)",
-        "url": "https://github.com/astondg/trip-planner/commit/07a62ceb78d6e02d7e960601059e46a341ab7d86",
-        "at": "2026-10-13T21:42:07Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-14T00:38:29.820Z"
+      "checkedAt": "2026-10-14T06:26:47.184Z"
     },
     {
       "name": "JotCal",
