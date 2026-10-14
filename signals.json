@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:22:24.464Z",
+  "generatedAt": "2026-10-14T00:38:30.121Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-13T12:26:44Z"
+        "pushedAt": "2026-10-13T18:22:25Z"
       },
       {
         "name": "next-departure",
@@ -81,9 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(admin): show provider budget use and flag the #1026 triggers (#1115)",
-        "url": "https://github.com/astondg/trip-planner/commit/3f576f7c2d5d8d704472b263c716f06024a459f3",
-        "at": "2026-10-13T08:52:15Z"
+        "message": "feat(billing): attach a Trip Pass and track the trip's dates (#1121)",
+        "url": "https://github.com/astondg/trip-planner/commit/6d578c16a52686e907b73d535763a06001b95321",
+        "at": "2026-10-13T21:44:16Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): brief, assist tools and media retention honour a pass (#1120)",
+        "url": "https://github.com/astondg/trip-planner/commit/7a6393959ac51ac613dab47fc96a7dd256a327b4",
+        "at": "2026-10-13T21:43:07Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(ai): FCDO travel advisory read tool for Quick Assist (#1020) (#1118)",
+        "url": "https://github.com/astondg/trip-planner/commit/07a62ceb78d6e02d7e960601059e46a341ab7d86",
+        "at": "2026-10-13T21:42:07Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -105,20 +119,6 @@
         "message": "TestSupport: -uitest-reset also puts the Start page back to Auto",
         "url": "https://github.com/astondg/apple-grove/commit/ac73655dbe2984586aa851d11e2d87c56b6321a1",
         "at": "2026-10-13T01:31:05Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(billing): Trip Pass checkout route, env flag and price (#1059) (#1112)",
-        "url": "https://github.com/astondg/trip-planner/commit/3a491621dfa3b1ec8ac172b6be3b783a7dd6984e",
-        "at": "2026-10-13T01:00:44Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(billing): the seven trip gates honour a live Trip Pass (#1110)",
-        "url": "https://github.com/astondg/trip-planner/commit/8aaf3bf4ce47160299324c989ef5195aee8e969a",
-        "at": "2026-10-12T22:49:05Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-13T18:22:23.514Z"
+      "checkedAt": "2026-10-14T00:38:29.820Z"
     },
     {
       "name": "JotCal",
