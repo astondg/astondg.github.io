@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:38:33.870Z",
+  "generatedAt": "2026-10-15T06:26:44.153Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-14T18:19:38Z"
+        "pushedAt": "2026-10-15T00:38:35Z"
       },
       {
         "name": "next-departure",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(flights): gate AeroDataBox flight data behind Pro or a Trip Pass (#831) (#1134)",
+        "url": "https://github.com/astondg/trip-planner/commit/4d8eb5e23058bf7e46fd4c33f7bc30e1bfbc7a4b",
+        "at": "2026-10-15T04:15:27Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): AI spend draws on the Trip Pass credit pool first (#1063) (#1133)",
+        "url": "https://github.com/astondg/trip-planner/commit/d12198769ffb099b18c5ac127182f2857ef06e13",
+        "at": "2026-10-15T01:56:08Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Readiness doc: merge the release branch into main after tagging",
+        "url": "https://github.com/astondg/home-dashboard/commit/e2c2a11e4617825386ee6a59dfba446c19632c44",
+        "at": "2026-10-15T01:54:55Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(map): show the item name beside a pin on hover (#1126) (#1131)",
         "url": "https://github.com/astondg/trip-planner/commit/016a5a9eabd963712c115cb6bf08b6f755e4dd06",
         "at": "2026-10-14T23:36:03Z"
       },
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ideas): suggest real places for a generic idea (#1127) (#1130)",
-        "url": "https://github.com/astondg/trip-planner/commit/3ccc206ce2cc44e228aef5db9f1d9f5eab8c7f5d",
-        "at": "2026-10-14T23:34:40Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "test(e2e): display hydration regression spec for browser clock skew (#1089) (#1129)",
-        "url": "https://github.com/astondg/trip-planner/commit/3fd01fe5a688d219b53f864669a1240d2a823506",
-        "at": "2026-10-14T10:01:45Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Android 1.4.4 (versionCode 27): bump version, render changelogs",
+        "url": "https://github.com/astondg/home-dashboard/commit/36e9b506f7410d1edeba41f54e65972a80f5c9e2",
+        "at": "2026-10-13T09:51:06Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Drop the padlock line from the 1.4.3 release notes",
-        "url": "https://github.com/astondg/home-dashboard/commit/c709507e9b269658098d7c2cf80ce837d096cff0",
-        "at": "2026-10-13T03:20:04Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Drop the padlock line from the 1.4.3 release notes",
-        "url": "https://github.com/astondg/apple-grove/commit/1172782678eabc6225768c663505f10996081767",
-        "at": "2026-10-13T03:20:02Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "TestSupport: -uitest-reset also puts the Start page back to Auto",
-        "url": "https://github.com/astondg/apple-grove/commit/ac73655dbe2984586aa851d11e2d87c56b6321a1",
-        "at": "2026-10-13T01:31:05Z"
+        "message": "Read events in short pages so a failed read can't crash the app",
+        "url": "https://github.com/astondg/home-dashboard/commit/38da7acc3d1fa3ffb59120030a3d9551ce24994b",
+        "at": "2026-10-13T09:51:06Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-15T00:38:33.870Z"
+      "checkedAt": "2026-10-15T06:26:44.153Z"
     },
     {
       "name": "JotCal",
