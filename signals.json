@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T18:18:42.974Z",
+  "generatedAt": "2026-10-16T00:38:53.322Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-15T12:23:41Z"
+        "pushedAt": "2026-10-15T18:18:44Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(billing): use your Trip Pass page and new-trip form (#1069) (#1144)",
+        "url": "https://github.com/astondg/trip-planner/commit/8881df935b31b4188d1654ab9218d672e3382c6f",
+        "at": "2026-10-15T21:45:05Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): create and revoke Trip Passes from Polar orders (#1064) (#1145)",
+        "url": "https://github.com/astondg/trip-planner/commit/37ef54c90336db6b53ec2e1b8d4e49278087f998",
+        "at": "2026-10-15T21:44:50Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(test): exclude __tests__/helpers from vitest collection",
         "url": "https://github.com/astondg/trip-planner/commit/c5f145e9f1a99d2b32276a67e9bd6371060ee95d",
         "at": "2026-10-15T11:51:28Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "style: format MarketingHeader with prettier",
-        "url": "https://github.com/astondg/trip-planner/commit/379e278d9ce8d8ce81278a41cbc53adc98a0a9a7",
-        "at": "2026-10-15T11:31:51Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(seo): add intro and richer cards to the itineraries hub (#1141)",
-        "url": "https://github.com/astondg/trip-planner/commit/48df2a8040a708b9eef4f7483a91acf89b1d53b5",
-        "at": "2026-10-15T10:54:28Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-15T18:18:41.850Z"
+      "checkedAt": "2026-10-16T00:38:53.322Z"
     },
     {
       "name": "JotCal",
