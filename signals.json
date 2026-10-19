@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:16:12.338Z",
+  "generatedAt": "2026-10-19T00:43:23.760Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-18T12:20:23Z"
+        "pushedAt": "2026-10-18T18:16:13Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(billing): the Trip Pass offer arrives with the limit message (#1167)",
-        "url": "https://github.com/astondg/trip-planner/commit/226d138c5260308672431ede7bb91ebe8fe3c362",
-        "at": "2026-10-18T11:16:50Z"
+        "message": "fix(ai): scope the Quick Assist session store per user (#1165) (#1173)",
+        "url": "https://github.com/astondg/trip-planner/commit/a0b01de777a32d8904e0ae6bf82890277c8a1cfd",
+        "at": "2026-10-18T22:14:47Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): POLAR_SERVER selects the Polar sandbox or production API (#1154)",
-        "url": "https://github.com/astondg/trip-planner/commit/6243cf6987e16d9801fe33c7fdfa874b4727a5d9",
-        "at": "2026-10-16T23:58:23Z"
+        "message": "fix(billing): show the last day a Trip Pass's Pro limits apply (#1172)",
+        "url": "https://github.com/astondg/trip-planner/commit/e442b20f87614e8986d9561af9378865a8f4c62a",
+        "at": "2026-10-18T22:13:58Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): Trip Pass on the pricing page, FAQ and structured data (#1151)",
-        "url": "https://github.com/astondg/trip-planner/commit/357d6cf987ec2f8591019682526808f47bca2620",
-        "at": "2026-10-16T23:54:50Z"
+        "message": "fix(billing): add dates from the Trip Pass attach list (#1155) (#1169)",
+        "url": "https://github.com/astondg/trip-planner/commit/1786a787cfa5391c325d8f3bd3e2a7e8ed5844a8",
+        "at": "2026-10-18T22:13:02Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-18T18:16:11.357Z"
+      "checkedAt": "2026-10-19T00:43:23.620Z"
     },
     {
       "name": "JotCal",
