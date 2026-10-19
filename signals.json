@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:43:23.760Z",
+  "generatedAt": "2026-10-19T06:35:28.809Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-18T18:16:13Z"
+        "pushedAt": "2026-10-19T00:43:24Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(ai): scope the Quick Assist session store per user (#1165) (#1173)",
-        "url": "https://github.com/astondg/trip-planner/commit/a0b01de777a32d8904e0ae6bf82890277c8a1cfd",
-        "at": "2026-10-18T22:14:47Z"
+        "message": "fix(billing): hide credits on a refunded or ended Trip Pass (#1162) (#1176)",
+        "url": "https://github.com/astondg/trip-planner/commit/70c30f0a3535a262319fbf19a9fd329a44add33a",
+        "at": "2026-10-19T06:18:32Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(billing): show the last day a Trip Pass's Pro limits apply (#1172)",
-        "url": "https://github.com/astondg/trip-planner/commit/e442b20f87614e8986d9561af9378865a8f4c62a",
-        "at": "2026-10-18T22:13:58Z"
+        "message": "fix(billing): label the mobile Trip Pass chip, move its popover down (#1175)",
+        "url": "https://github.com/astondg/trip-planner/commit/45ae494ffda775776360e15d8b6ba766041f68bf",
+        "at": "2026-10-19T06:03:12Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(billing): add dates from the Trip Pass attach list (#1155) (#1169)",
-        "url": "https://github.com/astondg/trip-planner/commit/1786a787cfa5391c325d8f3bd3e2a7e8ed5844a8",
-        "at": "2026-10-18T22:13:02Z"
+        "message": "fix(ai): AI Assist opens and explains an exhausted budget (#1160) (#1174)",
+        "url": "https://github.com/astondg/trip-planner/commit/c62a5cc43e16dfbfce2657d4dac8ea6783c9e6d5",
+        "at": "2026-10-19T06:02:48Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-19T00:43:23.620Z"
+      "checkedAt": "2026-10-19T06:35:27.674Z"
     },
     {
       "name": "JotCal",
