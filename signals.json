@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:20:06.548Z",
+  "generatedAt": "2026-10-20T00:40:43.568Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-19T12:24:59Z"
+        "pushedAt": "2026-10-19T18:20:07Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(billing): quote a Trip Pass only in a currency it has (#1159) (#1181)",
+        "url": "https://github.com/astondg/trip-planner/commit/8606ba4e5ffe977b40abffc5e9ed3e623e33932a",
+        "at": "2026-10-19T19:42:41Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(billing): sell a Trip Pass from the empty Settings block (#1168) (#1177)",
         "url": "https://github.com/astondg/trip-planner/commit/97f14a5e430482c02ab936d7bc710f58644b3234",
         "at": "2026-10-19T11:19:59Z"
@@ -91,13 +98,6 @@
         "message": "docs(legal): Trip Pass in the terms and privacy pages (#1180)",
         "url": "https://github.com/astondg/trip-planner/commit/8ad00c6d8c696da3ec787e8cd0d390ec6062f40e",
         "at": "2026-10-19T10:49:37Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(billing): strip customer_session_token from return URLs (#1164) (#1178)",
-        "url": "https://github.com/astondg/trip-planner/commit/ab08017cc54aaaf514c60607e994bcca557434c7",
-        "at": "2026-10-19T10:42:59Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-19T18:20:06.027Z"
+      "checkedAt": "2026-10-20T00:40:42.223Z"
     },
     {
       "name": "JotCal",
