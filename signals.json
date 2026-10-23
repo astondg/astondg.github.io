@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:41:31.709Z",
+  "generatedAt": "2026-10-23T06:26:31.113Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-22T18:18:34Z"
+        "pushedAt": "2026-10-23T00:41:32Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(auth): cache API-key auth in Redis so pollers stop waking Neon (#1188)",
+        "url": "https://github.com/astondg/trip-planner/commit/ce7775ea89e06eb960ccf05c5dd944380eec75a0",
+        "at": "2026-10-23T02:07:52Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(health): serve cached DB status so the monitor stops holding Neon awake (#1186)",
         "url": "https://github.com/astondg/trip-planner/commit/54ed802ed2d6e1344eb94522c9209b42245b29a0",
         "at": "2026-10-21T21:53:22Z"
@@ -91,13 +98,6 @@
         "message": "feat(auth): change password in Settings and revoke sessions on reset (#1183) (#1185)",
         "url": "https://github.com/astondg/trip-planner/commit/f82dfa25f21c5aac5251e7ee377d93380897679b",
         "at": "2026-10-21T20:00:29Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(billing): quote a Trip Pass only in a currency it has (#1159) (#1181)",
-        "url": "https://github.com/astondg/trip-planner/commit/8606ba4e5ffe977b40abffc5e9ed3e623e33932a",
-        "at": "2026-10-19T19:42:41Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-23T00:41:30.787Z"
+      "checkedAt": "2026-10-23T06:26:30.090Z"
     },
     {
       "name": "JotCal",
