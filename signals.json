@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:24:01.549Z",
+  "generatedAt": "2026-10-25T12:20:06.354Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-25T00:43:25Z"
+        "pushedAt": "2026-10-25T06:24:02Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): credit a Trip Pass toward the annual Pro plan (#1074) (#1182)",
+        "url": "https://github.com/astondg/trip-planner/commit/40df76b355b17b1eea6bef2136355c6978d98897",
+        "at": "2026-10-25T12:11:57Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(auth): abort account deletion if cached API keys can't be revoked (#1193)",
+        "url": "https://github.com/astondg/trip-planner/commit/2937e20a6b3e9b732696ec1ba9ecfb63ff89015f",
+        "at": "2026-10-25T11:20:40Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(evals): --model and --budget flags for the generation eval (#1192)",
+        "url": "https://github.com/astondg/trip-planner/commit/feade5682b63488c9e8d600f4ab3b57246668c0b",
+        "at": "2026-10-25T10:36:20Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Play listing: promo video URL etsWYpZZ7Wo (rendered from the jotcal canon)",
@@ -98,27 +119,6 @@
         "message": "Changelog: 1.4.5 Grid row fill, overflow pill and weather-picker bias",
         "url": "https://github.com/astondg/apple-grove/commit/683e5a6a9dfe7fdbf76c3e1b156d3a2427ef59eb",
         "at": "2026-10-24T22:25:53Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: Grid cells show every row they fit, no 5/8 nominal cap",
-        "url": "https://github.com/astondg/apple-grove/commit/6fa7fade15511a64403d6c0e6a890376384508ce",
-        "at": "2026-10-24T06:31:53Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Jotcal Android: Grid overflow count pinned to the cell's bottom-right",
-        "url": "https://github.com/astondg/home-dashboard/commit/1128f39ae19e7e87bb7d151936596af1c9a50a67",
-        "at": "2026-10-24T05:48:54Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: Grid overflow count pinned to the cell's bottom-right when the cell has room",
-        "url": "https://github.com/astondg/apple-grove/commit/87ca5d5ce87969f83e3669989a91f3113a335cad",
-        "at": "2026-10-24T05:48:54Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-25T06:24:00.313Z"
+      "checkedAt": "2026-10-25T12:20:06.341Z"
     },
     {
       "name": "JotCal",
