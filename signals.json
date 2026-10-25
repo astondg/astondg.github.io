@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:16:30.133Z",
+  "generatedAt": "2026-10-25T00:43:23.923Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-24T12:19:51Z"
+        "pushedAt": "2026-10-24T18:16:31Z"
       },
       {
         "name": "next-departure",
@@ -79,46 +79,46 @@
     ],
     "recent": [
       {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(auth): cache API-key auth in Redis so pollers stop waking Neon (#1188)",
-        "url": "https://github.com/astondg/trip-planner/commit/ce7775ea89e06eb960ccf05c5dd944380eec75a0",
-        "at": "2026-10-23T02:07:52Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(health): serve cached DB status so the monitor stops holding Neon awake (#1186)",
-        "url": "https://github.com/astondg/trip-planner/commit/54ed802ed2d6e1344eb94522c9209b42245b29a0",
-        "at": "2026-10-21T21:53:22Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(auth): change password in Settings and revoke sessions on reset (#1183) (#1185)",
-        "url": "https://github.com/astondg/trip-planner/commit/f82dfa25f21c5aac5251e7ee377d93380897679b",
-        "at": "2026-10-21T20:00:29Z"
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Play listing: promo video URL etsWYpZZ7Wo (rendered from the jotcal canon)",
+        "url": "https://github.com/astondg/home-dashboard/commit/fdb8337273798a7ec3d253570b6c0b41898a95ee",
+        "at": "2026-10-25T00:10:52Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Readiness doc: merge the release branch into main after tagging",
-        "url": "https://github.com/astondg/home-dashboard/commit/e2c2a11e4617825386ee6a59dfba446c19632c44",
-        "at": "2026-10-15T01:54:55Z"
+        "message": "Grid test: measure the overflow pill from the cell's right edge, not its centre",
+        "url": "https://github.com/astondg/home-dashboard/commit/ec6f8a9d34c06aa010f09a9e3c25ab17eb768630",
+        "at": "2026-10-24T23:42:08Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Changelog: 1.4.5 Grid row fill, overflow pill and weather-picker bias",
+        "url": "https://github.com/astondg/apple-grove/commit/683e5a6a9dfe7fdbf76c3e1b156d3a2427ef59eb",
+        "at": "2026-10-24T22:25:53Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: Grid cells show every row they fit, no 5/8 nominal cap",
+        "url": "https://github.com/astondg/apple-grove/commit/6fa7fade15511a64403d6c0e6a890376384508ce",
+        "at": "2026-10-24T06:31:53Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Android 1.4.4 (versionCode 27): bump version, render changelogs",
-        "url": "https://github.com/astondg/home-dashboard/commit/36e9b506f7410d1edeba41f54e65972a80f5c9e2",
-        "at": "2026-10-13T09:51:06Z"
+        "message": "Jotcal Android: Grid overflow count pinned to the cell's bottom-right",
+        "url": "https://github.com/astondg/home-dashboard/commit/1128f39ae19e7e87bb7d151936596af1c9a50a67",
+        "at": "2026-10-24T05:48:54Z"
       },
       {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Read events in short pages so a failed read can't crash the app",
-        "url": "https://github.com/astondg/home-dashboard/commit/38da7acc3d1fa3ffb59120030a3d9551ce24994b",
-        "at": "2026-10-13T09:51:06Z"
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: Grid overflow count pinned to the cell's bottom-right when the cell has room",
+        "url": "https://github.com/astondg/apple-grove/commit/87ca5d5ce87969f83e3669989a91f3113a335cad",
+        "at": "2026-10-24T05:48:54Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-24T18:16:28.971Z"
+      "checkedAt": "2026-10-25T00:43:22.856Z"
     },
     {
       "name": "JotCal",
