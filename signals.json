@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:35:15.093Z",
+  "generatedAt": "2026-10-26T13:47:55.988Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-26T00:42:08Z"
+        "pushedAt": "2026-10-26T06:35:16Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): alert on refunds and poll Polar disputes (#1212)",
-        "url": "https://github.com/astondg/trip-planner/commit/69848c7a564a8c2327db2959d1f1a78d63ac3e84",
-        "at": "2026-10-26T02:20:22Z"
+        "message": "feat(trips): cap AeroDataBox flight lookups at 15 a day per user (#1206) (#1218)",
+        "url": "https://github.com/astondg/trip-planner/commit/7e1d3ed78d4eb0b8b6ffc9552b99b7432b15ce23",
+        "at": "2026-10-26T11:44:11Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs: add the cost model and the Trip Pass pricing decision (#1210)",
-        "url": "https://github.com/astondg/trip-planner/commit/a8afee176d11e14da3cd20be889eedb8d715cabb",
-        "at": "2026-10-26T00:36:35Z"
+        "message": "feat(growth): count basemap tile loads against CARTO's allowance (#1216)",
+        "url": "https://github.com/astondg/trip-planner/commit/230e02f1826ec2ebece93eabd64429573a2b8e70",
+        "at": "2026-10-26T09:28:10Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(display): bookend cards and review wording for the recap (#458) (#1197)",
-        "url": "https://github.com/astondg/trip-planner/commit/7d777ecc6e1a573b225c0b160f78e219d67f315d",
-        "at": "2026-10-25T21:02:56Z"
+        "message": "feat(billing): Trip Pass fallback $10, admin revenue \"net\" (#1201) (#1215)",
+        "url": "https://github.com/astondg/trip-planner/commit/a1e3d371c34c04f784c78b7c228b19249d6beb6f",
+        "at": "2026-10-26T09:27:53Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-26T06:35:14.327Z"
+      "checkedAt": "2026-10-26T13:47:54.945Z"
     },
     {
       "name": "JotCal",
