@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:16:41.468Z",
+  "generatedAt": "2026-10-26T00:42:07.459Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-25T12:20:07Z"
+        "pushedAt": "2026-10-25T18:16:42Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): credit a Trip Pass toward the annual Pro plan (#1074) (#1182)",
-        "url": "https://github.com/astondg/trip-planner/commit/40df76b355b17b1eea6bef2136355c6978d98897",
-        "at": "2026-10-25T12:11:57Z"
+        "message": "docs: add the cost model and the Trip Pass pricing decision (#1210)",
+        "url": "https://github.com/astondg/trip-planner/commit/a8afee176d11e14da3cd20be889eedb8d715cabb",
+        "at": "2026-10-26T00:36:35Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(auth): abort account deletion if cached API keys can't be revoked (#1193)",
-        "url": "https://github.com/astondg/trip-planner/commit/2937e20a6b3e9b732696ec1ba9ecfb63ff89015f",
-        "at": "2026-10-25T11:20:40Z"
+        "message": "feat(display): bookend cards and review wording for the recap (#458) (#1197)",
+        "url": "https://github.com/astondg/trip-planner/commit/7d777ecc6e1a573b225c0b160f78e219d67f315d",
+        "at": "2026-10-25T21:02:56Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(evals): --model and --budget flags for the generation eval (#1192)",
-        "url": "https://github.com/astondg/trip-planner/commit/feade5682b63488c9e8d600f4ab3b57246668c0b",
-        "at": "2026-10-25T10:36:20Z"
+        "message": "refactor(trip): make tripId required on the autocomplete chain (#1122) (#1195)",
+        "url": "https://github.com/astondg/trip-planner/commit/f2bf787b8d3fb58f2ae2eec0262675fc97f3a4e1",
+        "at": "2026-10-25T21:02:32Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-25T18:16:40.213Z"
+      "checkedAt": "2026-10-26T00:42:07.459Z"
     },
     {
       "name": "JotCal",
