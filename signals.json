@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:42:07.459Z",
+  "generatedAt": "2026-10-26T06:35:15.093Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-25T18:16:42Z"
+        "pushedAt": "2026-10-26T00:42:08Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(billing): alert on refunds and poll Polar disputes (#1212)",
+        "url": "https://github.com/astondg/trip-planner/commit/69848c7a564a8c2327db2959d1f1a78d63ac3e84",
+        "at": "2026-10-26T02:20:22Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "docs: add the cost model and the Trip Pass pricing decision (#1210)",
         "url": "https://github.com/astondg/trip-planner/commit/a8afee176d11e14da3cd20be889eedb8d715cabb",
         "at": "2026-10-26T00:36:35Z"
@@ -91,13 +98,6 @@
         "message": "feat(display): bookend cards and review wording for the recap (#458) (#1197)",
         "url": "https://github.com/astondg/trip-planner/commit/7d777ecc6e1a573b225c0b160f78e219d67f315d",
         "at": "2026-10-25T21:02:56Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "refactor(trip): make tripId required on the autocomplete chain (#1122) (#1195)",
-        "url": "https://github.com/astondg/trip-planner/commit/f2bf787b8d3fb58f2ae2eec0262675fc97f3a4e1",
-        "at": "2026-10-25T21:02:32Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-26T00:42:07.459Z"
+      "checkedAt": "2026-10-26T06:35:14.327Z"
     },
     {
       "name": "JotCal",
