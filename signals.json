@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:27:02.913Z",
+  "generatedAt": "2026-10-27T12:23:49.564Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-27T00:40:49Z"
+        "pushedAt": "2026-10-27T06:27:03Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "test(billing): pin the Trip Pass cost bounds (#1209) (#1222)",
-        "url": "https://github.com/astondg/trip-planner/commit/83d5fd5ec79e9ad5501016c193135e4e21572311",
-        "at": "2026-10-26T21:26:46Z"
+        "message": "docs(walkthrough): verify the Lisbon plan review (#1246) (#1258)",
+        "url": "https://github.com/astondg/trip-planner/commit/13fdfdd45e6b3ca3369338ca10adedf80fdc0a1f",
+        "at": "2026-10-27T12:20:04Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "chore(db): log the first query after an idle gap to find what wakes Neon (#1221)",
-        "url": "https://github.com/astondg/trip-planner/commit/6bef30653998ac2d5860df59877d92ca16c43bc7",
-        "at": "2026-10-26T20:15:16Z"
+        "message": "docs(plan): add Instaboard to the competitive analysis (#1257)",
+        "url": "https://github.com/astondg/trip-planner/commit/9688ef596ad9de4c6723d775170f51e4d705245b",
+        "at": "2026-10-27T12:12:14Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): warn before deleting a trip burns its Trip Pass (#1203) (#1220)",
-        "url": "https://github.com/astondg/trip-planner/commit/021ae40f4e2361f71e9119f81abe0ca3bfe2984a",
-        "at": "2026-10-26T20:02:17Z"
+        "message": "feat(display): tint the basemap as a vignette, not a flat wash (#1247)",
+        "url": "https://github.com/astondg/trip-planner/commit/926357490edae345e67a84951331f1c795dc454f",
+        "at": "2026-10-27T11:47:53Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-27T06:27:02.761Z"
+      "checkedAt": "2026-10-27T12:23:49.564Z"
     },
     {
       "name": "JotCal",
