@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:13:13.589Z",
+  "generatedAt": "2026-10-28T00:31:35.593Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-27T12:23:50Z"
+        "pushedAt": "2026-10-27T18:13:15Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs(walkthrough): verify the Lisbon plan review (#1246) (#1258)",
-        "url": "https://github.com/astondg/trip-planner/commit/13fdfdd45e6b3ca3369338ca10adedf80fdc0a1f",
-        "at": "2026-10-27T12:20:04Z"
+        "message": "feat(ai): generated plans carry start times and durations (#1237) (#1262)",
+        "url": "https://github.com/astondg/trip-planner/commit/f9f19dc914a4dece468b57f6665e2da7fa28713d",
+        "at": "2026-10-27T20:36:20Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs(plan): add Instaboard to the competitive analysis (#1257)",
-        "url": "https://github.com/astondg/trip-planner/commit/9688ef596ad9de4c6723d775170f51e4d705245b",
-        "at": "2026-10-27T12:12:14Z"
+        "message": "feat(evals): count harness provider calls and prefer a separate HERE key (#1261)",
+        "url": "https://github.com/astondg/trip-planner/commit/9ccc1c78de052a5cf165c658aec2f58e4eca1ca0",
+        "at": "2026-10-27T20:34:52Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(display): tint the basemap as a vignette, not a flat wash (#1247)",
-        "url": "https://github.com/astondg/trip-planner/commit/926357490edae345e67a84951331f1c795dc454f",
-        "at": "2026-10-27T11:47:53Z"
+        "message": "test(e2e): never reuse a server Playwright did not start (#1260)",
+        "url": "https://github.com/astondg/trip-planner/commit/d2d81e4f1a3bf289540af4d6b42f4d5b04cc90e5",
+        "at": "2026-10-27T20:34:00Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-27T18:13:12.231Z"
+      "checkedAt": "2026-10-28T00:31:34.558Z"
     },
     {
       "name": "JotCal",
