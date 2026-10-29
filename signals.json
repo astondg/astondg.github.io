@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:30:59.271Z",
+  "generatedAt": "2026-10-29T06:19:42.567Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-28T18:14:28Z"
+        "pushedAt": "2026-10-29T00:31:00Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "perf(itineraries): cache public itinerary pages, OG images and sitemap (#1268)",
+        "url": "https://github.com/astondg/trip-planner/commit/f812a4f164c6f7768277e1a671e647fede1338c5",
+        "at": "2026-10-29T05:45:34Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(trips): compact itinerary by default, discoverable toggle (#1241) (#1267)",
         "url": "https://github.com/astondg/trip-planner/commit/645a6cbdc60acc1338b90623eb93d74937a9f7f6",
         "at": "2026-10-28T08:57:53Z"
@@ -91,13 +98,6 @@
         "message": "feat(ai): shortlist locked-in plans and keep verification flags (#1265)",
         "url": "https://github.com/astondg/trip-planner/commit/657bd5a5e25e67acca501b9151e7b3b768e9d0b9",
         "at": "2026-10-28T06:30:55Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "test(e2e): read the expired pass's expires_at in UTC (#1264)",
-        "url": "https://github.com/astondg/trip-planner/commit/d39a846a27d011df40343b5af970be5a3bba5c9c",
-        "at": "2026-10-28T02:32:28Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-29T00:30:58.314Z"
+      "checkedAt": "2026-10-29T06:19:42.034Z"
     },
     {
       "name": "JotCal",
