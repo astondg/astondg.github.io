@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:31:54.464Z",
+  "generatedAt": "2026-10-30T06:19:46.763Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-29T18:14:42Z"
+        "pushedAt": "2026-10-30T00:31:56Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trips): show plan warnings by how actionable they are (#1253) (#1273)",
-        "url": "https://github.com/astondg/trip-planner/commit/201ec27b5c528b6f9cba799f434993e6da493b72",
-        "at": "2026-10-29T23:19:51Z"
+        "message": "fix(onboarding): keep tour step 1 off the empty-map card (#1228) (#1279)",
+        "url": "https://github.com/astondg/trip-planner/commit/611f6b25d91fbe8e5ad6cb5e6cd2ae58ce40a59f",
+        "at": "2026-10-30T06:15:22Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "chore(display): locale-aware relative days, dead-code cleanup (#1255) (#1272)",
-        "url": "https://github.com/astondg/trip-planner/commit/dcedcaa84c82c5d553bda3847dd5265f38eeffb4",
-        "at": "2026-10-29T23:11:59Z"
+        "message": "feat(ideas): make a plain-text idea card legible without AI (#1248) (#1278)",
+        "url": "https://github.com/astondg/trip-planner/commit/d1fdadb559dc351945e7a0121e518ebe16c9c06a",
+        "at": "2026-10-30T06:00:12Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(map): never render a pin twice when focusing a day (#1238) (#1271)",
-        "url": "https://github.com/astondg/trip-planner/commit/3da26ee01b883c57a9b89392d0501dfe4594112a",
-        "at": "2026-10-29T20:49:45Z"
+        "message": "chore(copy): remove em dashes from existing user-facing copy (#1275)",
+        "url": "https://github.com/astondg/trip-planner/commit/2d9025871bd95e07e97b0a2b102dc2516d1fc8e2",
+        "at": "2026-10-30T03:43:03Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-30T00:31:53.264Z"
+      "checkedAt": "2026-10-30T06:19:45.432Z"
     },
     {
       "name": "JotCal",
