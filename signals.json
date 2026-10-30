@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:14:41.507Z",
+  "generatedAt": "2026-10-30T00:31:54.464Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-29T12:18:00Z"
+        "pushedAt": "2026-10-29T18:14:42Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trips): delete items with an undo window, not a confirm (#1240) (#1266)",
-        "url": "https://github.com/astondg/trip-planner/commit/706fe6a56821d7686ab048aa96dcebd9ac7352f1",
-        "at": "2026-10-29T07:15:53Z"
+        "message": "feat(trips): show plan warnings by how actionable they are (#1253) (#1273)",
+        "url": "https://github.com/astondg/trip-planner/commit/201ec27b5c528b6f9cba799f434993e6da493b72",
+        "at": "2026-10-29T23:19:51Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "perf(itineraries): cache public itinerary pages, OG images and sitemap (#1268)",
-        "url": "https://github.com/astondg/trip-planner/commit/f812a4f164c6f7768277e1a671e647fede1338c5",
-        "at": "2026-10-29T05:45:34Z"
+        "message": "chore(display): locale-aware relative days, dead-code cleanup (#1255) (#1272)",
+        "url": "https://github.com/astondg/trip-planner/commit/dcedcaa84c82c5d553bda3847dd5265f38eeffb4",
+        "at": "2026-10-29T23:11:59Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(trips): compact itinerary by default, discoverable toggle (#1241) (#1267)",
-        "url": "https://github.com/astondg/trip-planner/commit/645a6cbdc60acc1338b90623eb93d74937a9f7f6",
-        "at": "2026-10-28T08:57:53Z"
+        "message": "fix(map): never render a pin twice when focusing a day (#1238) (#1271)",
+        "url": "https://github.com/astondg/trip-planner/commit/3da26ee01b883c57a9b89392d0501dfe4594112a",
+        "at": "2026-10-29T20:49:45Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-29T18:14:40.245Z"
+      "checkedAt": "2026-10-30T00:31:53.264Z"
     },
     {
       "name": "JotCal",
