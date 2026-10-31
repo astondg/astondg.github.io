@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T00:25:42.522Z",
+  "generatedAt": "2026-10-31T06:14:59.603Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-30T18:11:50Z"
+        "pushedAt": "2026-10-31T00:25:43Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(lint): escape the dot in the location-ping denied-message regex (#1280)",
-        "url": "https://github.com/astondg/trip-planner/commit/e9b477c406e24a2a7e78d3b023d6ae8dc952ebc4",
-        "at": "2026-10-30T07:57:39Z"
+        "message": "chore(eval): Google pin measurement and result (#1223, #1292) (#1293)",
+        "url": "https://github.com/astondg/trip-planner/commit/a982d61a9eec4f9797b03de652b177590842627f",
+        "at": "2026-10-31T05:13:41Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(onboarding): keep tour step 1 off the empty-map card (#1228) (#1279)",
-        "url": "https://github.com/astondg/trip-planner/commit/611f6b25d91fbe8e5ad6cb5e6cd2ae58ce40a59f",
-        "at": "2026-10-30T06:15:22Z"
+        "message": "test(polar-disputes): mock @/lib/env so the suite loads without database variables (#1283) (#1291)",
+        "url": "https://github.com/astondg/trip-planner/commit/e5a4997ffa25c74ea0cdf838c8d6beb76e2b3705",
+        "at": "2026-10-31T04:32:40Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(ideas): make a plain-text idea card legible without AI (#1248) (#1278)",
-        "url": "https://github.com/astondg/trip-planner/commit/d1fdadb559dc351945e7a0121e518ebe16c9c06a",
-        "at": "2026-10-30T06:00:12Z"
+        "message": "fix(eval): area answers never pass Placed, 2 km site tolerance, no consonant-swap fuzzy match (#1285) (#1290)",
+        "url": "https://github.com/astondg/trip-planner/commit/c34f933bfbdc0804ab3f22a8747c388c5ededa81",
+        "at": "2026-10-31T04:27:40Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-31T00:25:42.522Z"
+      "checkedAt": "2026-10-31T06:14:59.099Z"
     },
     {
       "name": "JotCal",
