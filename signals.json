@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:14:59.603Z",
+  "generatedAt": "2026-10-31T12:12:35.655Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-31T00:25:43Z"
+        "pushedAt": "2026-10-31T06:15:00Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "chore(eval): Google pin measurement and result (#1223, #1292) (#1293)",
-        "url": "https://github.com/astondg/trip-planner/commit/a982d61a9eec4f9797b03de652b177590842627f",
-        "at": "2026-10-31T05:13:41Z"
+        "message": "feat(share): choose when a share link expires (#1231) (#1299)",
+        "url": "https://github.com/astondg/trip-planner/commit/29013e61669180e4ac7428888562ee10c1c9c538",
+        "at": "2026-10-31T12:01:55Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "test(polar-disputes): mock @/lib/env so the suite loads without database variables (#1283) (#1291)",
-        "url": "https://github.com/astondg/trip-planner/commit/e5a4997ffa25c74ea0cdf838c8d6beb76e2b3705",
-        "at": "2026-10-31T04:32:40Z"
+        "message": "fix(display): open the day stepper on today's day for an in-progress trip (#1224) (#1298)",
+        "url": "https://github.com/astondg/trip-planner/commit/7a8b1a66b57ed56d8ec4e4e04806932b95fd4204",
+        "at": "2026-10-31T12:01:42Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(eval): area answers never pass Placed, 2 km site tolerance, no consonant-swap fuzzy match (#1285) (#1290)",
-        "url": "https://github.com/astondg/trip-planner/commit/c34f933bfbdc0804ab3f22a8747c388c5ededa81",
-        "at": "2026-10-31T04:27:40Z"
+        "message": "feat(geocode): give geocodeAddress its own Place Details Essentials budget bucket (#1292) (#1297)",
+        "url": "https://github.com/astondg/trip-planner/commit/f1e6fd544baf6a79581af436767aef89a932a127",
+        "at": "2026-10-31T09:13:33Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-31T06:14:59.099Z"
+      "checkedAt": "2026-10-31T12:12:35.655Z"
     },
     {
       "name": "JotCal",
