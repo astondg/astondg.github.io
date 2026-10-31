@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:12:35.655Z",
+  "generatedAt": "2026-10-31T18:10:46.083Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-31T06:15:00Z"
+        "pushedAt": "2026-10-31T12:12:36Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "perf(itineraries): make the public itinerary pages actually static (#1300)",
+        "url": "https://github.com/astondg/trip-planner/commit/cfeb10aae7d2a35ce4639b84ca3c483ae03f6fb8",
+        "at": "2026-10-31T12:25:56Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(share): choose when a share link expires (#1231) (#1299)",
         "url": "https://github.com/astondg/trip-planner/commit/29013e61669180e4ac7428888562ee10c1c9c538",
         "at": "2026-10-31T12:01:55Z"
@@ -91,13 +98,6 @@
         "message": "fix(display): open the day stepper on today's day for an in-progress trip (#1224) (#1298)",
         "url": "https://github.com/astondg/trip-planner/commit/7a8b1a66b57ed56d8ec4e4e04806932b95fd4204",
         "at": "2026-10-31T12:01:42Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(geocode): give geocodeAddress its own Place Details Essentials budget bucket (#1292) (#1297)",
-        "url": "https://github.com/astondg/trip-planner/commit/f1e6fd544baf6a79581af436767aef89a932a127",
-        "at": "2026-10-31T09:13:33Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-10-31T12:12:35.655Z"
+      "checkedAt": "2026-10-31T18:10:46.056Z"
     },
     {
       "name": "JotCal",
