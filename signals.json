@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:32:15.770Z",
+  "generatedAt": "2026-11-01T06:15:59.110Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-10-31T18:10:47Z"
+        "pushedAt": "2026-11-01T00:32:16Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(ai): Pro-only Google for draft pins and verify lookups (#1294) (#1302)",
-        "url": "https://github.com/astondg/trip-planner/commit/83e2da14f707db80484f20acf5570d27edf6796b",
-        "at": "2026-10-31T21:09:42Z"
+        "message": "docs: correct the Taberna dos Ferreiros distance in the Lisbon patch (#1304) (#1313)",
+        "url": "https://github.com/astondg/trip-planner/commit/9cd26685ff31dad49f4727457d3d4c4ce80d4189",
+        "at": "2026-11-01T06:01:31Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "chore(seeds): loginable user, Kyoto photos, dateless trip (#1254) (#1301)",
-        "url": "https://github.com/astondg/trip-planner/commit/6365d3efa42eb38ed98a09d0d3a5c9aacf57bff4",
-        "at": "2026-10-31T21:08:50Z"
+        "message": "fix(itineraries): a patch leaves untouched legs alone, whatever origin they store (#1306) (#1311)",
+        "url": "https://github.com/astondg/trip-planner/commit/de467df4ed66728ae08bf1b8bc04da8857e3156e",
+        "at": "2026-11-01T05:03:19Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "perf(itineraries): make the public itinerary pages actually static (#1300)",
-        "url": "https://github.com/astondg/trip-planner/commit/cfeb10aae7d2a35ce4639b84ca3c483ae03f6fb8",
-        "at": "2026-10-31T12:25:56Z"
+        "message": "docs: add the Lisbon and Kyoto itinerary correction patches (#1304) (#1310)",
+        "url": "https://github.com/astondg/trip-planner/commit/c334d5cd54b01fc680224566e8fcac3bb1dca2d9",
+        "at": "2026-11-01T05:03:06Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-01T00:32:15.237Z"
+      "checkedAt": "2026-11-01T06:15:59.110Z"
     },
     {
       "name": "JotCal",
