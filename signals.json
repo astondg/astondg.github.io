@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:15:59.110Z",
+  "generatedAt": "2026-11-01T12:12:44.167Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-01T00:32:16Z"
+        "pushedAt": "2026-11-01T06:16:00Z"
       },
       {
         "name": "next-departure",
@@ -81,44 +81,44 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs: correct the Taberna dos Ferreiros distance in the Lisbon patch (#1304) (#1313)",
-        "url": "https://github.com/astondg/trip-planner/commit/9cd26685ff31dad49f4727457d3d4c4ce80d4189",
-        "at": "2026-11-01T06:01:31Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(itineraries): a patch leaves untouched legs alone, whatever origin they store (#1306) (#1311)",
-        "url": "https://github.com/astondg/trip-planner/commit/de467df4ed66728ae08bf1b8bc04da8857e3156e",
-        "at": "2026-11-01T05:03:19Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "docs: add the Lisbon and Kyoto itinerary correction patches (#1304) (#1310)",
-        "url": "https://github.com/astondg/trip-planner/commit/c334d5cd54b01fc680224566e8fcac3bb1dca2d9",
-        "at": "2026-11-01T05:03:06Z"
+        "message": "fix(auth): a breached password is refused on the server too (#1184) (#1317)",
+        "url": "https://github.com/astondg/trip-planner/commit/ce646f24349d1da7b28b0a1ca9227cb8ec4a604b",
+        "at": "2026-11-01T10:42:16Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Play listing: promo video URL etsWYpZZ7Wo (rendered from the jotcal canon)",
-        "url": "https://github.com/astondg/home-dashboard/commit/fdb8337273798a7ec3d253570b6c0b41898a95ee",
-        "at": "2026-10-25T00:10:52Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Grid test: measure the overflow pill from the cell's right edge, not its centre",
-        "url": "https://github.com/astondg/home-dashboard/commit/ec6f8a9d34c06aa010f09a9e3c25ab17eb768630",
-        "at": "2026-10-24T23:42:08Z"
+        "message": "Android 1.4.6 (versionCode 29): version bump and changelogs",
+        "url": "https://github.com/astondg/home-dashboard/commit/2c4d8619ecdace55e3ecde731c324e1a37fe7488",
+        "at": "2026-11-01T10:22:39Z"
       },
       {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
-        "message": "Changelog: 1.4.5 Grid row fill, overflow pill and weather-picker bias",
-        "url": "https://github.com/astondg/apple-grove/commit/683e5a6a9dfe7fdbf76c3e1b156d3a2427ef59eb",
-        "at": "2026-10-24T22:25:53Z"
+        "message": "Jotcal 1.4.6: release notes",
+        "url": "https://github.com/astondg/apple-grove/commit/cd10e33ebb06f1f3e97b9b623cc75a584d45ab3b",
+        "at": "2026-11-01T10:22:39Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "docs: Tokyo hours check patch (#1304) (#1314)",
+        "url": "https://github.com/astondg/trip-planner/commit/2af35fcb58142b00916613433b414491db3fa287",
+        "at": "2026-11-01T10:06:50Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(display): viewers see photos, opt-in photos on public links (#1316)",
+        "url": "https://github.com/astondg/trip-planner/commit/bd65c4dbb6974b8225201554c3ae4f750c6714a0",
+        "at": "2026-11-01T09:01:46Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: sync Localizable.xcstrings with Xcode's extraction",
+        "url": "https://github.com/astondg/apple-grove/commit/735f33707f17e619e6da9e4695f365fe3ac73141",
+        "at": "2026-10-29T06:43:54Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-01T06:15:59.110Z"
+      "checkedAt": "2026-11-01T12:12:44.123Z"
     },
     {
       "name": "JotCal",
