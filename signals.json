@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:23:00.995Z",
+  "generatedAt": "2026-11-02T12:15:37.344Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-02T00:28:12Z"
+        "pushedAt": "2026-11-02T06:23:02Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "docs(eval): Seoul recheck on the Free chain, Discover vs Geocode finding (#1287, #1325)",
+        "url": "https://github.com/astondg/trip-planner/commit/ce7d4a6368c8660eb37b71e908a6d370ecda2c93",
+        "at": "2026-11-02T10:43:11Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(alerts): route operational alerts through Sentry (#1320) (#1324)",
         "url": "https://github.com/astondg/trip-planner/commit/35cb80ca38e2e4ca4e1ad0eabbbc29f3fd6b33c4",
         "at": "2026-11-02T06:01:42Z"
@@ -91,13 +98,6 @@
         "message": "feat(billing): a pending Pro checkout survives a reload (#1318) (#1323)",
         "url": "https://github.com/astondg/trip-planner/commit/1ac67987750c2f89c3a6e5a554fac2e1b9d2e0f8",
         "at": "2026-11-02T05:50:18Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(pricing): style the Trip Pass card like Free and Pro (#1322)",
-        "url": "https://github.com/astondg/trip-planner/commit/b6816c595bb3392c024615b518945f8948a87ed3",
-        "at": "2026-11-02T04:48:04Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-02T06:23:00.943Z"
+      "checkedAt": "2026-11-02T12:15:35.947Z"
     },
     {
       "name": "JotCal",
