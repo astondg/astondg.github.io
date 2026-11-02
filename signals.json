@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T18:10:33.907Z",
+  "generatedAt": "2026-11-02T00:28:11.541Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-01T12:12:45Z"
+        "pushedAt": "2026-11-01T18:10:34Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,27 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "docs(billing): track the Polar access token scopes the app needs",
+        "url": "https://github.com/astondg/trip-planner/commit/6f563cb8544e6b7f35bccf7c3b5265d6beff2a9f",
+        "at": "2026-11-01T22:26:10Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(billing): move Polar to SDK 1.0 and API 2026-10 (#929) (#1315)",
+        "url": "https://github.com/astondg/trip-planner/commit/081c479fb6652f1bb70b648f5aabf7fefc3edb2b",
+        "at": "2026-11-01T22:01:14Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Readiness doc: fast-forward main before tagging, push main and tag together",
+        "url": "https://github.com/astondg/home-dashboard/commit/a3ea754a63c530856281ff6f00e5399e43945a22",
+        "at": "2026-11-01T21:07:51Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(auth): a breached password is refused on the server too (#1184) (#1317)",
         "url": "https://github.com/astondg/trip-planner/commit/ce646f24349d1da7b28b0a1ca9227cb8ec4a604b",
         "at": "2026-11-01T10:42:16Z"
@@ -98,27 +119,6 @@
         "message": "Jotcal 1.4.6: release notes",
         "url": "https://github.com/astondg/apple-grove/commit/cd10e33ebb06f1f3e97b9b623cc75a584d45ab3b",
         "at": "2026-11-01T10:22:39Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "docs: Tokyo hours check patch (#1304) (#1314)",
-        "url": "https://github.com/astondg/trip-planner/commit/2af35fcb58142b00916613433b414491db3fa287",
-        "at": "2026-11-01T10:06:50Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(display): viewers see photos, opt-in photos on public links (#1316)",
-        "url": "https://github.com/astondg/trip-planner/commit/bd65c4dbb6974b8225201554c3ae4f750c6714a0",
-        "at": "2026-11-01T09:01:46Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: sync Localizable.xcstrings with Xcode's extraction",
-        "url": "https://github.com/astondg/apple-grove/commit/735f33707f17e619e6da9e4695f365fe3ac73141",
-        "at": "2026-10-29T06:43:54Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-01T18:10:33.905Z"
+      "checkedAt": "2026-11-02T00:28:10.566Z"
     },
     {
       "name": "JotCal",
