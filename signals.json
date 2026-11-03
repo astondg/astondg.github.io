@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:17:00.799Z",
+  "generatedAt": "2026-11-03T12:14:27.919Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-03T00:25:54Z"
+        "pushedAt": "2026-11-03T06:17:01Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(email): send transactional templates from the admin UI (#373) (#1335)",
+        "url": "https://github.com/astondg/trip-planner/commit/44e45300c46efc2470059d012bad4b1093d8f494",
+        "at": "2026-11-03T09:57:20Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(display): photos in the mobile recap (#1331) (#1333)",
         "url": "https://github.com/astondg/trip-planner/commit/d3ab8d43b348e3234a2efc2dacd4d0781f6f6409",
         "at": "2026-11-03T06:03:06Z"
@@ -91,13 +98,6 @@
         "message": "feat(mobile): edit a draft plan by hand, no AI turn (#589) (#1332)",
         "url": "https://github.com/astondg/trip-planner/commit/fd34ea68f84c990a96a5eb113f704159700bba0b",
         "at": "2026-11-03T03:18:33Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(cron): let Vercel Cron past the proxy, and 400 a malformed MCP register body (#1329)",
-        "url": "https://github.com/astondg/trip-planner/commit/4a8402da5018d502bc8d50b0a1d83b60ea3e0d67",
-        "at": "2026-11-02T22:07:49Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-03T06:16:59.575Z"
+      "checkedAt": "2026-11-03T12:14:26.645Z"
     },
     {
       "name": "JotCal",
