@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:12:27.559Z",
+  "generatedAt": "2026-11-03T00:25:53.342Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-02T12:15:38Z"
+        "pushedAt": "2026-11-02T18:12:28Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs(eval): Seoul recheck on the Free chain, Discover vs Geocode finding (#1287, #1325)",
-        "url": "https://github.com/astondg/trip-planner/commit/ce7d4a6368c8660eb37b71e908a6d370ecda2c93",
-        "at": "2026-11-02T10:43:11Z"
+        "message": "fix(cron): let Vercel Cron past the proxy, and 400 a malformed MCP register body (#1329)",
+        "url": "https://github.com/astondg/trip-planner/commit/4a8402da5018d502bc8d50b0a1d83b60ea3e0d67",
+        "at": "2026-11-02T22:07:49Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(alerts): route operational alerts through Sentry (#1320) (#1324)",
-        "url": "https://github.com/astondg/trip-planner/commit/35cb80ca38e2e4ca4e1ad0eabbbc29f3fd6b33c4",
-        "at": "2026-11-02T06:01:42Z"
+        "message": "feat(mcp): admin_traffic reports page views over MCP (#1303) (#1328)",
+        "url": "https://github.com/astondg/trip-planner/commit/786667fea905c15dbbef3bbb35e7df53454b4004",
+        "at": "2026-11-02T21:25:52Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(billing): a pending Pro checkout survives a reload (#1318) (#1323)",
-        "url": "https://github.com/astondg/trip-planner/commit/1ac67987750c2f89c3a6e5a554fac2e1b9d2e0f8",
-        "at": "2026-11-02T05:50:18Z"
+        "message": "feat(email): one-off transactional sends, de-duped and audited (#372) (#1327)",
+        "url": "https://github.com/astondg/trip-planner/commit/b78699879b876aa8c41fd35c7a93bd530d352980",
+        "at": "2026-11-02T21:25:02Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-02T18:12:26.545Z"
+      "checkedAt": "2026-11-03T00:25:53.342Z"
     },
     {
       "name": "JotCal",
