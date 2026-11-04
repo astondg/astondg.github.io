@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:17:11.596Z",
+  "generatedAt": "2026-11-04T12:14:41.473Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-04T00:26:04Z"
+        "pushedAt": "2026-11-04T06:17:12Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(transport): change an existing item's transport mode (#810) (#1342)",
-        "url": "https://github.com/astondg/trip-planner/commit/ca8822503616dd60497167e90c80b68508bca86e",
-        "at": "2026-11-04T02:24:52Z"
+        "message": "fix(geocode): drop venues from Nominatim, rank HERE cities first (#1337) (#1348)",
+        "url": "https://github.com/astondg/trip-planner/commit/060a4241844cbafba364a42e7c91d4f4a7fa0550",
+        "at": "2026-11-04T08:47:51Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(e2e): scoped wrapper runs named UX flows and fails on specs that run nothing (#1277) (#1336)",
-        "url": "https://github.com/astondg/trip-planner/commit/2054808cb49e8f84b945f1ba6f813743a58c590c",
-        "at": "2026-11-03T13:09:14Z"
+        "message": "fix(trips): require a chosen destination before creating a trip (#1338) (#1347)",
+        "url": "https://github.com/astondg/trip-planner/commit/d6a8696c01c85b35bad36aed4dc80e8a06b42105",
+        "at": "2026-11-04T06:42:06Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(email): send transactional templates from the admin UI (#373) (#1335)",
-        "url": "https://github.com/astondg/trip-planner/commit/44e45300c46efc2470059d012bad4b1093d8f494",
-        "at": "2026-11-03T09:57:20Z"
+        "message": "fix(ai): skip OTHER, prioritise and reuse verification lookups (#1339) (#1346)",
+        "url": "https://github.com/astondg/trip-planner/commit/d08c2919debfc4002e5e9a566844c9ecbaf5ed52",
+        "at": "2026-11-04T06:41:47Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-04T06:17:09.539Z"
+      "checkedAt": "2026-11-04T12:14:40.764Z"
     },
     {
       "name": "JotCal",
