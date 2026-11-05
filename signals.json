@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:17:02.525Z",
+  "generatedAt": "2026-11-05T12:14:52.484Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-05T00:26:40Z"
+        "pushedAt": "2026-11-05T06:17:03Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(display): each day's weather follows that day's city (#1344) (#1353)",
+        "url": "https://github.com/astondg/trip-planner/commit/df57afd653129d2610efd4bbe385cadd4bf282e0",
+        "at": "2026-11-05T10:36:34Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(map): highlight the cluster bubble holding a hovered item (#1350) (#1352)",
+        "url": "https://github.com/astondg/trip-planner/commit/bb0fe0cc2c97df05d9c51bcf2c173932d8c52004",
+        "at": "2026-11-05T09:48:12Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "style(e2e): format the #1337 destination-search specs (#1349)",
         "url": "https://github.com/astondg/trip-planner/commit/07d4b438628a88bfac4ece7c1b94a40a56027649",
         "at": "2026-11-05T03:05:43Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(geocode): drop venues from Nominatim, rank HERE cities first (#1337) (#1348)",
-        "url": "https://github.com/astondg/trip-planner/commit/060a4241844cbafba364a42e7c91d4f4a7fa0550",
-        "at": "2026-11-04T08:47:51Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(trips): require a chosen destination before creating a trip (#1338) (#1347)",
-        "url": "https://github.com/astondg/trip-planner/commit/d6a8696c01c85b35bad36aed4dc80e8a06b42105",
-        "at": "2026-11-04T06:42:06Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-05T06:17:00.983Z"
+      "checkedAt": "2026-11-05T12:14:51.404Z"
     },
     {
       "name": "JotCal",
