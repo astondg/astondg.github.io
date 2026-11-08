@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:28:37.393Z",
+  "generatedAt": "2026-11-08T06:15:45.947Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-07T18:10:30Z"
+        "pushedAt": "2026-11-08T00:28:38Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "docs(ai): provider budget policy and the verification research (#1341, #1023, #1356-#1360)",
+        "url": "https://github.com/astondg/trip-planner/commit/fccb9cb32b3425c52c6d61b2b66777d36fb8dd27",
+        "at": "2026-11-08T05:19:01Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(map): hover intent and click-to-pan for itinerary rows (#1351) (#1355)",
+        "url": "https://github.com/astondg/trip-planner/commit/53b2eb3b5db906869c932f158eb5a20d08345553",
+        "at": "2026-11-08T02:18:26Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "chore(e2e): warn before known-failures entries expire (#1235) (#1354)",
         "url": "https://github.com/astondg/trip-planner/commit/e73627457ffffd331d5d2e298763f3fce01b3e61",
         "at": "2026-11-07T22:27:27Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(display): each day's weather follows that day's city (#1344) (#1353)",
-        "url": "https://github.com/astondg/trip-planner/commit/df57afd653129d2610efd4bbe385cadd4bf282e0",
-        "at": "2026-11-05T10:36:34Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(map): highlight the cluster bubble holding a hovered item (#1350) (#1352)",
-        "url": "https://github.com/astondg/trip-planner/commit/bb0fe0cc2c97df05d9c51bcf2c173932d8c52004",
-        "at": "2026-11-05T09:48:12Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-08T00:28:36.403Z"
+      "checkedAt": "2026-11-08T06:15:45.547Z"
     },
     {
       "name": "JotCal",
