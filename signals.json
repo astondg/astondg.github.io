@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:10:29.088Z",
+  "generatedAt": "2026-11-08T00:28:37.393Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-07T12:12:35Z"
+        "pushedAt": "2026-11-07T18:10:30Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "chore(e2e): warn before known-failures entries expire (#1235) (#1354)",
+        "url": "https://github.com/astondg/trip-planner/commit/e73627457ffffd331d5d2e298763f3fce01b3e61",
+        "at": "2026-11-07T22:27:27Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(display): each day's weather follows that day's city (#1344) (#1353)",
         "url": "https://github.com/astondg/trip-planner/commit/df57afd653129d2610efd4bbe385cadd4bf282e0",
         "at": "2026-11-05T10:36:34Z"
@@ -91,13 +98,6 @@
         "message": "feat(map): highlight the cluster bubble holding a hovered item (#1350) (#1352)",
         "url": "https://github.com/astondg/trip-planner/commit/bb0fe0cc2c97df05d9c51bcf2c173932d8c52004",
         "at": "2026-11-05T09:48:12Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "style(e2e): format the #1337 destination-search specs (#1349)",
-        "url": "https://github.com/astondg/trip-planner/commit/07d4b438628a88bfac4ece7c1b94a40a56027649",
-        "at": "2026-11-05T03:05:43Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-07T18:10:27.902Z"
+      "checkedAt": "2026-11-08T00:28:36.403Z"
     },
     {
       "name": "JotCal",
