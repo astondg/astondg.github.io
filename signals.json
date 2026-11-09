@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:28:52.555Z",
+  "generatedAt": "2026-11-09T06:23:12.800Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-08T18:10:37Z"
+        "pushedAt": "2026-11-09T00:28:53Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "fix(ai): a venue pin near the model's point confirms the place (#1356) (#1364)",
+        "url": "https://github.com/astondg/trip-planner/commit/44de5c99e6dac1a017973c9964b4d3522a75be1a",
+        "at": "2026-11-09T01:39:24Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(ai): rolling plan caps and a Pro Google-pin allowance (#1358) (#1362)",
         "url": "https://github.com/astondg/trip-planner/commit/11e491cccd28d3c43b17bf40f40d995296d10e82",
         "at": "2026-11-08T11:28:26Z"
@@ -91,13 +98,6 @@
         "message": "docs(ai): budget policy points at the split budget issues (#1359, #1361)",
         "url": "https://github.com/astondg/trip-planner/commit/cb9319d06e4ba4111204fd4569183885f7e61cd8",
         "at": "2026-11-08T07:26:12Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "docs(ai): provider budget policy and the verification research (#1341, #1023, #1356-#1360)",
-        "url": "https://github.com/astondg/trip-planner/commit/fccb9cb32b3425c52c6d61b2b66777d36fb8dd27",
-        "at": "2026-11-08T05:19:01Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-09T00:28:51.705Z"
+      "checkedAt": "2026-11-09T06:23:11.520Z"
     },
     {
       "name": "JotCal",
