@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T00:25:19.735Z",
+  "generatedAt": "2026-11-10T06:16:16.809Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-09T12:14:56Z"
+        "pushedAt": "2026-11-10T00:25:20Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(admin): cost the HERE budget's month end, with FX and raises (#1374)",
+        "url": "https://github.com/astondg/trip-planner/commit/1f679311396f125e664cc34193593ad0920d5bc0",
+        "at": "2026-11-10T06:01:49Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(budget): gate assist's Discover share cumulatively (#1372) (#1373)",
         "url": "https://github.com/astondg/trip-planner/commit/4403ee905ebd665be0bcd556890cb5e0c567e2d5",
         "at": "2026-11-09T23:32:15Z"
@@ -91,13 +98,6 @@
         "message": "fix(geocode): require payer on every HERE bucket call (#1368) (#1370)",
         "url": "https://github.com/astondg/trip-planner/commit/bc100b86d893bb2f0a11f0e9d65550b8e2375fc6",
         "at": "2026-11-09T21:50:01Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(budget): roll HERE caps forward with a 3-day lookahead (#1367) (#1371)",
-        "url": "https://github.com/astondg/trip-planner/commit/fcb58ed1b3eb9c80d7b778f3464f36263e7183b0",
-        "at": "2026-11-09T21:48:57Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-10T00:25:18.968Z"
+      "checkedAt": "2026-11-10T06:16:15.915Z"
     },
     {
       "name": "JotCal",
