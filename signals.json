@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:14:55.132Z",
+  "generatedAt": "2026-11-10T00:25:19.735Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-09T06:23:13Z"
+        "pushedAt": "2026-11-09T12:14:56Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(admin): control the HERE provider budget in the app, with Free and paid ceilings (#1366)",
-        "url": "https://github.com/astondg/trip-planner/commit/214e644104a291b7020463354d7f79f2c594cc94",
-        "at": "2026-11-09T11:18:44Z"
+        "message": "fix(budget): gate assist's Discover share cumulatively (#1372) (#1373)",
+        "url": "https://github.com/astondg/trip-planner/commit/4403ee905ebd665be0bcd556890cb5e0c567e2d5",
+        "at": "2026-11-09T23:32:15Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(mobile): stop iOS pinch-zoom on the trip and share pages (#1334) (#1365)",
-        "url": "https://github.com/astondg/trip-planner/commit/69f0fceeab0741b86b871d0026350c2ee2991797",
-        "at": "2026-11-09T09:18:52Z"
+        "message": "fix(geocode): require payer on every HERE bucket call (#1368) (#1370)",
+        "url": "https://github.com/astondg/trip-planner/commit/bc100b86d893bb2f0a11f0e9d65550b8e2375fc6",
+        "at": "2026-11-09T21:50:01Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(ai): check Sundays first, raise caps, add Check hours (#1357) (#1363)",
-        "url": "https://github.com/astondg/trip-planner/commit/1e13326e45ec0d219a64b2f3eee5097fbf0f73fa",
-        "at": "2026-11-09T09:18:21Z"
+        "message": "feat(budget): roll HERE caps forward with a 3-day lookahead (#1367) (#1371)",
+        "url": "https://github.com/astondg/trip-planner/commit/fcb58ed1b3eb9c80d7b778f3464f36263e7183b0",
+        "at": "2026-11-09T21:48:57Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-09T12:14:53.736Z"
+      "checkedAt": "2026-11-10T00:25:18.968Z"
     },
     {
       "name": "JotCal",
