@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:16:39.922Z",
+  "generatedAt": "2026-11-11T12:15:03.426Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-11T00:26:20Z"
+        "pushedAt": "2026-11-11T06:16:40Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(display): browse a trip's photos from Display (#1250) (#1391)",
+        "url": "https://github.com/astondg/trip-planner/commit/41fc41ee697dd16d488337004167d206a794c9d5",
+        "at": "2026-11-11T09:51:36Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(trips): tighter auto-route limits for mobility needs (#1376) (#1382)",
         "url": "https://github.com/astondg/trip-planner/commit/e15a3d2631eafafd932da8387e5cce6db5474542",
         "at": "2026-11-11T05:13:28Z"
@@ -91,13 +98,6 @@
         "message": "style: format the #1340 spike files so format:check passes on main",
         "url": "https://github.com/astondg/trip-planner/commit/bde3a6f0ce45388a64ba82f9ea66b3e5a0d0f7b5",
         "at": "2026-11-11T02:58:15Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): route lines at lock-in, one routing call per leg (#1375) (#1377)",
-        "url": "https://github.com/astondg/trip-planner/commit/4983f7966b139db9b710bf218676a79e5390ca15",
-        "at": "2026-11-10T23:14:29Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-11T06:16:38.097Z"
+      "checkedAt": "2026-11-11T12:15:01.784Z"
     },
     {
       "name": "JotCal",
