@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:10:27.886Z",
+  "generatedAt": "2026-11-11T00:26:19.308Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-10T12:14:09Z"
+        "pushedAt": "2026-11-10T18:10:29Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "docs: spike findings for route lines at lock-in (#1340)",
-        "url": "https://github.com/astondg/trip-planner/commit/f29ffae042700c73914d929c8358d512a3963179",
-        "at": "2026-11-10T12:57:24Z"
+        "message": "feat(trips): route lines at lock-in, one routing call per leg (#1375) (#1377)",
+        "url": "https://github.com/astondg/trip-planner/commit/4983f7966b139db9b710bf218676a79e5390ca15",
+        "at": "2026-11-10T23:14:29Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "feat(admin): cost the HERE budget's month end, with FX and raises (#1374)",
-        "url": "https://github.com/astondg/trip-planner/commit/1f679311396f125e664cc34193593ad0920d5bc0",
-        "at": "2026-11-10T06:01:49Z"
+        "message": "chore(ai): move the #1341 verification research scripts into main (#1380)",
+        "url": "https://github.com/astondg/trip-planner/commit/1303eda9f6753e6077cd9b0cf7d7b885c1fc8d72",
+        "at": "2026-11-10T21:14:13Z"
       },
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
-        "message": "fix(budget): gate assist's Discover share cumulatively (#1372) (#1373)",
-        "url": "https://github.com/astondg/trip-planner/commit/4403ee905ebd665be0bcd556890cb5e0c567e2d5",
-        "at": "2026-11-09T23:32:15Z"
+        "message": "chore: keep the #1340 spike scripts, fixtures and recorded HERE responses",
+        "url": "https://github.com/astondg/trip-planner/commit/ceef6080b2dd3279ff2e9d88b3c184ec1a0be039",
+        "at": "2026-11-10T20:51:39Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-10T18:10:25.974Z"
+      "checkedAt": "2026-11-11T00:26:19.307Z"
     },
     {
       "name": "JotCal",
