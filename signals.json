@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:10:23.978Z",
+  "generatedAt": "2026-11-12T00:26:58.088Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-11T12:15:04Z"
+        "pushedAt": "2026-11-11T18:10:25Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(mcp): MCP_WRITES_DISABLED kill switch for write tools (#1383) (#1394)",
+        "url": "https://github.com/astondg/trip-planner/commit/998928b1e2588bd56b28a2f78956bf552887c7a3",
+        "at": "2026-11-11T22:07:32Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "feat(support): generate the knowledge base from constants (#1384) (#1392)",
+        "url": "https://github.com/astondg/trip-planner/commit/09b147c22d90e4907d6c5c6038dea9b9aa54bc27",
+        "at": "2026-11-11T21:05:18Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(display): browse a trip's photos from Display (#1250) (#1391)",
         "url": "https://github.com/astondg/trip-planner/commit/41fc41ee697dd16d488337004167d206a794c9d5",
         "at": "2026-11-11T09:51:36Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(trips): tighter auto-route limits for mobility needs (#1376) (#1382)",
-        "url": "https://github.com/astondg/trip-planner/commit/e15a3d2631eafafd932da8387e5cce6db5474542",
-        "at": "2026-11-11T05:13:28Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "style: format the #1340 spike files so format:check passes on main",
-        "url": "https://github.com/astondg/trip-planner/commit/bde3a6f0ce45388a64ba82f9ea66b3e5a0d0f7b5",
-        "at": "2026-11-11T02:58:15Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-11T18:10:22.236Z"
+      "checkedAt": "2026-11-12T00:26:56.954Z"
     },
     {
       "name": "JotCal",
