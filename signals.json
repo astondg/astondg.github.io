@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:26:58.088Z",
+  "generatedAt": "2026-11-12T06:17:08.252Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-11T18:10:25Z"
+        "pushedAt": "2026-11-12T00:26:59Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "chore(e2e): point the keyless providers at a closed port (#1393) (#1395)",
+        "url": "https://github.com/astondg/trip-planner/commit/925e9342362a026acb5728719b30aed7930ec4ce",
+        "at": "2026-11-12T04:27:12Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "feat(mcp): MCP_WRITES_DISABLED kill switch for write tools (#1383) (#1394)",
         "url": "https://github.com/astondg/trip-planner/commit/998928b1e2588bd56b28a2f78956bf552887c7a3",
         "at": "2026-11-11T22:07:32Z"
@@ -91,13 +98,6 @@
         "message": "feat(support): generate the knowledge base from constants (#1384) (#1392)",
         "url": "https://github.com/astondg/trip-planner/commit/09b147c22d90e4907d6c5c6038dea9b9aa54bc27",
         "at": "2026-11-11T21:05:18Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(display): browse a trip's photos from Display (#1250) (#1391)",
-        "url": "https://github.com/astondg/trip-planner/commit/41fc41ee697dd16d488337004167d206a794c9d5",
-        "at": "2026-11-11T09:51:36Z"
       },
       {
         "repo": "astondg/home-dashboard",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-12T00:26:56.954Z"
+      "checkedAt": "2026-11-12T06:17:06.972Z"
     },
     {
       "name": "JotCal",
