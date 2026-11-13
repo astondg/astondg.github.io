@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:26:30.054Z",
+  "generatedAt": "2026-11-13T06:16:35.055Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-12T18:11:46Z"
+        "pushedAt": "2026-11-13T00:26:31Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: measure the window shape without the on-screen keyboard",
+        "url": "https://github.com/astondg/apple-grove/commit/05d4248fce402185ab85701e152fccb94bd4e46e",
+        "at": "2026-11-13T06:10:14Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal 1.4.7: release notes",
+        "url": "https://github.com/astondg/apple-grove/commit/db92439aa2099aa514968000f57de9a8d19c150f",
+        "at": "2026-11-13T03:50:30Z"
+      },
+      {
+        "repo": "astondg/apple-grove",
+        "label": "TribeRide",
+        "message": "Jotcal: Quick Add no longer autofocuses on iPad, so the Pencil can write in it",
+        "url": "https://github.com/astondg/apple-grove/commit/fb76fc603f483b63cce279a7dd865ee3e27c238b",
+        "at": "2026-11-13T03:29:41Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(ai): check day feasibility for Assist suggestions and moves (#1398)",
@@ -98,27 +119,6 @@
         "message": "fix(ai): tier-gate and meter assist's Google place lookups (#1388) (#1397)",
         "url": "https://github.com/astondg/trip-planner/commit/d2a8f31a1ae3a57ae4751158364ea9a7914d71f1",
         "at": "2026-11-12T10:49:44Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Readiness doc: fast-forward main before tagging, push main and tag together",
-        "url": "https://github.com/astondg/home-dashboard/commit/a3ea754a63c530856281ff6f00e5399e43945a22",
-        "at": "2026-11-01T21:07:51Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android 1.4.6 (versionCode 29): version bump and changelogs",
-        "url": "https://github.com/astondg/home-dashboard/commit/2c4d8619ecdace55e3ecde731c324e1a37fe7488",
-        "at": "2026-11-01T10:22:39Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal 1.4.6: release notes",
-        "url": "https://github.com/astondg/apple-grove/commit/cd10e33ebb06f1f3e97b9b623cc75a584d45ab3b",
-        "at": "2026-11-01T10:22:39Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-13T00:26:28.769Z"
+      "checkedAt": "2026-11-13T06:16:33.742Z"
     },
     {
       "name": "JotCal",
