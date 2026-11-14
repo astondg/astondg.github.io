@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:15:18.701Z",
+  "generatedAt": "2026-11-14T12:12:26.096Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-14T00:25:37Z"
+        "pushedAt": "2026-11-14T06:15:19Z"
       },
       {
         "name": "next-departure",
@@ -81,23 +81,23 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Android 1.4.7 (versionCode 30): version bump and changelogs",
-        "url": "https://github.com/astondg/home-dashboard/commit/0e6e72c547b6a369b8bb93711a3d15436cb35094",
-        "at": "2026-11-14T00:04:43Z"
+        "message": "Android 1.4.8 (versionCode 31): version bump and changelogs",
+        "url": "https://github.com/astondg/home-dashboard/commit/ff4a1d7054dad7c34d162b1734f64ffed1087913",
+        "at": "2026-11-14T06:52:57Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Crash handling: contain recognizer throws, record how the last process died",
-        "url": "https://github.com/astondg/home-dashboard/commit/0b9822ce5395aa223035bb03d0b12db7409c4d2d",
-        "at": "2026-11-14T00:04:39Z"
+        "message": "Settings: list Outlook and CalDAV calendars so users can choose which to show",
+        "url": "https://github.com/astondg/home-dashboard/commit/8e5d981a51b8e1d7b4ba5b5c5d2ab9778a3499d8",
+        "at": "2026-11-14T06:52:57Z"
       },
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "R8: stop folding away ML Kit's Random guard; gate it off the built artifact",
-        "url": "https://github.com/astondg/home-dashboard/commit/35b195b9b37c2e4d836e64fcba1407d5c811c2dc",
-        "at": "2026-11-14T00:04:32Z"
+        "message": "Outlook sign-in: stop reporting a successful sign-in as \"connection error\"",
+        "url": "https://github.com/astondg/home-dashboard/commit/bf661bb34e824d6fc9a26f61d5a0808fd9072169",
+        "at": "2026-11-14T06:49:32Z"
       },
       {
         "repo": "astondg/apple-grove",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-14T06:15:17.526Z"
+      "checkedAt": "2026-11-14T12:12:24.826Z"
     },
     {
       "name": "JotCal",
