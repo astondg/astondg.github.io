@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:25:36.554Z",
+  "generatedAt": "2026-11-14T06:15:18.701Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-13T18:11:10Z"
+        "pushedAt": "2026-11-14T00:25:37Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,27 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Android 1.4.7 (versionCode 30): version bump and changelogs",
+        "url": "https://github.com/astondg/home-dashboard/commit/0e6e72c547b6a369b8bb93711a3d15436cb35094",
+        "at": "2026-11-14T00:04:43Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Crash handling: contain recognizer throws, record how the last process died",
+        "url": "https://github.com/astondg/home-dashboard/commit/0b9822ce5395aa223035bb03d0b12db7409c4d2d",
+        "at": "2026-11-14T00:04:39Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "R8: stop folding away ML Kit's Random guard; gate it off the built artifact",
+        "url": "https://github.com/astondg/home-dashboard/commit/35b195b9b37c2e4d836e64fcba1407d5c811c2dc",
+        "at": "2026-11-14T00:04:32Z"
+      },
+      {
         "repo": "astondg/apple-grove",
         "label": "TribeRide",
         "message": "Jotcal: measure the window shape without the on-screen keyboard",
@@ -98,27 +119,6 @@
         "message": "Jotcal: Quick Add no longer autofocuses on iPad, so the Pencil can write in it",
         "url": "https://github.com/astondg/apple-grove/commit/fb76fc603f483b63cce279a7dd865ee3e27c238b",
         "at": "2026-11-13T03:29:41Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(ai): check day feasibility for Assist suggestions and moves (#1398)",
-        "url": "https://github.com/astondg/trip-planner/commit/f6744670c1f8cea53f7e8b71a7d6df6f0bf75fc8",
-        "at": "2026-11-12T19:30:04Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "feat(support): a reviewed playbook of canned replies (#1385) (#1399)",
-        "url": "https://github.com/astondg/trip-planner/commit/8be5743f47da46f60097f1f229aa1d1ce7483280",
-        "at": "2026-11-12T18:43:00Z"
-      },
-      {
-        "repo": "astondg/trip-planner",
-        "label": "aitrips.io",
-        "message": "fix(ai): tier-gate and meter assist's Google place lookups (#1388) (#1397)",
-        "url": "https://github.com/astondg/trip-planner/commit/d2a8f31a1ae3a57ae4751158364ea9a7914d71f1",
-        "at": "2026-11-12T10:49:44Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-14T00:25:35.201Z"
+      "checkedAt": "2026-11-14T06:15:17.526Z"
     },
     {
       "name": "JotCal",
