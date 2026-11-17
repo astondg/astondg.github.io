@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:17:07.057Z",
+  "generatedAt": "2026-11-17T12:14:22.673Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-17T00:26:46Z"
+        "pushedAt": "2026-11-17T06:17:08Z"
       },
       {
         "name": "next-departure",
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-17T06:17:05.312Z"
+      "checkedAt": "2026-11-17T12:14:21.293Z"
     },
     {
       "name": "JotCal",
