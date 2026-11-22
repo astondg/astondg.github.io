@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:15:47.665Z",
+  "generatedAt": "2026-11-22T12:13:14.606Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-22T00:28:34Z"
+        "pushedAt": "2026-11-22T06:15:48Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "fix(trips): a connector only covers the gap it connects (#1400) (#1402)",
+        "url": "https://github.com/astondg/trip-planner/commit/cf903a17ada0d1302c4b0803a396a1a83a26c565",
+        "at": "2026-11-22T09:34:45Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
+        "message": "ci(e2e): pin the smoke job to ubuntu-24.04 (#1403)",
+        "url": "https://github.com/astondg/trip-planner/commit/eef578d999415e294c28ec226417040529d3dd86",
+        "at": "2026-11-22T08:17:01Z"
+      },
+      {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
         "message": "Android 1.4.9 (versionCode 32): version bump and changelogs",
@@ -105,20 +119,6 @@
         "message": "Jotcal: measure the window shape without the on-screen keyboard",
         "url": "https://github.com/astondg/apple-grove/commit/05d4248fce402185ab85701e152fccb94bd4e46e",
         "at": "2026-11-13T06:10:14Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal 1.4.7: release notes",
-        "url": "https://github.com/astondg/apple-grove/commit/db92439aa2099aa514968000f57de9a8d19c150f",
-        "at": "2026-11-13T03:50:30Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: Quick Add no longer autofocuses on iPad, so the Pencil can write in it",
-        "url": "https://github.com/astondg/apple-grove/commit/fb76fc603f483b63cce279a7dd865ee3e27c238b",
-        "at": "2026-11-13T03:29:41Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-22T06:15:46.008Z"
+      "checkedAt": "2026-11-22T12:13:13.533Z"
     },
     {
       "name": "JotCal",
