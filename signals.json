@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:24:37.450Z",
+  "generatedAt": "2026-11-23T12:15:46.354Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-23T00:29:15Z"
+        "pushedAt": "2026-11-23T06:24:38Z"
       },
       {
         "name": "next-departure",
@@ -81,6 +81,13 @@
       {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
+        "message": "feat(trips): suggest the onward leg from an arrival connector (#1401) (#1404)",
+        "url": "https://github.com/astondg/trip-planner/commit/ce21034f88d9cc708d5e03b8c5213ad3ff56d88a",
+        "at": "2026-11-23T11:32:16Z"
+      },
+      {
+        "repo": "astondg/trip-planner",
+        "label": "aitrips.io",
         "message": "fix(trips): a connector only covers the gap it connects (#1400) (#1402)",
         "url": "https://github.com/astondg/trip-planner/commit/cf903a17ada0d1302c4b0803a396a1a83a26c565",
         "at": "2026-11-22T09:34:45Z"
@@ -112,13 +119,6 @@
         "message": "Android 1.4.8 (versionCode 31): version bump and changelogs",
         "url": "https://github.com/astondg/home-dashboard/commit/ff4a1d7054dad7c34d162b1734f64ffed1087913",
         "at": "2026-11-14T06:52:57Z"
-      },
-      {
-        "repo": "astondg/apple-grove",
-        "label": "TribeRide",
-        "message": "Jotcal: measure the window shape without the on-screen keyboard",
-        "url": "https://github.com/astondg/apple-grove/commit/05d4248fce402185ab85701e152fccb94bd4e46e",
-        "at": "2026-11-13T06:10:14Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-23T06:24:36.604Z"
+      "checkedAt": "2026-11-23T12:15:45.268Z"
     },
     {
       "name": "JotCal",
