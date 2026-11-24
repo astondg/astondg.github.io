@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:17:55.904Z",
+  "generatedAt": "2026-11-24T12:14:57.997Z",
   "version": 1,
   "github": {
     "user": "astondg",
@@ -11,7 +11,7 @@
         "description": "",
         "language": "HTML",
         "stars": 0,
-        "pushedAt": "2026-11-24T00:25:02Z"
+        "pushedAt": "2026-11-24T06:17:56Z"
       },
       {
         "name": "next-departure",
@@ -79,6 +79,20 @@
     ],
     "recent": [
       {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "1.4.10 changelogs: match canon (no trailing newline)",
+        "url": "https://github.com/astondg/home-dashboard/commit/ace54f34c3a98ba8b500068a41ce062c7351c7c0",
+        "at": "2026-11-24T11:45:35Z"
+      },
+      {
+        "repo": "astondg/home-dashboard",
+        "label": "JotCal",
+        "message": "Android 1.4.10 (versionCode 33): version bump and changelogs",
+        "url": "https://github.com/astondg/home-dashboard/commit/be56b9c28a1860226aba63d6a097f7b2e7a235a1",
+        "at": "2026-11-23T20:54:13Z"
+      },
+      {
         "repo": "astondg/trip-planner",
         "label": "aitrips.io",
         "message": "feat(trips): suggest the onward leg from an arrival connector (#1401) (#1404)",
@@ -102,23 +116,9 @@
       {
         "repo": "astondg/home-dashboard",
         "label": "JotCal",
-        "message": "Android 1.4.9 (versionCode 32): version bump and changelogs",
-        "url": "https://github.com/astondg/home-dashboard/commit/13a31df98990f502edac0d74e930c98417b41b01",
-        "at": "2026-11-15T00:32:40Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Daybook: fix tasks that couldn't be ticked, stray tasks from pen taps and a wrong write target",
-        "url": "https://github.com/astondg/home-dashboard/commit/7d97c07f8a008889147a39712049c193c1aaf6cf",
-        "at": "2026-11-15T00:32:03Z"
-      },
-      {
-        "repo": "astondg/home-dashboard",
-        "label": "JotCal",
-        "message": "Android 1.4.8 (versionCode 31): version bump and changelogs",
-        "url": "https://github.com/astondg/home-dashboard/commit/ff4a1d7054dad7c34d162b1734f64ffed1087913",
-        "at": "2026-11-14T06:52:57Z"
+        "message": "WIP: stop Boox raw pen capture while the app is in the background, plus handoff doc",
+        "url": "https://github.com/astondg/home-dashboard/commit/5da1ae6c36aeb80b608c5f57b2b773b0db834910",
+        "at": "2026-11-15T02:30:35Z"
       }
     ]
   },
@@ -128,7 +128,7 @@
       "url": "https://aitrips.io",
       "status": "live",
       "reachable": true,
-      "checkedAt": "2026-11-24T06:17:54.643Z"
+      "checkedAt": "2026-11-24T12:14:56.389Z"
     },
     {
       "name": "JotCal",
